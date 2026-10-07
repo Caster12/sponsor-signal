@@ -1,0 +1,27 @@
+{
+  "name": "sponsor-signal",
+  "version": "0.1.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "esbuild extension/src/sidepanel.js --bundle --format=iife --target=chrome116 --outfile=extension/dist/sidepanel.js",
+    "build:index": "node scripts/build_index.mjs",
+    "test": "node --test test/unit.test.mjs",
+    "examples": "node test/run_examples.mjs",
+    "match": "node test/run_match.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Chrome extension that reads one job posting and shows what it says about visa sponsorship next to the employer's public LCA record.",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.132.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "private": true,
+  "type": "module"
+}

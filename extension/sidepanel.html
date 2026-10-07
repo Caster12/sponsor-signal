@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Sponsor Signal</title>
+  <link rel="stylesheet" href="sidepanel.css">
+</head>
+<body>
+  <header>
+    <h1>Sponsor Signal</h1>
+    <a href="options.html" target="_blank" id="settings">Settings</a>
+  </header>
+
+  <p id="status" role="status">Open a job posting and click the Sponsor Signal button in the toolbar.</p>
+
+  <article id="card" hidden>
+    <div id="label"></div>
+    <div id="confidence"></div>
+    <blockquote id="quote"></blockquote>
+    <p id="nudge" hidden></p>
+    <p id="guard" hidden></p>
+    <ul id="flags"></ul>
+    <p id="role"></p>
+    <h2 id="history-heading"></h2>
+    <ul id="history"></ul>
+    <p id="record-note" hidden></p>
+  </article>
+
+  <details id="paste">
+    <summary>Paste the posting text instead</summary>
+    <textarea id="paste-text" rows="10" placeholder="Paste the full job description here"></textarea>
+    <button id="paste-go" type="button">Check pasted text</button>
+  </details>
+
+  <script src="dist/sidepanel.js"></script>
+</body>
+</html>

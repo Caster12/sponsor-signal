@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Sponsor Signal settings</title>
+  <link rel="stylesheet" href="sidepanel.css">
+</head>
+<body>
+  <h1>Sponsor Signal settings</h1>
+  <p>
+    <label for="key">Anthropic API key</label><br>
+    <input id="key" type="password" size="50" autocomplete="off" placeholder="sk-ant-…">
+  </p>
+  <button id="save" type="button">Save</button>
+  <span id="saved" role="status"></span>
+  <p id="status">
+    The key is stored in this browser only and is sent only to api.anthropic.com, together with the
+    text of each posting you check.
+  </p>
+  <script src="options.js"></script>
+</body>
+</html>

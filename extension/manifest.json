@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Sponsor Signal",
+  "version": "0.1.0",
+  "description": "Reads the job posting you have open and shows what it says about visa sponsorship, next to the employer's public LCA record.",
+  "minimum_chrome_version": "116",
+  "permissions": ["activeTab", "scripting", "sidePanel", "storage"],
+  "host_permissions": ["https://api.anthropic.com/*"],
+  "action": { "default_title": "Check this posting with Sponsor Signal" },
+  "background": { "service_worker": "background.js" },
+  "side_panel": { "default_path": "sidepanel.html" },
+  "options_page": "options.html"
+}

@@ -1,0 +1,30 @@
+{
+  "note": "Synthetic postings written for testing. The sponsorship sentence in each comes from the spec's five examples. None is a real posting. Employers 2, 3 and 4 are stand-ins chosen so the lookup runs against real DOL records; the spec only says 'a bank', 'a defense contractor' and 'a consulting firm'. Employer 5 is invented.",
+  "examples": [
+    {
+      "id": 1,
+      "expectedLabel": "sponsors",
+      "text": "Meta\nData Scientist II, Ads\nMenlo Park, CA\n\nThe Ads Data Science team works with product and engineering to measure and improve how advertisers reach people across our apps. You will design experiments, build metrics, and turn large datasets into product decisions.\n\nResponsibilities\n- Define and track success metrics for new ads products\n- Design and analyze A/B tests\n- Partner with engineers to build data pipelines\n\nMinimum qualifications\n- Master's degree in a quantitative field\n- 2+ years of experience with SQL and Python or R\n\nWe will sponsor H-1B visas for qualified candidates.\n\nMeta is proud to be an Equal Employment Opportunity employer."
+    },
+    {
+      "id": 2,
+      "expectedLabel": "unclear",
+      "text": "JPMorgan Chase & Co.\nQuantitative Analyst\nNew York, NY\n\nJoin the Quantitative Research group supporting the rates trading desk. You will develop pricing and risk models and work with traders and technologists to put them into production.\n\nWhat you will do\n- Build and validate derivative pricing models\n- Analyze market data to support trading decisions\n- Write production-quality Python and C++\n\nRequired qualifications\n- Advanced degree in mathematics, physics, statistics, or a related field\n- Strong programming skills\n\nMust be authorized to work in the United States on a permanent basis.\n\nJPMorgan Chase is an equal opportunity employer."
+    },
+    {
+      "id": 3,
+      "expectedLabel": "citizenship_or_clearance_required",
+      "text": "Lockheed Martin\nML Engineer\nFort Worth, TX\n\nOur Aeronautics team is looking for a machine learning engineer to build perception and sensor fusion models for advanced aircraft programs.\n\nWhat you will do\n- Train and evaluate deep learning models on sensor data\n- Deploy models to embedded hardware\n- Document results for program reviews\n\nBasic qualifications\n- Bachelor's degree in computer science or a related discipline\n- Experience with PyTorch or TensorFlow\n\nU.S. persons only. Active Secret clearance required.\n\nLockheed Martin is an equal opportunity employer."
+    },
+    {
+      "id": 4,
+      "expectedLabel": "silent",
+      "text": "Deloitte\nAssociate Consultant\nChicago, IL\n\nAs an Associate Consultant you will join client teams solving strategy and operations problems for large organizations. You will gather and analyze data, build models and presentations, and help present recommendations to client leadership.\n\nWhat you will do\n- Conduct research and quantitative analysis\n- Prepare client-ready slides and reports\n- Support workshops and interviews with client stakeholders\n\nQualifications\n- Bachelor's or master's degree\n- Strong analytical and communication skills\n- Willingness to travel up to 50 percent\n\nApply by submitting your resume and transcript."
+    },
+    {
+      "id": 5,
+      "expectedLabel": "does_not_sponsor",
+      "text": "Brightloop Labs\nData Analyst\nAustin, TX (hybrid)\n\nBrightloop Labs is a 20-person startup building scheduling software for independent clinics. We are hiring our first data analyst to own reporting and help the product team understand how customers use the app.\n\nWhat you will do\n- Build dashboards in Metabase\n- Write SQL to answer product and sales questions\n- Set up event tracking with engineering\n\nWhat we are looking for\n- 1 to 3 years in an analytics role\n- Strong SQL\n\nSponsorship is not available for this role, now or in the future."
+    }
+  ]
+}

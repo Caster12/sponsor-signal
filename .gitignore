@@ -1,0 +1,5 @@
+node_modules/
+.venv/
+/data/
+extension/dist/
+.DS_Store
