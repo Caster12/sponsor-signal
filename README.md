@@ -13,7 +13,7 @@ Team: Khushi Advani, Vishal Menon. Product Management with AI, Fall 2026.
 
 | Step | Where | What happens |
 | --- | --- | --- |
-| Capture | [extension/background.js](extension/background.js) | On toolbar click, reads the text of the open tab only. A paste box is the fallback. |
+| Capture | [extension/background.js](extension/background.js) | On toolbar click, reads the text of the open tab only. A paste box is the fallback. Optional: the "Auto-check when I switch tabs" box in the side panel (off by default, asks Chrome for permission to read pages) checks each tab you switch to, and sends its text to the API only if it reads like a job posting. |
 | Classify and extract | [src/classify.js](src/classify.js) | One Claude call returns a label, the quote, a confidence score, the employer, and a normalized title. Code then checks the quote is in the posting and enforces the rule that a posting excluding sponsorship or requiring citizenship is never labeled Sponsors. |
 | Match | [src/match.js](src/match.js) | Plain code looks the employer and title up in an index built from the DOL files. |
 | Card | [src/card.js](src/card.js), [extension/src/sidepanel.js](extension/src/sidepanel.js) | Builds and renders the card. |
