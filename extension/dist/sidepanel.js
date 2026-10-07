@@ -3138,7 +3138,7 @@
     };
   }
   function createMiddlewareContext(options, client) {
-    const cache = /* @__PURE__ */ new WeakMap();
+    const cache2 = /* @__PURE__ */ new WeakMap();
     return {
       options,
       // Resolved per chain, so changes to the client's `logLevel`/`logger`
@@ -3148,10 +3148,10 @@
         if (options?.stream && response.ok) {
           return parseMiddlewareResponse(response, options, client);
         }
-        let parsed = cache.get(response);
+        let parsed = cache2.get(response);
         if (!parsed) {
           parsed = parseMiddlewareResponse(response, options, client);
-          cache.set(response, parsed);
+          cache2.set(response, parsed);
         }
         return parsed;
       }
@@ -6128,7 +6128,7 @@ Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resour
           component: "work-poller",
           environment_id: this.environmentId
         });
-        const idle = new IdleLog(log, this.environmentId);
+        const idle2 = new IdleLog(log, this.environmentId);
         try {
           let attempt = 0;
           while (!__classPrivateFieldGet(this, _WorkPoller_controller, "f").signal.aborted) {
@@ -6156,11 +6156,11 @@ Please migrate to a newer model. Visit https://docs.anthropic.com/en/docs/resour
             if (work == null) {
               if (__classPrivateFieldGet(this, _WorkPoller_drain, "f"))
                 return;
-              idle.onEmptyPoll();
+              idle2.onEmptyPoll();
               await sleep(jitter(1e3, 3e3), __classPrivateFieldGet(this, _WorkPoller_controller, "f").signal);
               continue;
             }
-            idle.onClaim();
+            idle2.onClaim();
             log.info("claimed work", {
               component: "work-poller",
               environment_id: this.environmentId,
@@ -37057,21 +37057,21 @@ Set the \`cycles\` parameter to \`"ref"\` to resolve cyclical schemas with defs.
       const h = fnOrHandlers[node2._zod.def.type];
       return h ? h(node2, rewritten) : node2;
     };
-    const cache = /* @__PURE__ */ new Map();
+    const cache2 = /* @__PURE__ */ new Map();
     function run2(s) {
-      const cached2 = cache.get(s);
+      const cached2 = cache2.get(s);
       if (cached2 === RESOLVING) {
         return new $ZodLazy({
           type: "lazy",
-          getter: () => cache.get(s)
+          getter: () => cache2.get(s)
         });
       }
       if (cached2 !== void 0)
         return cached2;
-      cache.set(s, RESOLVING);
+      cache2.set(s, RESOLVING);
       const inner = mapInner(s);
       const mapped = fn(inner, inner !== s);
-      cache.set(s, mapped);
+      cache2.set(s, mapped);
       return mapped;
     }
     function mapInner(s) {
@@ -37577,6 +37577,7 @@ ${postingText}
   };
   var $ = (id) => document.getElementById(id);
   var run = 0;
+  var cache = /* @__PURE__ */ new Map();
   function setStatus(text, isError = false) {
     $("status").textContent = text;
     $("status").classList.toggle("error", isError);
@@ -37644,7 +37645,7 @@ ${postingText}
     if (err instanceof Anthropic.APIError) return `The API returned an error (${err.status}). Try again.`;
     return err.message || String(err);
   }
-  async function check2(text) {
+  async function check2(text, url2) {
     const mine = ++run;
     $("card").hidden = true;
     if (text.trim().length < MIN_POSTING_CHARS) {
@@ -37667,7 +37668,9 @@ ${postingText}
         await loadMeta()
       );
       if (mine !== run) return;
-      render(buildCard(result, history));
+      const card = buildCard(result, history);
+      if (url2) cache.set(url2, card);
+      render(card);
       setStatus("");
     } catch (err) {
       if (mine === run) setStatus(explain(err), true);
@@ -37690,4 +37693,89 @@ ${postingText}
     if (capture && Date.now() - capture.at < 15e3) onCapture(capture);
   });
   $("paste-go").addEventListener("click", () => check2($("paste-text").value));
+  var ORIGINS = ["http://*/*", "https://*/*"];
+  var JOB_WORDS = /\b(responsibilities|qualifications|requirements|job description|about the role|about the job|what you['’]ll do|apply now|apply for this job|equal opportunity|years of experience|benefits)\b/gi;
+  var autoTimer;
+  var autoToken = 0;
+  var inflightUrl = "";
+  function readPage() {
+    const pick2 = document.querySelector("main, [role=main], article");
+    const main = pick2 ? pick2.innerText.trim() : "";
+    return main.length >= 400 ? main : document.body.innerText.trim();
+  }
+  function looksLikeJobPosting(text) {
+    const hits = new Set((text.match(JOB_WORDS) || []).map((w) => w.toLowerCase()));
+    return hits.size >= 3;
+  }
+  function idle(message) {
+    run++;
+    inflightUrl = "";
+    $("card").hidden = true;
+    setStatus(message);
+  }
+  async function autoCheck(tabId) {
+    const { autoCheck: on } = await chrome.storage.local.get("autoCheck");
+    if (!on) return;
+    const token = ++autoToken;
+    let tab;
+    try {
+      tab = await chrome.tabs.get(tabId);
+    } catch {
+      return;
+    }
+    if (token !== autoToken || !tab.active) return;
+    if (!/^https?:/.test(tab.url || "")) return idle("Switch to a job posting and it will be checked automatically.");
+    if (cache.has(tab.url)) {
+      run++;
+      render(cache.get(tab.url));
+      setStatus("");
+      return;
+    }
+    if (inflightUrl === tab.url) return;
+    let text = "";
+    try {
+      const [r] = await chrome.scripting.executeScript({ target: { tabId }, func: readPage });
+      text = r && r.result || "";
+    } catch {
+      return idle("This page cannot be read by the extension.");
+    }
+    if (token !== autoToken) return;
+    if (!looksLikeJobPosting(text)) return idle("This tab does not look like a job posting. Nothing was sent to the API.");
+    inflightUrl = tab.url;
+    await check2(text, tab.url);
+    if (inflightUrl === tab.url) inflightUrl = "";
+  }
+  function scheduleAuto(tabId) {
+    clearTimeout(autoTimer);
+    autoTimer = setTimeout(() => autoCheck(tabId), 700);
+  }
+  chrome.tabs.onActivated.addListener(({ tabId }) => scheduleAuto(tabId));
+  chrome.tabs.onUpdated.addListener((tabId, info, tab) => {
+    if (tab.active && (info.status === "complete" || info.url)) scheduleAuto(tabId);
+  });
+  async function initAutoToggle() {
+    const box = $("auto");
+    const { autoCheck: on } = await chrome.storage.local.get("autoCheck");
+    const granted = await chrome.permissions.contains({ origins: ORIGINS });
+    box.checked = !!on && granted;
+    if (on && !granted) await chrome.storage.local.set({ autoCheck: false });
+    box.addEventListener("change", async () => {
+      if (box.checked) {
+        const ok = await chrome.permissions.request({ origins: ORIGINS });
+        box.checked = ok;
+        await chrome.storage.local.set({ autoCheck: ok });
+        if (ok) {
+          const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+          if (tab) autoCheck(tab.id);
+        } else {
+          setStatus("Permission was not granted, so automatic checking stays off.", true);
+        }
+      } else {
+        await chrome.storage.local.set({ autoCheck: false });
+        await chrome.permissions.remove({ origins: ORIGINS });
+        setStatus("Automatic checking is off. Click the toolbar button to check a posting.");
+      }
+    });
+  }
+  initAutoToggle();
 })();

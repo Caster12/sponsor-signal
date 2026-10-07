@@ -15,6 +15,7 @@ const LABEL_ICON = {
 };
 const $ = (id) => document.getElementById(id);
 let run = 0;
+const cache = new Map(); // tab URL -> card, so switching back to a checked tab costs no API call
 
 function setStatus(text, isError = false) {
   $("status").textContent = text;
@@ -91,7 +92,7 @@ function explain(err) {
   return err.message || String(err);
 }
 
-async function check(text) {
+async function check(text, url) {
   const mine = ++run;
   $("card").hidden = true;
   if (text.trim().length < MIN_POSTING_CHARS) {
@@ -114,7 +115,9 @@ async function check(text) {
       await loadMeta(),
     );
     if (mine !== run) return;
-    render(buildCard(result, history));
+    const card = buildCard(result, history);
+    if (url) cache.set(url, card);
+    render(card);
     setStatus("");
   } catch (err) {
     if (mine === run) setStatus(explain(err), true);
@@ -141,3 +144,101 @@ chrome.storage.session.get("capture").then(({ capture }) => {
 });
 
 $("paste-go").addEventListener("click", () => check($("paste-text").value));
+
+// Auto-check on tab switch. Off by default: it needs permission to read pages without a toolbar click.
+const ORIGINS = ["http://*/*", "https://*/*"];
+const JOB_WORDS =
+  /\b(responsibilities|qualifications|requirements|job description|about the role|about the job|what you['’]ll do|apply now|apply for this job|equal opportunity|years of experience|benefits)\b/gi;
+let autoTimer;
+let autoToken = 0;
+let inflightUrl = "";
+
+// Same logic as readPage in background.js; this copy runs when no toolbar click happened.
+function readPage() {
+  const pick = document.querySelector("main, [role=main], article");
+  const main = pick ? pick.innerText.trim() : "";
+  return main.length >= 400 ? main : document.body.innerText.trim();
+}
+
+// Page text goes to the API only when it reads like a job posting, so a tab switch never sends email, banking, etc.
+function looksLikeJobPosting(text) {
+  const hits = new Set((text.match(JOB_WORDS) || []).map((w) => w.toLowerCase()));
+  return hits.size >= 3;
+}
+
+function idle(message) {
+  run++;
+  inflightUrl = "";
+  $("card").hidden = true;
+  setStatus(message);
+}
+
+async function autoCheck(tabId) {
+  const { autoCheck: on } = await chrome.storage.local.get("autoCheck");
+  if (!on) return;
+  const token = ++autoToken;
+  let tab;
+  try {
+    tab = await chrome.tabs.get(tabId);
+  } catch {
+    return;
+  }
+  if (token !== autoToken || !tab.active) return;
+  if (!/^https?:/.test(tab.url || "")) return idle("Switch to a job posting and it will be checked automatically.");
+  if (cache.has(tab.url)) {
+    run++;
+    render(cache.get(tab.url));
+    setStatus("");
+    return;
+  }
+  if (inflightUrl === tab.url) return;
+  let text = "";
+  try {
+    const [r] = await chrome.scripting.executeScript({ target: { tabId }, func: readPage });
+    text = (r && r.result) || "";
+  } catch {
+    return idle("This page cannot be read by the extension.");
+  }
+  if (token !== autoToken) return;
+  if (!looksLikeJobPosting(text)) return idle("This tab does not look like a job posting. Nothing was sent to the API.");
+  inflightUrl = tab.url;
+  await check(text, tab.url);
+  if (inflightUrl === tab.url) inflightUrl = "";
+}
+
+function scheduleAuto(tabId) {
+  clearTimeout(autoTimer);
+  autoTimer = setTimeout(() => autoCheck(tabId), 700);
+}
+
+chrome.tabs.onActivated.addListener(({ tabId }) => scheduleAuto(tabId));
+chrome.tabs.onUpdated.addListener((tabId, info, tab) => {
+  if (tab.active && (info.status === "complete" || info.url)) scheduleAuto(tabId);
+});
+
+async function initAutoToggle() {
+  const box = $("auto");
+  const { autoCheck: on } = await chrome.storage.local.get("autoCheck");
+  const granted = await chrome.permissions.contains({ origins: ORIGINS });
+  box.checked = !!on && granted;
+  if (on && !granted) await chrome.storage.local.set({ autoCheck: false });
+  box.addEventListener("change", async () => {
+    if (box.checked) {
+      // Must run straight from the click so Chrome shows its permission prompt.
+      const ok = await chrome.permissions.request({ origins: ORIGINS });
+      box.checked = ok;
+      await chrome.storage.local.set({ autoCheck: ok });
+      if (ok) {
+        const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+        if (tab) autoCheck(tab.id);
+      } else {
+        setStatus("Permission was not granted, so automatic checking stays off.", true);
+      }
+    } else {
+      await chrome.storage.local.set({ autoCheck: false });
+      await chrome.permissions.remove({ origins: ORIGINS });
+      setStatus("Automatic checking is off. Click the toolbar button to check a posting.");
+    }
+  });
+}
+initAutoToggle();
