@@ -16,7 +16,7 @@ An international MS student in recruiting season with about 30 postings open and
 
 ## Flow
 
-1. **Capture.** On a job page, the student clicks the Chrome extension, which pulls the job description text from the page they have open. It reads only that page, only on click. If extraction fails, the student can paste the text instead.
+1. **Capture.** On a job page, the student clicks the Chrome extension, which pulls the job description text from the page they have open. By default it reads only that page, only on click. If extraction fails, the student can paste the text instead. Optionally, the student can turn on "Auto-check when I switch tabs" in the side panel. This is off by default and asks Chrome for permission to read pages. When on, the extension reads the tab the student switches to and sends its text to the model only if it looks like a job posting (at least three distinct job-posting keywords); other tabs are not sent. Results are cached per URL.
 2. **Classify.** The model assigns one label: sponsors, does not sponsor, citizenship or clearance required, silent, or unclear. It quotes the exact words behind the label and gives a confidence score. Conflicting or ambiguous wording (for example, "authorized to work on a permanent basis") is labeled unclear; there is no tie-break toward any other label. One hard rule: a posting that explicitly excludes sponsorship or requires citizenship is never labeled sponsors.
 3. **Extract.** The model pulls the employer name and a normalized job title.
 4. **Match.** Code, not the model, matches employer and title to Department of Labor records. Source is the H-1B LCA disclosure files, last 3 fiscal years.
