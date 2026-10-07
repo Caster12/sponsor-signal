@@ -64,6 +64,7 @@ test("history counts only similar titles", async () => {
   assert.equal(h.similarCount, 7);
   assert.deepEqual(h.byYear, [4, 2, 1]);
   assert.equal(h.employerTotal, 22);
+  assert.deepEqual(h.employerByYear, [9, 7, 6]);
 });
 
 test("unknown employer reads 'no records found' and never 'does not sponsor'", async () => {

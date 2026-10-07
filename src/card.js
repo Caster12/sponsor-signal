@@ -7,6 +7,7 @@ export const RECORD_NOTE =
   "An LCA certification is a Labor Department step an employer takes before an H-1B petition. It is not a petition, an approval, or a hire.";
 
 const plural = (n, word) => `${n.toLocaleString("en-US")} ${word}${n === 1 ? "" : "s"}`;
+const lastOf = (arr) => arr[arr.length - 1];
 
 function historyLines(h) {
   if (h.status === "no_records") {
@@ -16,14 +17,42 @@ function historyLines(h) {
   }
   const lines = [`Matched to ${h.matchedEmployer}`];
   if (h.status === "no_similar_roles") {
-    lines.push(`${plural(h.employerTotal, "LCA certification")} for this employer, none for similar roles.`);
+    lines.push("None of this employer's LCA certifications were for similar roles.");
   } else {
-    const years = h.years.map((y, i) => `${y}: ${h.byYear[i].toLocaleString("en-US")}`).join(", ");
-    lines.push(`${plural(h.similarCount, "LCA certification")} for similar roles (${years}).`);
     lines.push(`Typical titles: ${h.typicalTitles.join("; ")}`);
   }
   if (h.otherNames.length) lines.push(`Other similar names in the records, not counted: ${h.otherNames.join("; ")}`);
   return lines;
+}
+
+// Numeric stat tiles for the side panel. employerTotal/employerByYear are company-wide, across
+// every title on file; similarCount/byYear are filtered to titles similar to the posting's role.
+// Both come straight from the DOL LCA disclosure data: there is no employee-count field in that
+// data, so a headcount stat is never shown here (see docs/spec.md, Data sources).
+function historyStats(h) {
+  if (h.status === "no_records") return [];
+  const latestYear = lastOf(h.years);
+  const span = h.years.length > 1 ? `${h.years[0]}–${latestYear}` : latestYear;
+  const stats = [
+    { label: "Company-wide LCA filings", value: h.employerTotal, hint: `all titles, ${span}` },
+  ];
+  if (h.status === "similar_roles") {
+    stats.push({ label: "Similar-role filings", value: h.similarCount, hint: span });
+    stats.push({
+      label: `Latest cycle · ${latestYear}`,
+      value: lastOf(h.byYear),
+      hint: "similar roles",
+      latest: true,
+    });
+  } else {
+    stats.push({
+      label: `Latest cycle · ${latestYear}`,
+      value: lastOf(h.employerByYear),
+      hint: "company-wide — no similar-role matches",
+      latest: true,
+    });
+  }
+  return stats;
 }
 
 export function buildCard(c, h) {
@@ -44,6 +73,7 @@ export function buildCard(c, h) {
     jobTitleNormalized: c.job_title_normalized,
     historyHeading: "History for similar roles",
     history: historyLines(h),
+    stats: historyStats(h),
     recordNote: h.status === "no_records" ? null : RECORD_NOTE,
   };
 }
@@ -59,6 +89,7 @@ export function renderCardText(card) {
   for (const f of card.flags) lines.push(`Flag: ${f}`);
   lines.push("", `${card.employer || "(employer not named)"} · ${card.jobTitle}`, `${card.historyHeading}:`);
   for (const l of card.history) lines.push(`  ${l}`);
+  for (const s of card.stats) lines.push(`  ${s.label}: ${s.value.toLocaleString("en-US")} (${s.hint})`);
   if (card.recordNote) lines.push(`  ${card.recordNote}`);
   return lines.join("\n");
 }

@@ -48,8 +48,10 @@ export async function matchHistory({ employerName, jobTitle }, loadShard, meta) 
 
   const posting = titleTokens(jobTitle);
   const byYear = meta.years.map(() => 0);
+  const employerByYear = meta.years.map(() => 0);
   const similar = [];
   for (const [title, counts] of Object.entries(entry.t)) {
+    counts.forEach((c, i) => (employerByYear[i] += c));
     if (!titlesSimilar(posting, titleTokens(title))) continue;
     counts.forEach((c, i) => (byYear[i] += c));
     similar.push([title, counts.reduce((a, b) => a + b, 0)]);
@@ -61,6 +63,7 @@ export async function matchHistory({ employerName, jobTitle }, loadShard, meta) 
     matchedEmployer: entry.n,
     otherNames: others,
     employerTotal: total(entry),
+    employerByYear,
     similarCount,
     byYear,
     years: meta.years,

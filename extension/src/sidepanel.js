@@ -5,6 +5,14 @@ import { classifyPosting } from "../../src/classify.js";
 import { matchHistory } from "../../src/match.js";
 
 const MIN_POSTING_CHARS = 200;
+// Same signal as the banner color, spelled out so it never depends on color alone.
+const LABEL_ICON = {
+  sponsors: "✓",
+  does_not_sponsor: "✕",
+  citizenship_or_clearance_required: "!",
+  silent: "–",
+  unclear: "?",
+};
 const $ = (id) => document.getElementById(id);
 let run = 0;
 
@@ -23,9 +31,31 @@ function showOptional(id, text) {
   $(id).hidden = !text;
 }
 
+function renderStats(stats) {
+  $("stats").replaceChildren(
+    ...stats.map((s) => {
+      const tile = document.createElement("div");
+      tile.className = s.latest ? "stat stat-latest" : "stat";
+      const value = document.createElement("div");
+      value.className = "stat-value";
+      value.textContent = s.value.toLocaleString("en-US");
+      const label = document.createElement("div");
+      label.className = "stat-label";
+      label.textContent = s.label;
+      const hint = document.createElement("div");
+      hint.className = "stat-hint";
+      hint.textContent = s.hint;
+      tile.append(value, label, hint);
+      return tile;
+    }),
+  );
+  $("stats").hidden = stats.length === 0;
+}
+
 function render(card) {
+  $("banner").dataset.label = card.label;
+  $("banner-icon").textContent = LABEL_ICON[card.label] || "";
   $("label").textContent = card.labelText;
-  $("label").dataset.label = card.label;
   $("confidence").textContent = `Confidence ${card.confidence}%`;
   $("quote").textContent = card.quoteText;
   showOptional("nudge", card.nudge);
@@ -33,6 +63,7 @@ function render(card) {
   fill("flags", card.flags);
   $("role").textContent = `${card.employer || "Employer not named"} · ${card.jobTitle}`;
   $("history-heading").textContent = card.historyHeading;
+  renderStats(card.stats);
   fill("history", card.history);
   showOptional("record-note", card.recordNote);
   $("card").hidden = false;
