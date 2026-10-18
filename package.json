@@ -9,7 +9,8 @@
     "build:index": "node scripts/build_index.mjs",
     "test": "node --test test/unit.test.mjs",
     "examples": "node test/run_examples.mjs",
-    "match": "node test/run_match.mjs"
+    "match": "node test/run_match.mjs",
+    "eval:build": "node scripts/build_eval_set.mjs"
   },
   "keywords": [],
   "author": "",
