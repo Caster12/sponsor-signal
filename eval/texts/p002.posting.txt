@@ -1,0 +1,72 @@
+Know where you belong!
+
+Match Group is a leading provider of dating products across the globe. Our portfolio includes Tinder, Hinge, Match, Meetic, PlentyOfFish, OkCupid, The League, HER, and others, each designed to spark meaningful connections for singles worldwide. Creating a sense of belonging doesn’t stop at our products - it’s the foundation of every team we hire.
+
+When it comes to dating, the connection starts online, but the real magic happens once you meet in real life (IRL). We think the same is true for creating the best platforms, so we work together IRL 3 days/week.
+
+The Team Or Role
+
+Match Group’s Analytics Team is looking for a Data Scientist II with expertise in Marketing Analytics.
+
+Our analytics team serves the entire MG portfolio, acting as a center of excellence to standardize how we measure marketing performance across all our global brands, including industry leading names like Tinder and Hinge. We develop a deep understanding of the business and its data and establish close working relationships with all teams including Product, Marketing, Engineering, and Finance, so that we can provide recommendations and make proposals regarding prioritization of initiatives, marketing investments, A/B tests, and company performance.
+
+As a data scientist in this role, you will partner with Marketing teams at each of our BUs, providing support through advanced marketing measurement techniques, A/B test design and analysis, and data-driven insights through ad-hoc analyses, presentations, and automated reports and dashboards. This role will require extensive experience with SQL, data wrangling, statistics, econometric modeling, and A/B testing, as well as the ability to work in cross-functional teams to drive actionable insights. Experience with user growth and acquisition across multi-brand consumer products is a plus.
+
+Where You’ll Work
+
+This is a hybrid role and requires in-office collaboration three days per week. This position is located in NYC or Los Angeles.
+
+In This Role, You Will
+
+* Master and be responsible for analyzing marketing and business performance.
+* Build models better to understand the impact of our marketing investments and strategy
+* Find the “story” in the data and communicate insights and opportunities with executives and other internal teams.
+* Perform ongoing ad-hoc analyses to evaluate the efficiency of our marketing spend, build reporting infrastructure, and assist in making budgeting recommendations to optimize growth.
+* Integrate captured event data with other customer data sources, such as surveys, ad publishers, and app store data.
+* Support reporting and business intelligence needs of the entire Marketing team. 
+
+You’ll Need
+
+* 3+ years of relevant experience in analytics or data science
+* Experience building bayesian regressions and/or other marketing measurement techniques
+* Experience designing, executing, and measuring geo experiments and causal inference techniques
+* Ability to think objectively and interpret meaningful themes from quantitative and qualitative data
+* Ability to build constructive and effective relationships with a broad and diverse group of business partners
+* Ability to execute complex analytics projects where you have to determine salient questions in a complex ecosystem and present action-oriented conclusions
+* Proficiency with SQL required
+* Scripting skills, preferably in Python.
+* Knowledge of statistics, specifically experimental design and analysis
+* Proficiency in Microsoft Excel and Microsoft PowerPoint (or equivalents)
+* Familiarity with common marketing KPIs, metrics, and growth experiments 
+
+Differentiators
+
+* Curiosity about how things work, from both a business and technical perspective, leading to the identification and exploration of new strategic opportunities, potential improvements to our data infrastructure, and deepening our understanding of member behavior.
+* Proactive collaborator skilled in engaging with cross-functional teams (Marketing, Product, Engineering, Machine Learning) to influence decision-making, confidently voicing concerns and alternative perspectives
+* Ability to prioritize time across multiple projects and communicate timelines 
+
+Why Match Group?
+
+Benefits
+
+Our mission is simple – to help people find love and happiness! We love our employees too and understand the importance of all life's milestones. Here are some of the benefits we are proud to offer:
+
+Mind & Body– Medical, mental health, and wellness benefits to support your overall health and well-being
+
+Financial Wellness– Competitive compensation, 100% employer match on 401k contributions up to 10% (cap at $10,000), as well as an employee stock purchase program to help you feel supported in your financial security
+
+Unplug – Generous PTO and 14 paid holidays so you can unplug
+
+Career– Annual training allowance for professional development and ERG membership opportunities and events so you feel connected and empowered in your work
+
+Family – Families come in all shapes and sizes so we offer 20 weeks of 100% paid parental leave, fertility, adoption, and child care resources, as well as pet insurance and discounts
+
+Company Gatherings – We host company events where our employees get to know each other and build a sense of connection and belonging!
+
+We are proud to be an equal opportunity employer and we value the rich dynamics that diversity brings to our company. We do not discriminate on the basis of race, religion, color, creed, national origin, ancestry, disability, marital status, age, sexual orientation, sex (including pregnancy and sexual harassment), gender identity or expression, uniformed service or veteran status, genetic information, or any other legally protected characteristic. Period. 
+
+If you require a reasonable accommodation to participate in the hiring process — such as during pre-employment testing or interviews — please indicate this by selecting “Yes” in the accommodation request field. We’ll reach out to discuss your needs if you're selected for the interview stage. 
+
+#MG
+
+The salary range for this position is $130,000 - $160,000. Factors such as scope and responsibilities of the position, candidate's work experience, education/training, job-related skills, internal peer equity, as well as market and business considerations may influence base pay offered. This salary range is reflective of a position based in Los Angeles, CA OR New York, NY. This salary will be subject to a geographic adjustment (according to a specific city and state), if an authorization is granted to work outside of the location listed in this posting.

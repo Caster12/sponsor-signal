@@ -1,1 +1,2 @@
 {"id":"p001","label":"does_not_sponsor","quote":"Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions.","seen_model_output":true,"notes":"Labeled after seeing the extension's output. Treat as pilot, not blind."}
+{"id":"p002","label":"silent","quote":"no sponsorship language found","seen_model_output":true,"notes":"Labeled after seeing the extension output (screenshot showed Silent, 88%). Treat as pilot, not blind."}
