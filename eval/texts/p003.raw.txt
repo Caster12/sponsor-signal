@@ -1,0 +1,70 @@
+About Handshake AI
+
+Handshake AI is the fastest-growing, most critical, and most revenue-generating part of Handshake's business. We power expert-labeled data collection at scale, matching domain experts with leading AI companies to train frontier models—and we're already a top-three player in one of the fastest-growing sectors in AI: human data. We have the opportunity to do for the AI data economy what LinkedIn did for professional networking: become the default platform where the work happens.
+
+Why Join Handshake Now
+
+* Shape how every career evolves in the AI economy, at global scale, with impact your friends, family and peers can see and feel
+* Work hand-in-hand with world-class AI labs, Fortune 500 partners and the world's top educational institutions
+* Join a team with leadership from Scale AI, Meta, xAI, Notion, Coinbase, and Palantir, among others
+* Build a massive, fast-growing business with billions in revenue
+
+About The Role
+
+We’re looking for a highly motivated Data Scientist with strong SQL expertise to support analytics, measurement, and operational insights across our human data training workflows. You’ll work with messy, fast-moving data related to expert performance, task quality, throughput, and overall operational efficiency.
+
+This is a hands-on role with real ownership, close partnership with product and operations, and a steep growth curve for someone who executes well.
+
+What You’ll Do
+
+* Write advanced SQL to analyze large, complex datasets related to expert performance, task quality, and operational workflows.
+* Define, build, and maintain core metrics that measure data quality, throughput, productivity, and operational efficiency.
+* Partner with Product, Operations, and cross-functional stakeholders to answer high-impact business and product questions.
+* Conduct analyses that inform workflow design, task improvements, and operational decision-making.
+* Build dashboards, reporting, and self-serve analytics that enable fast, informed decisions.
+* Identify data gaps, inconsistencies, and quality issues, then partner with relevant teams to resolve them.
+* Translate ambiguous business questions into clear analyses and actionable recommendations.
+* Communicate findings and recommendations clearly to both technical and non-technical stakeholders.
+
+Desired Capabilities
+
+* 3–5 years of experience in Data Science, Product Analytics, Business Intelligence, or a related analytical role.
+* Expert-level SQL skills and experience working with large, complex datasets.
+* Strong analytical judgment and comfort working with imperfect, real-world data.
+* Experience defining metrics and using data to influence product or business decisions.
+* High ownership mindset and ability to independently drive complex work forward.
+* Strong communication skills and comfort partnering cross-functionally in a fast-paced environment.
+
+Extra Credit
+
+* Python experience for data analysis, such as pandas and notebooks.
+* Experience supporting operational, marketplace, quality, or workforce-related analytics.
+* Experience with experimentation, A/B testing, or metrics-driven product development.
+* Exposure to AI data workflows, data labeling, or evaluation processes.
+* Experience with analytics engineering, including building and maintaining DBT models.
+
+Perks
+
+* Handshake delivers benefits that help you feel supported—and thrive at work and in life.
+
+The below benefits are for full-time US employees.
+
+🎯Ownership:Equity in a fast-growing company
+
+💰Financial Wellness: 401(k) match, competitive compensation, financial coaching
+
+🍼Family Support:Paid parental leave, fertility benefits, parental coaching
+
+💝Wellbeing:Medical, dental, and vision, mental health support, wellness stipend
+
+📚Growth:Learning stipend, ongoing development
+
+💻Remote & Office:Internet, commuting, and free lunch/gym in our SF office
+
+🏝Time Off:Flexible PTO, 15 holidays + 2 flex days
+
+🤝Connection:Team outings & referral bonuses
+
+Explore our mission, values, and comprehensive US benefits at[joinhandshake.com/careers](https://www.linkedin.com/safety/go/?url=http%3A%2F%2Fjoinhandshake%2Ecom%2Fcareers&urlhash=s1zW&mt=nXt4Lm2kBfz73VaGlEuwfrXVMfmqxoN1OAHItmE81JahQ1CI0TrzoTyzMCTEUCA7hV_9y7TbVnW-DG3c6XdYJrgvRGQ&isSdui=true).
+
+Compensation Range: $135K - $180K
