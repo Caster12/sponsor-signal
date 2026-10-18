@@ -37472,10 +37472,10 @@ ${postingText}
     const latestYear = lastOf(h.years);
     const span = h.years.length > 1 ? `${h.years[0]}\u2013${latestYear}` : latestYear;
     const stats = [
-      { label: "Company-wide LCA filings", value: h.employerTotal, hint: `all titles, ${span}` }
+      { label: "Company-wide LCA certifications", value: h.employerTotal, hint: `all titles, ${span}` }
     ];
     if (h.status === "similar_roles") {
-      stats.push({ label: "Similar-role filings", value: h.similarCount, hint: span });
+      stats.push({ label: "Similar-role LCA certifications", value: h.similarCount, hint: span });
       stats.push({
         label: `Latest cycle \xB7 ${latestYear}`,
         value: lastOf(h.byYear),

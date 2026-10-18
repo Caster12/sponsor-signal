@@ -73,7 +73,7 @@ ul { margin: 4px 0; padding-left: 18px; }
 #flags { list-style: none; padding: 0; margin: 10px 0 0; display: flex; flex-wrap: wrap; gap: 6px; }
 #flags li { padding: 2px 9px; border: 1px solid var(--line); border-radius: 999px; font-size: 11px; background: var(--panel); }
 
-/* Stat tiles: company-wide filings, similar-role filings, latest fiscal cycle */
+/* Stat tiles: company-wide certifications, similar-role certifications, latest fiscal cycle */
 #stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(98px, 1fr)); gap: 8px; margin-bottom: 10px; }
 .stat { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; background: var(--panel); }
 .stat-value { font-size: 19px; font-weight: 700; line-height: 1.1; font-variant-numeric: tabular-nums; }
