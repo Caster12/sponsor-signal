@@ -30,6 +30,7 @@ Each label row has `id`, `label`, `quote` (the exact words, or `"no sponsorship 
 ## Codebook rules so far
 
 - The label comes from the posting's own words. A portal's structured field (for example 12twenty's "Work Authorization") is recorded in `meta.jsonl` as `portal_work_authorization` but does not decide the label.
+- Application-form screening questions on the page (for example "Will you now, or in the future, require visa sponsorship to maintain work eligibility?") are not the employer's posting wording and do not decide the label. Record the question in `meta.jsonl` as `page_screening_question`. If the extension quotes it, that is a model error, not the label (see p004).
 - "Will not pursue visa sponsorship" is `does_not_sponsor`, even when the same sentence also requires work eligibility.
 - Conflicting or ambiguous wording (for example "authorized to work on a permanent basis") is `unclear`. There is no tie-break toward another label.
 
