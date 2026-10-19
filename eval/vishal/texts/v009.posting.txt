@@ -1,0 +1,54 @@
+Data Scientist II
+
+Hi, we're Oscar. We're hiring a Data Scientist II to join our Data team.
+
+Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves - one that behaves like a doctor in the family.
+
+About the role:
+
+Oscar's data team is focused on pushing our understanding of this complex landscape of health care and insurance business. Insurance companies sit on a trove of data that is both broad and deep, spanning financial claims, clinical medical records, and rich product interaction data from our members. Connecting the dots across these datasets gives us unique insight into how the healthcare system functions and allows us to improve care coordination, better manage risk, build higher-performing provider networks, and create a standout consumer experience in our product.
+
+As a Data Scientist II you will drive data science projects across multiple teams and domains. In this role, you’ll take ownership of analytical and modeling work, contribute to technical direction, and partner closely with business, engineering, product and data stakeholders to deliver impactful solutions.
+
+This is a mid-level role for data scientists who can operate independently, manage ambiguity, and apply advanced analytics or modeling techniques with minimal oversight.
+
+You will report into a leader on the Data team (Senior Data Scientist and above). This posting is representative of multiple roles, and final team placement will be determined during the interview process.
+
+Work Location: This position is a hybrid role based in our New York City office, Los Angeles Office, or Tempe Office requiring a hybrid work schedule with 3 days of in-office work per week Thursdays are a required in-office day for team meetings and events, while your other two office days are flexible to suit your schedule. #LI-Hybrid
+
+Pay Transparency: The base pay for this role is: $131,200 - $172,200 per year. You are also eligible for employee benefits, participation in Oscar's unlimited vacation program, company equity grants, and annual performance bonuses.
+
+Responsibilities:
+
+Research, develop, and maintain data pipelines, statistical models, and advanced analytical solutions
+Own projects end-to-end, including problem definition, implementation, validation, and iteration
+Deliver high-quality analytical and modeling outputs with limited manager oversight
+Collaborate closely with data science peers and cross-functional partners across business units
+Help ensure data science processes and outputs align with broader team strategies and roadmaps
+Provide guidance or informal mentorship to junior data scientists or analysts when needed
+Contribute to improving data science practices, tooling, and documentation
+
+Requirements:
+
+3+ years of experience in data science, applied analytics, or a related quantitative field (industry, academia, or both)
+2+ years of experience using SQL and Python and/or R to query, analyze, and manipulate data
+2+ years of experience building data models, using more advanced analytics methods, statistical modeling, and/or data processing
+
+Bonus points:
+
+Master’s degree in a quantitative or technical field
+Knowledge of or previous work experience in health care or health insurance
+Experience mentoring or supporting junior team members
+Experience deploying or supporting models in production environments
+
+This is an authentic Oscar Health job opportunity.
+
+At Oscar, being an Equal Opportunity Employer means more than upholding discrimination-free hiring practices. It means that we cultivate an environment where people can be their most authentic selves and find both belonging and support. We're on a mission to change health care -- an experience made whole by our unique backgrounds and perspectives.
+
+Pay Transparency:  Final offer amounts, within the base pay set forth above, are determined by factors including your relevant skills, education, and experience. Full-time employees are eligible for benefits including: medical, dental, and vision benefits, 11 paid holidays, paid sick time, paid parental leave, 401(k) plan participation, life and disability insurance, and paid wellness time and reimbursements.
+
+Artificial Intelligence (AI): Our AI Guidelines outline the acceptable use of artificial intelligence for candidates and detail how we use AI to support our recruiting efforts.
+
+Reasonable Accommodation: Oscar applicants are considered solely based on their qualifications, without regard to applicant’s disability or need for accommodation. Any Oscar applicant who requires reasonable accommodations during the application process should contact the Oscar Benefits Team (accommodations@hioscar.com) to make the need for an accommodation known.
+
+California Residents: For information about our collection, use, and disclosure of applicants’ personal information as well as applicants’ rights over their personal information, please see our Privacy Policy.

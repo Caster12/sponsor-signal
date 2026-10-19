@@ -1,0 +1,72 @@
+AI Strategist
+
+On-siteFull time
+
+New York, New York, United States
+OVERVIEW
+APPLICATION
+Share this job
+ 
+Description
+
+About Ajaia
+
+Ajaia is an AI implementation consultancy and product studio. We help organizations move from AI experimentation to measurable return on investment across four practices: AI Strategy and Advisory, Workforce Training and Enablement, Process Optimization, and Custom AI Development. Our work sits with executives and the people who do the actual work, and it is judged on whether something changed in production, not on whether a pilot looked good in a deck.
+
+Position Overview
+
+Ajaia is hiring an AI Strategist to run the ground-level work on client engagements owned by a Senior AI Strategist. You will spend your week inside a client's operations: interviewing managers and frontline staff, mapping how work actually happens, and pulling the baseline numbers a recommendation gets built on. The senior strategist on your engagement owns the room with the CEO and carries the final call. You own the audit underneath it, and you will be in the room when it counts.
+
+This is a learning seat with real stakes. You will contribute directly to the triage, the diagram, and the client deck, and you will be expected to defend your findings when a senior strategist or a client pushes back on them. The role is a stated path to Senior AI Strategist.
+
+Compensation: $100,000 to $175,000 base.
+
+How we expect you to work
+
+AI use is a core execution requirement at Ajaia, not optional tooling. You should be comfortable using AI tools to move faster on real work, and honest about where they get it wrong. Part of this seat is developing the judgment to know the difference, under a senior strategist's guidance.
+
+You will sit in client interviews, build the current-state picture, and hand a senior strategist material they can build a recommendation from. The clearer and more honest that material is, the faster you grow into owning engagements yourself.
+
+What you will do
+
+Support a Senior AI Strategist across one or more client engagements, from discovery through delivery.
+Run discovery interviews with managers and frontline staff, under the senior strategist's direction. Document how the work actually happens, not how the org chart says it happens.
+Pull and validate baseline data. Get real numbers before anyone claims an improvement.
+Contribute to the opportunity triage: surface what you're seeing, tag it honestly, and be ready to defend or drop it under questioning.
+Build the current-state workflow diagrams that anchor the engagement's recommendation.
+Draft sections of the client deck and the engineering build specification for the senior strategist's review.
+Flag where the right answer is a process fix, not an AI build, even when that is not the answer the client wants.
+Sit in on C-suite presentations and board meetings as part of the engagement team, building toward leading those conversations yourself.
+Take structured feedback from senior strategists and apply it visibly engagement to engagement.
+Requirements
+Zero to three years in a role involving real business judgment: management consulting, strategy, operations, product, or a comparable analytical or client-adjacent seat. Strong new graduates with the right instincts are welcome here.
+Some exposure to client-facing or stakeholder-facing work, even if you were not the one holding the final recommendation.
+Comfort using AI tools for real work, and a track record of checking rather than trusting the output.
+The ability to take a messy, contradictory set of inputs and start imposing structure on it, even without full context.
+Strong written and verbal communication. You can write up findings clearly and defend them out loud.
+Willingness to work on-site in New York and travel to client sites as engagements require.
+A bachelor's degree is preferred and is not a requirement. We will take the track record and the instincts over the credential.
+
+Nice to have
+
+Exposure to a regulated industry such as healthcare, financial services, insurance, legal, or education.
+Experience with process mapping or documenting how a business actually runs.
+Working familiarity with workflow automation tools such as n8n, Zapier, or Make, and enough SQL or Python literacy to inspect data yourself.
+Prior internship or early-career time inside a consulting, strategy, or venture-backed operating environment.
+Benefits
+
+Competitive benefits.
+
+$100,000 to $175,000 base, plus a performance bonus of up to 100% of base salary.
+
+Apply for this job
+This website uses cookies to improve user’s experience, personalise ads and analyse traffic. You can accept all cookies, decline all optional cookies, or manage your cookie settings. To learn more, view our cookies policy.
+Cookies settings
+Accept all
+Decline all
+View website
+View all jobs
+Help
+Accessibility
+Cookie settings
+Powered byWorkable

@@ -1,0 +1,119 @@
+Open navigation
+Skip to content
+Careers Portal
+AI Research Scientist - Campus Full-Time
+NY New York
+United States
+Business
+Investment Management
+Function
+Quantitative Research
+Experience Level
+Early Careers
+Apply
+Share this job
+Email
+LinkedIn
+Position Summary
+Two Sigma is a leading quantitative investment management and trading firm. The company applies a scientific approach to investing, combining cutting-edge technology, artificial intelligence, data science, and quantitative research with rigorous human inquiry to capitalize on market opportunities and deliver alpha for investors.
+
+
+Our team of engineers, quantitative researchers, and data scientists looks beyond the traditional to test hypotheses and develop creative solutions to some of the world’s most complex economic problems.
+
+
+We are looking for creative experts who are interested in applying general Machine Learning and specifically Deep Learning (complex neural networks, sequence models etc.), Large Language Models, Reinforcement Learning techniques to many types of problems in complex systems, but particularly those with large amounts of noisy data.
+
+
+This role is only open to MS with work experience and PhDs, both in their final year of study.
+
+
+
+
+You will take on the following responsibilities:
+Develop effective techniques and infrastructure, from the initial idea to the running prototypes and productionization
+You will write code, use the latest AI and Machine Learning tools, run experiments on state-of-the-art infrastructure and in the cloud, and generally develop techniques and processes to build predictive models for financial markets including but not limited to alpha modeling and trading tactics
+Partner with teams across Two Sigma to implement your ideas into our products
+Remain connected to the broader research community by partnering with internal and external collaborators and participate in relevant conferences
+
+
+You should possess the following qualifications:
+Advanced degree in Computer Science, Engineering, or other STEM field, preferably in a PhD program, or in a Master’s program with some prior work experience
+Excellent programming skills in Python (familiarity with Rust/Java/C++ is a plus) and deep knowledge of Tensorflow/PyTorch/JAX or similar 
+Internships/work experience with Deep Learning, LLMs and/or Reinforcement Learning 
+Background in Machine Learning techniques with large amounts of noisy data, curiosity in applying it to financial problems
+Relevant research experience (publications at NeurIPS, ICML, ICLR or similar are preferred)
+Experience with cloud environments and multi-machine CPU/GPU setups
+Experience with version control systems, regression/unit testing, code reviews, profiling
+Participation in open source community is a plus
+Being able to work well with others in teams
+
+
+You will enjoy the following benefits:
+
+
+Core Benefits: Fully paid medical and dental insurance premiums for employees and dependents, competitive 401k match, employer-paid life & disability insurance
+Perks: Onsite gyms with laundry service, wellness activities, casual dress, snacks, game rooms
+Learning: Tuition reimbursement, conference and training sponsorship
+Time Off: Generous vacation and unlimited sick days, competitive paid caregiver leaves
+Hybrid Work Policy: Flexible in-office days with budget for home office setup
+
+
+The base pay for this role will be $300,000 . This role may also be eligible for other forms of compensation and benefits, such as a discretionary bonus, health, dental and other wellness plans and 401(k) contributions. Discretionary bonus can be a significant portion of total compensation. Actual compensation for successful candidates will be carefully determined based on a number of factors, including their skills, qualifications and experience.
+
+
+We are proud to be an equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.
+
+
+Two Sigma is committed to providing reasonable accommodations to qualified individuals in accordance with applicable federal, state, and local laws.
+
+
+If you believe you need an accommodation, please visit our website for additional information.
+
+Back to Open Roles
+Don't see a fit at this time?
+
+Sign up for job alerts to get notified of new openings!
+
+Log in and get notified
+Businesses
+Investment Management
+Securities
+Sightway Capital
+Real Estate
+Careers
+Open Roles
+Internships
+Engineering
+Quantitative Research & Data Science
+Academic Partnerships
+Undergraduate Students
+Graduate Students
+Professors and Universities
+Contact Us
+Data Platforms
+Data Portal
+Headquarters
+
+Two Sigma Investments, LP
+100 Avenue of the Americas
+New York, NY 10013
+
+Contact Us
+Socials
+Instagram
+LinkedIn
+YouTube
+North America
+New York
+Houston
+Chicago
+Palm Beach Gardens
+Europe
+London
+Asia-Pacific
+Tokyo
+Hong Kong
+Shanghai
+© 2026 Two Sigma Investments, LP. All rights reserved.
+Legal Disclosures • Privacy Policies • Accessibility Statement
+View Our Global Offices

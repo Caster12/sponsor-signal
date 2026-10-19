@@ -1,0 +1,60 @@
+Machine Learning Engineer
+
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.
+
+Key Responsibilities
+
+Build and facilitate machine learning and Generative AI solutions across large-scale systems and campaigns, ensuring deployment and updates in collaboration with data engineering.
+Develop and participate in presentations and consultations to existing and prospective stakeholders on analytics results and solutions.
+Collaborate with internal and external peers and managers to exchange complex information related to areas of specialization.
+
+Required Qualifications
+
+Experience in building end-to-end machine learning models and data-intensive systems in production (2 or more years or PhD with a tech internship as MLE/Software Developer).
+Strong background in Data Science with a focus on software development best practices (2 or more years or PhD with a tech internship as MLE/Software Developer).
+Proficiency in Python, SQL, and MLOps (3 or more years or PhD with a tech internship as MLE/Software Developer).
+Experience in cloud environments (3 or more years as MLE/Software Developer).
+
+Preferred Qualifications
+
+Demonstrated ability to design and build distributed data-intensive products; front-end development and coding in React is a plus.
+Experience with Google Cloud Platform (GCP) (2 or more years) is a major plus.
+Familiarity with Generative AI and agentic design is a plus.
+Proficiency in mathematical analysis methods, machine learning, statistical analyses, and predictive modeling, with in-depth specialization in certain areas.
+Experience in Ad-tech is a plus.
+
+Education
+
+Master’s degree in Computer Science, Mathematics, Statistics, Economics, Physics, Engineering, or a related discipline, with 2 or more years of progressively complex related experience (or PhD with a tech internship as MLE/Software Developer).
+
+Anticipated Weekly Hours
+
+40
+
+Time Type
+
+Full time
+
+Pay Range
+
+The typical pay range for this role is:
+
+$86,520.00 - $173,040.00
+
+This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls.  The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors.  This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above.
+
+Our people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong.
+
+Great benefits for great people
+
+We take pride in offering a comprehensive and competitive mix of pay and benefits that reflects our commitment to our colleagues and their families.
+
+This full‑time position is eligible for a comprehensive benefits package designed to support the physical, emotional, and financial well‑being of colleagues and their families. The benefits for this position include medical, dental, and vision coverage, paid time off, retirement savings options, wellness programs, and other resources, based on eligibility.
+
+Additional details about available benefits are provided during the application process and on Benefits Moments.
+
+We anticipate the application window for this opening will close on: 11/22/2026
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.
+
+CVS Health is an equal opportunity/affirmative action employer, including Disability/Protected Veteran — committed to inclusion and belonging in the workplace.

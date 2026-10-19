@@ -1,0 +1,141 @@
+Back to jobs
+Data Scientist II
+New York, New York, United States
+Apply
+
+Hi, we're Oscar. We're hiring a Data Scientist II to join our Data team.
+
+Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves - one that behaves like a doctor in the family.
+
+About the role:
+
+Oscar's data team is focused on pushing our understanding of this complex landscape of health care and insurance business. Insurance companies sit on a trove of data that is both broad and deep, spanning financial claims, clinical medical records, and rich product interaction data from our members. Connecting the dots across these datasets gives us unique insight into how the healthcare system functions and allows us to improve care coordination, better manage risk, build higher-performing provider networks, and create a standout consumer experience in our product.
+
+As a Data Scientist II you will drive data science projects across multiple teams and domains. In this role, you’ll take ownership of analytical and modeling work, contribute to technical direction, and partner closely with business, engineering, product and data stakeholders to deliver impactful solutions.
+
+This is a mid-level role for data scientists who can operate independently, manage ambiguity, and apply advanced analytics or modeling techniques with minimal oversight.
+
+​​You will report into a leader on the Data team (Senior Data Scientist and above). This posting is representative of multiple roles, and final team placement will be determined during the interview process.
+
+Work Location: This position is a hybrid role based in our New York City office, Los Angeles Office, or Tempe Office requiring a hybrid work schedule with 3 days of in-office work per week Thursdays are a required in-office day for team meetings and events, while your other two office days are flexible to suit your schedule. #LI-Hybrid
+
+Pay Transparency: The base pay for this role is: $131,200 - $172,200 per year. You are also eligible for employee benefits, participation in Oscar's unlimited vacation program, company equity grants, and annual performance bonuses.
+
+Responsibilities:
+
+Research, develop, and maintain data pipelines, statistical models, and advanced analytical solutions
+Own projects end-to-end, including problem definition, implementation, validation, and iteration
+Deliver high-quality analytical and modeling outputs with limited manager oversight
+Collaborate closely with data science peers and cross-functional partners across business units
+Help ensure data science processes and outputs align with broader team strategies and roadmaps
+Provide guidance or informal mentorship to junior data scientists or analysts when needed
+Contribute to improving data science practices, tooling, and documentation
+
+Requirements:
+
+3+ years of experience in data science, applied analytics, or a related quantitative field (industry, academia, or both)
+2+ years of experience using SQL and Python and/or R to query, analyze, and manipulate data
+2+ years of experience building data models, using more advanced analytics methods, statistical modeling, and/or data processing
+
+Bonus points:
+
+Master’s degree in a quantitative or technical field
+Knowledge of or previous work experience in health care or health insurance
+Experience mentoring or supporting junior team members
+Experience deploying or supporting models in production environments
+
+This is an authentic Oscar Health job opportunity.
+
+At Oscar, being an Equal Opportunity Employer means more than upholding discrimination-free hiring practices. It means that we cultivate an environment where people can be their most authentic selves and find both belonging and support. We're on a mission to change health care -- an experience made whole by our unique backgrounds and perspectives.
+
+Pay Transparency:  Final offer amounts, within the base pay set forth above, are determined by factors including your relevant skills, education, and experience. Full-time employees are eligible for benefits including: medical, dental, and vision benefits, 11 paid holidays, paid sick time, paid parental leave, 401(k) plan participation, life and disability insurance, and paid wellness time and reimbursements.
+
+Artificial Intelligence (AI): Our AI Guidelines outline the acceptable use of artificial intelligence for candidates and detail how we use AI to support our recruiting efforts.
+
+Reasonable Accommodation: Oscar applicants are considered solely based on their qualifications, without regard to applicant’s disability or need for accommodation. Any Oscar applicant who requires reasonable accommodations during the application process should contact the Oscar Benefits Team (accommodations@hioscar.com) to make the need for an accommodation known.
+
+California Residents: For information about our collection, use, and disclosure of applicants’ personal information as well as applicants’ rights over their personal information, please see our Privacy Policy.
+
+Create a Job Alert
+
+Interested in building your career at Oscar Health? Get future opportunities sent straight to your email.
+
+Create alert
+Apply for this job
+
+*
+
+indicates a required field
+
+Autofill my application
+First Name*
+Last Name*
+Email*
+Phone
+Country*
+Phone*
+Location (City)*
+Locate me
+Resume/CV*
+Attach
+Attach
+Dropbox
+Google Drive
+Enter manually
+Enter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Cover Letter
+Attach
+Attach
+Dropbox
+Google Drive
+Enter manually
+Enter manually
+
+Accepted file types: pdf, doc, docx, txt, rtf
+
+Are you authorized to work lawfully in the United States for Oscar?*
+Select...
+Do you now, or will you in the future, require sponsorship for employment visa status (e.g., H-1B visa status, etc.) to work legally for Oscar in the United States?*
+Select...
+Candidates must live within commutable distance to our home office in New York City (Manhattan), our Los Angeles office (Marina Del Rey), our Tempe office, or remotely in the SF Bay area, or Boston. If you do not currently reside in one of these locations, your application will not be considered. Do you reside in one of these locations?*
+Select...
+Do you acknowledge the work location expectations listed on this job posting?*
+Select...
+
+The work location expectations for this role is listed in the job postings under “Work Location”. This section includes any onsite related expectations and residency requirements.
+
+Oscar Health is authorized to do business in many, but not all, states. If you are not located in or willing to relocate to a state where Oscar is registered, you will not be eligible for employment. The approved states for this role are listed in the job posting.
+
+LinkedIn Profile
+Website
+How did you hear about this job?
+Voluntary Self-Identification
+
+For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+
+As set forth in Oscar Health’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+
+Gender
+Select...
+Are you Hispanic/Latino?
+Select...
+Race & Ethnicity Definitions
+
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:
+
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+Veteran Status
+Select...
+Submit application
+
+Powered by

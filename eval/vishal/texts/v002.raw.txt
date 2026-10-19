@@ -1,0 +1,296 @@
+We use cookies and other tracking technologies to support navigation, to improve our products and services, to support our marketing activities and to provide content from third parties. To manage your preferences, select "Manage Settings" or choose "Accept" to consent to the use of Cookies.
+AcceptRejectManage Settings
+Skip to main content
+Join Talent Network
+Saved Jobs
+Sign In
+Explore Jobs
+Locations
+Students & Grads
+Working at Capital One
+Careers Blog
+FAQs
+Search Jobs
+Your next chapter
+starts now
+
+Ayushi,
+Business Analyst
+
+R1000958
+Posted 09/17/2026
+Senior Associate, Data Scientist - Recommendation & Personalization Systems
+McLean, Virginia | San Jose, California | New York, New York
+Save Job
+Apply
+Category
+Data
+Experience
+Sr. Associate
+Primary Address
+McLean, Virginia | San Jose, California | New York, New York
+Overview
+Senior Associate, Data Scientist - Recommendation & Personalization Systems
+
+Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
+
+As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
+
+Team Description:
+
+Join an elite Applied AI team within AI Foundations, operating at the intersection of deep research and massive real-world impact. We are pioneering the next generation of personalized customer experiences across Capital One's web and mobile applications, leveraging our high-scale ML models. Our core mission involves architecting and deploying cutting-edge personalized recommendation engines. This is powered by original research into homegrown Foundation Models, advanced Reinforcement Learning techniques, and a state-of-the-art scalable architecture built for billions of interactions. Our research agenda is at the forefront of the field, actively focusing on areas such as Causal Inference, Transformer-based architectures, and sophisticated Recommender Systems.
+
+In this role, you will:
+
+Partner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers love
+
+Leverage a broad stack of technologies - Python, Conda, AWS, H2O, Spark, and more - to reveal the insights hidden within huge volumes of numeric and textual data
+
+Build machine learning models through all phases of development, from design through training, evaluation, validation, and implementation
+
+Flex your interpersonal skills to translate the complexity of your work into tangible business goals
+
+The Ideal Candidate is:
+
+Customer first. You love the process of analyzing and creating, but also share our passion to do the right thing. You know at the end of the day it’s about making the right decision for our customers.
+
+Innovative. You continually research and evaluate emerging technologies. You stay current on published state-of-the-art methods, technologies, and applications and seek out opportunities to apply them.
+
+Technical. You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
+
+A data guru. “Big data” doesn’t faze you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.
+
+Basic Qualifications:
+
+Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:
+
+A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 2 years of experience performing data analytics
+
+A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration
+
+Preferred Qualifications:
+
+Master’s Degree in “STEM” field (Science, Technology, Engineering, or Mathematics), or PhD in “STEM” field (Science, Technology, Engineering, or Mathematics)
+
+Experience working with AWS
+
+At least 2 years of experience in Python, Scala, or R
+
+At least 2 years of experience with machine learning
+
+At least 2 years of experience with SQL 
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+McLean, VA: $135,600 - $154,800 for Sr Assoc, Data Science
+
+
+
+
+New York, NY: $148,000 - $168,900 for Sr Assoc, Data Science
+
+
+
+
+San Jose, CA: $148,000 - $168,900 for Sr Assoc, Data Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at theCapital One Careers website
+(opens in new window)
+. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.
+
+No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com
+(opens in new window)
+. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+(opens in new window)
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).
+
+This carousel contains a column of headings. Selecting a heading will change the main content in the carousel that follows. Use the Previous and Next buttons to cycle through all the options, use Enter to select.
+
+Hiring Process
+Stories
+Benefits
+Career Journey
+
+This carousel shows one item at a time. Use the preceding navigation carousel to select a specific heading to display the content here.
+
+How We Hire
+
+We take finding great coworkers pretty seriously.
+
+Step 1 Apply
+
+It only takes a few minutes to complete our application and assessment.
+
+Step 2 Screen and Schedule
+
+If your application is a good match you’ll hear from one of our recruiters to set up a screening interview.
+
+Step 3 Interview(s)
+
+Now’s your chance to learn about the job, show us who you are, share why you would be a great addition to the team and determine if Capital One is the place for you.
+
+Step 4 Decision
+
+The team will discuss — if it’s a good fit for us and you, we’ll make it official!
+
+A day in the life at Capital One
+
+Get an inside look at working at Capital One. Discover how our tech, product, and customer care teams collaborate and grow together.
+
+Read this story
+View More Stories
+Your wellbeing is our priority
+
+Our benefits and total compensation package is designed for the whole person. Caring for both you and your family.
+
+Healthy Body, Healthy Mind
+
+You have options and we have the tools to help you decide which health plans best fit your needs.
+
+Save Money, Make Money
+
+Secure your present, plan for your future and reduce expenses along the way.
+
+Time, Family and Advice
+
+Options for your time, opportunities for your family, and advice along the way. It’s time to BeWell.
+
+Career Journey
+
+Here’s how the team fits together. We’re big on growth and knowing who and how coworkers can best support you.
+
+Image Description
+Similar Jobs
+Saved Jobs
+102167798352
+Principal Data Scientist, AI Foundations
+New York, New York
+98707315360
+Sr. Business Analyst - US Card
+McLean, Virginia
+100081971072
+Senior Business Analyst, Product Strategy
+McLean, Virginia
+101965689712
+Sr. Business Analyst - Talent Marketing Analytics
+McLean, Virginia
+
+WANT MORE JOBS LIKE THIS?  
+
+Set a job alert
+
+Sign up
+
+Instagram
+Facebook
+LinkedIn
+YouTube
+Glassdoor
+EXPLORE JOBS
+Job Search
+Teams
+Military
+Students & Grads
+Technology
+Customer Care
+US LOCATIONS
+Overview
+Atlanta, GA
+Boston, MA
+Chicago, IL
+Dallas, TX
+McLean, VA
+New York, NY
+Philadelphia, PA
+Richmond, VA
+San Francisco, CA
+View All Jobs
+WORKING AT CAPITAL ONE
+Culture
+Diversity, Inclusion & Belonging
+Benefits
+#LifeAtCapitalOne Blog
+Awards
+How We Work
+Innovation
+CONNECT WITH US
+FAQs
+Talent Network
+Job Alerts
+LOCATIONS
+United States
+Canada
+India
+Mexico
+Philippines
+United Kingdom
+
+E-Verify® is a registered trademark of the
+U.S. Department of Homeland Security.
+
+COVID-19 Response
+www.capitalone.com
+Accommodation
+
+If you have visited our website in search of information on employment opportunities or to apply for a position and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+
+Capital One is an equal opportunity employer (PDF) committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age (40 and older), national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law.
+
+Know Your Rights Poster (PDF)
+
+Candidate Terms and Conditions (PDF)
+
+Footnotes
+
+Capital One is a federally registered service mark. All rights reserved. Blank Check® is a registered trademark of Capital One Services, LLC. Capital One does not provide, endorse or guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+© 2026 FORTUNE Media IP Limited. All rights reserved. Used under license. FORTUNE is not affiliated with, and does not endorse products or services of, Capital One.
+
+PEOPLE Companies That Care logo is used under license, © 2026 TI Gotham, Inc.
+
+© 2026 Capital One
+
+Cookie Management Privacy Security AdChoices 
+Your California Privacy Choices
+ Terms & Conditions Patriot Act Cert. (PDF) Servicemembers Civil Relief Act Sitemap
+Candidate
+FEEDBACK

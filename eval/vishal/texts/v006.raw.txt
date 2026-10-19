@@ -1,0 +1,118 @@
+Join Our Talent Community
+If you are unable to complete this application due to a disability, contact this employer to ask for an accommodation or an alternative application process.
+Data Scientist
+Full-time Regular
+Corp Supply Chain
+US
+10 days ago
+Requisition ID: 5058
+Apply
+Salary Range:
+$82,000.00 To $123,000.00 Annually
+
+About Us: 
+
+As a global manufacturer of complex aircraft engine components, Pursuit Aerospace is founded on a commitment to relentless, continuous, operational improvement and extraordinary customer service. We pride ourselves on competitive cost structure, exceptional on-time delivery, and industry-leading quality.
+
+Pursuit Aerospace cultivates long-term relationships with our customers around the world through respect, teamwork, technology, and trust. We are driven to develop industry leading process innovations and manufacturing techniques on behalf of our customers. 
+
+About the Opportunity: 
+
+The Data Scientist will support the development of data, analytics, and AI solutions for SIOP (Sales, Inventory, Operations Planning) transformation and help deliver measurable business impact on inventory and customer service. Working with senior team members and business partners, the Data Scientist will help frame supply chain problems, prepare and analyze operational data, develop and evaluate models, and translate results into dashboards, analytical tools, and decision-ready insights. This role is designed for an early-career data scientist who is eager to build strong technical and business skills while contributing to practical solutions in a complex manufacturing environment.
+
+Location:
+
+Remote in the U.S., and travel 10-20%.
+
+Responsibilities: 
+
+Data Science & Machine Learning
+
+Develop machine learning, statistical, forecasting, and time-series models with guidance from senior team members.
+Support analytical solutions for key business areas including inventory optimization, demand forecasting, clear-to-build analytics, on-time delivery, production planning, operational efficiency, and cost reduction.
+Perform exploratory data analysis, data cleaning, feature engineering, model development, validation, and performance evaluation.
+Analyze operational datasets and translate findings into clear insights and recommendations for business stakeholders.
+Support the development of AI-powered applications and tools, including Generative AI and Large Language Model solutions where they provide measurable business value.
+
+Data Science Solutions & Analytics
+
+Contribute to end-to-end data science projects, from business problem definition and data preparation through modeling, testing, visualization, and deployment, with guidance from senior team members.
+Develop and maintain analytical datasets and data transformation workflows using Python and SQL to support machine learning and advanced analytics.
+Work with data from multiple enterprise systems to identify, clean, transform, validate, and integrate data required for analytical solutions.
+Develop dashboards, analytical applications, or decision-support tools that help business users consume model outputs and analytical insights.
+Follow team standards for testing, version control, documentation, monitoring, and maintainable analytical code.
+
+Data & Technology Collaboration
+
+Use modern cloud and data technologies such as Snowflake, AWS, Azure, Spark, S3, or related services to support analytical and machine learning solutions.
+Build working knowledge of modern data architecture concepts including data lakes, ETL/ELT, APIs, and cloud-native data platforms.
+Collaborate with Product, Engineering, Operations, Supply Chain, and business stakeholders to understand business requirements and translate them into practical analytical work.
+Support high-impact analytics by helping scope business questions and develop solutions that improve metrics such as inventory, on-time delivery, and cost.
+Contribute to data products including analytical datasets, Snowflake tables, forecasting and time-series models, inventory and clear-to-build analytics, dashboards, and AI-powered tools.
+Help maintain analytics assets by validating outputs, identifying data or model issues, documenting solutions, and supporting continuous improvement.
+Improve data quality by profiling large and imperfect operational datasets, investigating issues, and helping build well-structured, trusted analytical datasets.
+Communicate analytical results clearly and work with business partners to support adoption of data-driven tools and recommendations.
+
+Required Qualifications:  
+
+Bachelor’s degree 
+1+ years of experience in data science, analytics, engineering, or a related quantitative role using SQL and/or Python for data analysis, data preparation, or analytical solution development. Relevant internships, co-ops, or research experience may be considered. 
+Must be authorized to work in the U.S. on a full-time basis without sponsorship now or in the future. The Company cannot offer employment to visa holders who require employer sponsorship in the future or cannot work now on a full-time basis.
+Must be able to perform work subject to ITAR/EAR regulations. 
+
+Preferred Qualifications:
+
+Bachelor’s degree in data science, Computer Science, Statistics, Mathematics, Engineering, or a related quantitative field.
+Master’s degree in a quantitative or technical field.
+Experience developing or evaluating at least one machine learning, statistical, forecasting, or time-series model through work, internships, research, or academic projects.
+Working knowledge of SQL and Python and familiarity with machine learning, statistical modeling, or time-series analytics.
+Exposure to Snowflake, AWS, Azure, GCP, Spark, data pipelines, Git/GitHub, CI/CD, or other modern data and cloud technologies.
+Experience through coursework, internships, research, or projects developing machine learning, statistical, or forecasting models and evaluating model performance.
+Experience working with real-world or imperfect datasets, including data exploration, cleaning, transformation, feature engineering, and data-quality checks.
+Familiarity with data models, ETL/ELT concepts, or cloud data environments such as Snowflake, AWS, Azure, or GCP.
+Familiarity with software development practices such as testing, version control, documentation, and code review.
+Interested in AI-assisted development and Generative AI tools for coding, analysis, documentation, or analytical applications.
+Exposure to supply chain analytics such as demand forecasting, demand sensing, inventory management, production planning, or clear-to-build reporting.
+Internship, academic, or professional exposure to aerospace, manufacturing, or industrial operations.
+Familiarity with ERP concepts or datasets such as purchase orders, production orders, inventory, demand, or shipments.
+
+Working Conditions:  
+
+Requires mobility in a manufacturing plant environment while using Personal Protective Equipment. 
+Must be able to frequently sit, stand and walk.
+Must be able to lift and carry up to 15 pounds.
+Must be able to have prolonged periods sitting at a desk and working on a computer.
+Must be able to travel between locations or to suppliers up to 25% of time.
+
+Acknowledgements:  
+
+The above job description is not intended to be an all-inclusive list of duties and standards of the position. Incumbents will follow any other instructions, and perform any other related duties, as assigned by their supervisor. 
+
+Benefits:  
+
+Pursuit Aerospace also offers a variety of benefits, including health and disability insurance, 401(k) match, flexible spending accounts, EAP, paid time off, and company-paid holidays. The specific programs and options available to an employee may vary depending on date of hire, schedule type, and the applicability of collective bargaining agreements, among other things. 
+
+Equal Opportunity Employer:  
+
+Pursuit Aerospace is an Equal Opportunity Employer. We adhere to all applicable federal, state, and local laws governing nondiscrimination in employment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+
+
+
+
+
+
+Back
+Apply
+Copyright © 2026, ADP, Inc. All rights reserved.
+Privacy
+|
+Legal
+|
+Requirements
+|
+Artificial Intelligence
+To manage your preferences, click here
+Powered by
+We use our own and third-party cookies and similar technologies to enhance and personalize your experience, analyze use of our website, and conduct marketing. For more information, please see our Cookie Privacy Statement
+To manage your preferences, click here
