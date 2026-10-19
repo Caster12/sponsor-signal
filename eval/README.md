@@ -4,6 +4,8 @@ Target: 200 hand-labeled postings across finance, tech, and consulting, labeled 
 
 ## Layout
 
+Each collector has a folder, `eval/<name>/` (currently `khushi/` and `vishal/`), with the same layout:
+
 | Path | What it holds |
 | --- | --- |
 | `meta.jsonl` | One row per posting: id, url, source, industry, sample arm, employer and title as posted. No text. |
@@ -13,11 +15,11 @@ Target: 200 hand-labeled postings across finance, tech, and consulting, labeled 
 | `labels/<annotator>.jsonl` | One file per labeler, so labels stay independent. |
 | `screenshots/` | Original screenshots, kept so transcriptions can be checked. |
 
-`npm run eval:build` also prints quota counts and flags employers over the cap.
+`npm run eval:build` builds every folder, then prints quota counts over all of them and flags employers over the cap and ids used in more than one folder.
 
 ## Adding a posting
 
-1. Pick the next id (`p002`, ...). Paste the full page text to `texts/<id>.raw.txt` and the job description alone to `texts/<id>.posting.txt`. Do not edit the wording.
+1. Work in your own folder. Pick the next id; ids must be unique across all folders (`khushi/` uses `p001`, `p002`, ...). Paste the full page text to `texts/<id>.raw.txt` and the job description alone to `texts/<id>.posting.txt`. Do not edit the wording.
 2. Add one line to `meta.jsonl`. `industry` is `finance`, `tech`, or `consulting`. `sample_arm` is `natural` (found by browsing, whatever the label) or `targeted` (found by searching for a rare label).
 3. Run `npm run eval:build`.
 
