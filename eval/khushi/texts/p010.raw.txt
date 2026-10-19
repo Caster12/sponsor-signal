@@ -1,0 +1,159 @@
+[Skip to main content](https://www.amazon.jobs/en/jobs/10461957/delivery-consultant-ai-ml-wwps-proserve?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com#main-1792444293)
+[Amazon Jobs home page](https://www.amazon.jobs/en)
+
+```
+
+```
+
+
+```
+
+```
+
+[My career](https://www.amazon.jobs/en/jobs/10461957/delivery-consultant-ai-ml-wwps-proserve?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com#)
+Delivery Consultant- AI/ML, WWPS ProServe
+Job ID: 10461957 | Amazon Web Services, Inc.
+Description
+Application deadline: Oct 23, 2026
+
+The Amazon Web Services Professional Services (ProServe) team is seeking a skilled Machine Learning Engineer to join our team at Amazon Web Services (AWS). Are you looking to work at the forefront of Machine Learning and AI? Would you be excited to apply Generative AI algorithms to solve real world problems with significant impact? In this role, you'll work directly with customers to design, evangelize, implement, and scale AI/ML solutions that meet their technical requirements and business objectives. You'll be a key player in driving customer success through their AI transformation journey, providing deep expertise in machine learning, generative AI, and best practices throughout the project lifecycle.
+
+As a Machine Learning Engineer within the AWS Professional Services organization, you will be proficient in architecting complex, scalable, and secure machine learning solutions tailored to meet the specific needs of each customer. You'll help customers imagine and scope the use cases that will create the greatest value for their businesses, select and train and fine tune the right models, and define paths to navigate technical or business challenges. Working closely with stakeholders, you'll assess current data infrastructure, develop proof-of-concepts, and propose effective strategies for implementing AI and generative AI solutions at scale. You will design and run experiments, research new algorithms, and find new ways of optimizing risk, profitability, and customer experience.
+
+The AWS Professional Services organization is a global team of experts that help customers realize their desired business outcomes when using the AWS Cloud. We work together with customer teams and the AWS Partner Network (APN) to execute enterprise cloud computing initiatives. Our team provides assistance through a collection of offerings which help customers achieve specific outcomes related to enterprise cloud adoption. We also deliver focused guidance through our global specialty practices, which cover a variety of solutions, technologies, and industries.
+
+This position requires that the candidate to be a US citizen.
+
+Key job responsibilities
+Designing and implementing complex, scalable, and secure AI/ML solutions on AWS tailored to customer needs, including selecting and fine-tuning appropriate models for specific use cases
+
+Developing and deploying machine learning models and generative AI applications that solve real-world business problems, conducting experiments and optimizing for performance at scale
+
+Collaborating with customer stakeholders to identify high-value AI/ML use cases, gather requirements, and propose effective strategies for implementing machine learning and generative AI solutions
+
+Providing technical guidance on applying AI, machine learning, and generative AI responsibly and cost-efficiently, troubleshooting throughout project delivery and ensuring adherence to best practices
+
+Acting as a trusted advisor to customers on the latest advancements in AI/ML, emerging technologies, and innovative approaches to leveraging diverse data sources for maximum business impact
+
+Sharing knowledge within the organization through mentoring, training, creating reusable AI/ML artifacts, and working with team members to prototype new technologies and evaluate technical feasibility
+Basic Qualifications
+- 2+ years of cloud architecture and solution implementation experience
+- 3+ years of machine learning/statistical modeling data analysis tools and techniques
+- Experience in professional software engineering & best practices for the full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+- Experience in defining and creating benchmarks for assessing GenAI model performance
+- Experience applying quantitative analysis to solve business problems and working on multi-team, cross-disciplinary projects
+Preferred Qualifications
+- Knowledge of AWS services including compute, storage, networking, security, databases, machine learning, and serverless technologies
+- Experience in performance optimization and cost management for cloud environments
+- Master's degree or above in Science, Technology, Engineering, or Mathematics (STEM)
+- Experience translating complex technical solutions and data-driven insights into clear, actionable recommendations for diverse audiences, including both technical and non-technical stakeholders
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+
+
+USA, CA, Mountain View - 151,000.00 - 204,300.00 USD annually
+USA, CA, San Francisco - 151,000.00 - 204,300.00 USD annually
+USA, CO, Denver - 131,300.00 - 177,600.00 USD annually
+USA, NJ, Jersey City - 144,500.00 - 195,400.00 USD annually
+USA, NY, New York - 144,500.00 - 195,400.00 USD annually
+USA, TX, Austin - 131,300.00 - 177,600.00 USD annually
+USA, VA, Arlington - 131,300.00 - 177,600.00 USD annually
+USA, VA, Herndon - 131,300.00 - 177,600.00 USD annually
+USA, WA, Bellevue - 131,300.00 - 177,600.00 USD annually
+USA, WA, Seattle - 131,300.00 - 177,600.00 USD annually
+
+Job details
+
+* 
+
+* USA, NJ, Jersey City
+* USA, TX, Austin
+* USA, WA, Seattle
+* USA, VA, Arlington
+* USA, WA, Bellevue
+* USA, NY, New York
+* USA, CO, Denver
+* USA, VA, Herndon
+* USA, CA, Mountain View
+* USA, CA, San Francisco
+
+* 
+
+* [Project/Program/Product Management--Technical](https://www.amazon.jobs/en/job_categories/project-program-product-management-technical)
+
+Recommended jobs
+Based on your recent activity, you may be interested in:
+
+* [Software Development Engineer – 2026](https://www.amazon.jobs/en/jobs/3175845/software-development-engineer-2026)
+Location: ES, Community of Madrid, Madrid
+Posted: February 6, 2026 (Updated 5 months ago)
+* [Data Center Technician](https://www.amazon.jobs/en/jobs/10487088/data-center-technician)
+Location: US, Pennsylvania, Berwick
+Posted: July 29, 2026 (Updated 30 days ago)
+* [Area Manager, Early Career - (2027) - Nebraska](https://www.amazon.jobs/en/jobs/10485386/area-manager-early-career-2027-nebraska)
+Location: US, Nebraska, Omaha
+Posted: July 27, 2026 (Updated 26 days ago)
+* [Software Dev Engineer Embedded Development](https://www.amazon.jobs/en/jobs/10537470/software-dev-engineer-embedded-development)
+Location: ES, Community of Madrid, Madrid
+Posted: September 11, 2026 (Updated about 1 month ago)
+* [Data Center Technician](https://www.amazon.jobs/en/jobs/10498605/data-center-technician)
+Location: US, Pennsylvania, Berwick
+Posted: August 11, 2026 (Updated 30 days ago)
+
+Share this job
+
+* 
+* 
+* 
+* 
+* 
+
+Important FAQs for current Government employees
+Before proceeding, please review the following FAQs
+https://www.amazon.jobs/en/faqs#faqs-for-us-government-employees
+JOIN US ON
+
+* 
+* 
+* 
+* 
+
+DOWNLOAD OUR APP
+
+* 
+* 
+
+Find Careers
+
+* [Job Categories](https://www.amazon.jobs/content/en/job-categories)
+* [Teams](https://www.amazon.jobs/content/en/teams)
+* [Locations](https://www.amazon.jobs/content/en/locations)
+* [Military careers](https://www.amazon.jobs/content/en/career-programs/military)
+* [Hourly](https://www.amazon.jobs/content/en/hourly)
+
+Working At Amazon
+
+* [Culture](https://www.amazon.jobs/content/en/our-workplace)
+* [Benefits](https://www.amazon.jobs/content/en/benefits)
+* [Amazon Newsletter](https://email.aboutamazon.com/l/637851/2020-10-29/pd87g?utm_campaign=newslettersubscribers&utm_content=amazonnewssignup&utm_medium=amazonjobs&utm_source=footer)
+* [Inclusive experiences](https://www.amazon.jobs/content/en/our-workplace/inclusive-experiences)
+* [Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
+
+Help
+
+* [FAQ](https://www.amazon.jobs/content/en/faq)
+* [How We Hire](https://www.amazon.jobs/content/en/how-we-hire#onlineapp)
+* [Application status](https://www.amazon.jobs/applicant/check_application_status)
+* [Accommodations](https://www.amazon.jobs/content/en/how-we-hire/accommodations)
+* [Legal disclosures and notices](https://www.amazon.jobs/content/en/legal-disclosures-and-notices)
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status. Veterans, military spouses, and people with disabilities are encouraged to apply.
+[Privacy and Data](https://www.amazon.jobs/en/privacy_page)[Impressum](https://www.amazon.jobs/en/impressum)
+© 1996-2026, Amazon.com, Inc. or its affiliates

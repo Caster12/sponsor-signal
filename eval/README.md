@@ -1,6 +1,6 @@
 # Evaluation set
 
-Target: 200 hand-labeled postings across finance, tech, and consulting, labeled with the five categories in [docs/spec.md](../docs/spec.md).
+Target: 200 hand-labeled postings across finance, tech, and consulting, labeled with four categories (see Labels). The spec still lists five; the eval merges `citizenship_or_clearance` into `does_not_sponsor`, pending a spec update.
 
 ## Layout
 
@@ -25,7 +25,9 @@ Each collector has a folder, `eval/<name>/` (currently `khushi/` and `vishal/`),
 
 ## Labels
 
-`sponsors`, `does_not_sponsor`, `citizenship_or_clearance`, `silent`, `unclear`.
+`sponsors`, `does_not_sponsor`, `silent`, `unclear`.
+
+`does_not_sponsor` also covers postings that limit the job by status, such as "must be a US citizen", "US persons only", or a required clearance, because for a student who needs sponsorship the outcome is the same. When scoring, map the model's `citizenship_or_clearance` to `does_not_sponsor`.
 
 Each label row has `id`, `label`, `quote` (the exact words, or `"no sponsorship language found"` for silent), and `notes`.
 
