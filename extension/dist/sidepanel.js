@@ -37394,6 +37394,8 @@ Do not break ties toward any label. When the wording does not settle the questio
 
 Judge only the posting text. Do not use what you know about the employer's general sponsorship practice. Boilerplate equal-opportunity statements and E-Verify notices are not sponsorship language.
 
+Application-form questions addressed to the candidate are not the employer's statement and never decide the label. Pages often include the application form after the description, with questions such as "Will you now or in the future require sponsorship?", "Are you legally authorized to work in the country where the job is located?", or a checkbox like "I am legally authorized to work in the United States." Ignore them, and never quote them. If the only sponsorship or work-authorization wording on the page is in such questions, the label is silent.
+
 Set explicitly_excludes_sponsorship to true whenever the posting contains a statement that sponsorship is not available, and requires_citizenship_or_clearance to true whenever it requires citizenship, U.S. person status, or a clearance. Set these independently of the label.
 
 The quote must be copied character for character from the posting, one contiguous passage, as short as carries the meaning. Code will check that it appears in the posting.`;
@@ -37696,9 +37698,18 @@ ${postingText}
   var autoToken = 0;
   var inflightUrl = "";
   function readPage() {
+    const withoutForms = (root) => {
+      let text = root.innerText;
+      for (const form of root.querySelectorAll("form, [role=form]")) {
+        if (form.contains(root) || form.querySelector("h1")) continue;
+        const part = form.innerText.trim();
+        if (part) text = text.replace(part, "");
+      }
+      return text.trim();
+    };
     const pick2 = document.querySelector("main, [role=main], article");
-    const main = pick2 ? pick2.innerText.trim() : "";
-    return main.length >= 400 ? main : document.body.innerText.trim();
+    const main = pick2 ? withoutForms(pick2) : "";
+    return main.length >= 400 ? main : withoutForms(document.body);
   }
   function looksLikeJobPosting(text) {
     const hits = new Set((text.match(JOB_WORDS) || []).map((w) => w.toLowerCase()));

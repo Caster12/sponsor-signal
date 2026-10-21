@@ -154,9 +154,18 @@ let inflightUrl = "";
 
 // Same logic as readPage in background.js; this copy runs when no toolbar click happened.
 function readPage() {
+  const withoutForms = (root) => {
+    let text = root.innerText;
+    for (const form of root.querySelectorAll("form, [role=form]")) {
+      if (form.contains(root) || form.querySelector("h1")) continue;
+      const part = form.innerText.trim();
+      if (part) text = text.replace(part, "");
+    }
+    return text.trim();
+  };
   const pick = document.querySelector("main, [role=main], article");
-  const main = pick ? pick.innerText.trim() : "";
-  return main.length >= 400 ? main : document.body.innerText.trim();
+  const main = pick ? withoutForms(pick) : "";
+  return main.length >= 400 ? main : withoutForms(document.body);
 }
 
 // Page text goes to the API only when it reads like a job posting, so a tab switch never sends email, banking, etc.
