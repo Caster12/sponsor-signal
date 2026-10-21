@@ -9,7 +9,6 @@ const MIN_POSTING_CHARS = 200;
 const LABEL_ICON = {
   sponsors: "✓",
   does_not_sponsor: "✕",
-  citizenship_or_clearance_required: "!",
   silent: "–",
   unclear: "?",
 };

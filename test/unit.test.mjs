@@ -2,7 +2,7 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
 import { buildCard, NO_RECORDS, renderCardText } from "../src/card.js";
-import { applyGuards } from "../src/classify.js";
+import { applyGuards, LABELS } from "../src/classify.js";
 import { matchHistory, pickEmployer, titlesSimilar } from "../src/match.js";
 import { normalizeEmployer, titleTokens } from "../src/normalize.js";
 
@@ -82,6 +82,15 @@ test("a posting that excludes sponsorship is never labeled sponsors", () => {
   assert.equal(applyGuards(flagged, "We will sponsor H-1B visas").label, "unclear");
   assert.equal(applyGuards(base, "U.S. citizenship is required. We will sponsor H-1B visas").label, "unclear");
   assert.equal(applyGuards(base, "We will sponsor H-1B visas for qualified candidates.").label, "sponsors");
+});
+
+test("citizenship or clearance postings fall under does_not_sponsor and show the employer's words", () => {
+  assert.deepEqual(Object.keys(LABELS), ["sponsors", "does_not_sponsor", "silent", "unclear"]);
+  const quote = "U.S. persons only. Active Secret clearance required.";
+  const h = { status: "no_records", otherNames: [], years: meta.years };
+  const card = buildCard(applyGuards({ ...base, label: "does_not_sponsor", quote, requires_citizenship_or_clearance: true }, quote), h);
+  assert.equal(card.labelText, "Does not sponsor");
+  assert.equal(card.quoteText, `"${quote}"`);
 });
 
 test("a quote that is not in the posting is flagged", () => {

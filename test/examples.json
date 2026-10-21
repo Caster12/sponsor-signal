@@ -13,7 +13,7 @@
     },
     {
       "id": 3,
-      "expectedLabel": "citizenship_or_clearance_required",
+      "expectedLabel": "does_not_sponsor",
       "text": "Lockheed Martin\nML Engineer\nFort Worth, TX\n\nOur Aeronautics team is looking for a machine learning engineer to build perception and sensor fusion models for advanced aircraft programs.\n\nWhat you will do\n- Train and evaluate deep learning models on sensor data\n- Deploy models to embedded hardware\n- Document results for program reviews\n\nBasic qualifications\n- Bachelor's degree in computer science or a related discipline\n- Experience with PyTorch or TensorFlow\n\nU.S. persons only. Active Secret clearance required.\n\nLockheed Martin is an equal opportunity employer."
     },
     {

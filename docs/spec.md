@@ -17,7 +17,7 @@ An international MS student in recruiting season with about 30 postings open and
 ## Flow
 
 1. **Capture.** On a job page, the student clicks the Chrome extension, which pulls the job description text from the page they have open. By default it reads only that page, only on click. If extraction fails, the student can paste the text instead. Optionally, the student can turn on "Auto-check when I switch tabs" in the side panel. This is off by default and asks Chrome for permission to read pages. When on, the extension reads the tab the student switches to and sends its text to the model only if it looks like a job posting (at least three distinct job-posting keywords); other tabs are not sent. Results are cached per URL.
-2. **Classify.** The model assigns one label: sponsors, does not sponsor, citizenship or clearance required, silent, or unclear. It quotes the exact words behind the label and gives a confidence score. Conflicting or ambiguous wording (for example, "authorized to work on a permanent basis") is labeled unclear; there is no tie-break toward any other label. One hard rule: a posting that explicitly excludes sponsorship or requires citizenship is never labeled sponsors.
+2. **Classify.** The model assigns one label: sponsors, does not sponsor (which includes postings that require citizenship, U.S. person status, or a clearance, since the outcome is the same for a student needing sponsorship), silent, or unclear. It quotes the exact words behind the label and gives a confidence score. Conflicting or ambiguous wording (for example, "authorized to work on a permanent basis") is labeled unclear; there is no tie-break toward any other label. One hard rule: a posting that explicitly excludes sponsorship or requires citizenship is never labeled sponsors.
 3. **Extract.** The model pulls the employer name and a normalized job title.
 4. **Match.** Code, not the model, matches employer and title to Department of Labor records. Source is the H-1B LCA disclosure files, last 3 fiscal years.
 5. **Card.** One card shows the label with its quote, then the history for similar roles: count of LCA certifications, recent years, typical titles. No match shows "no records found," never "does not sponsor," and says plainly that this is not a no. Unclear cards show the quote, the history for similar roles, and the nudge "Worth a recruiter question. Don't rule this out." The card appears in the extension panel beside the posting. Confidence under 70% adds a "check with recruiter" flag. \[GUESS\]
@@ -35,13 +35,13 @@ Postings, employers other than Meta, and confidence scores are invented for illu
 | --- | --- | --- |
 | 1 | Data Scientist II, Ads at Meta: "We will sponsor H-1B visas for qualified candidates." | **Sponsors**, quote shown. Matched to the Meta entity in the records. History for similar roles: LCA certifications for data scientist titles, by year. |
 | 2 | Quantitative Analyst at a bank: "Must be authorized to work in the United States on a permanent basis." | **Unclear**, quote shown, recruiter nudge. History for similar roles still shown. Label does not change because of it. |
-| 3 | ML Engineer at a defense contractor: "U.S. persons only. Active Secret clearance required." | **Citizenship or clearance required**, quote shown. History shown as history; if there are certifications but none for similar roles, the card says so. |
+| 3 | ML Engineer at a defense contractor: "U.S. persons only. Active Secret clearance required." | **Does not sponsor**, quote shown (the employer's own citizenship or clearance wording). History shown as history; if there are certifications but none for similar roles, the card says so. |
 | 4 | Associate Consultant at a consulting firm: no mention of visas, sponsorship, or work authorization. | **Silent**, "no sponsorship language found" in place of a quote. History for consultant titles. No prediction added. |
 | 5 | Data Analyst at a 20-person startup: "Sponsorship is not available for this role, now or in the future." | **Does not sponsor**, quote shown. Employer not matched: "no records found." |
 
 ## Success criteria
 
-Pass or fail, on 200 hand-labeled postings across finance, tech, and consulting, labeled with the five categories:
+Pass or fail, on 200 hand-labeled postings across finance, tech, and consulting, labeled with the four categories:
 
 - Correct sponsorship category on at least 85%.
 - Higher accuracy than the keyword-search baseline on the same 200 postings. Any margin counts. \[GUESS\]
