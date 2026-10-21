@@ -1,0 +1,37 @@
+AI Engineer
+
+Build the AI capabilities, models, APIs, and tools that power Bridge's lending platform for underwriters, servicing managers, and capital markets teams.
+
+NEW YORK, NY
+FULL-TIME
+2+ YEARS
+About the role
+
+As an AI Engineer, you will build and ship AI capabilities, models, APIs, tools, and integrations that power Bridge's platform. You'll work closely with product, engineering, and our in-house capital teams to make AI genuinely useful for the people doing the work: underwriters sizing a hotel construction loan, servicing managers running draws, and capital markets teams placing deals across our network of 100+ lenders.
+
+You'll do it with a high bar for quality, transparency, and sound judgment, because real money and real businesses are on the other end. You'll measure success by what gets adopted and what it changes: faster closings, cleaner servicing, better decisions. This role is based in New York City.
+
+Key responsibilities
+Design, build, and optimize integrations between frontier AI models and Bridge's lending systems, data, and workflows.
+Build the SDKs, APIs, internal tools, and documentation that let the rest of engineering ship AI-powered features quickly.
+Partner with underwriting, servicing, and capital markets stakeholders to understand their needs, prototype solutions, and iterate fast on real feedback.
+Ship production-grade code and features with a bias toward speed, simplicity, and measurable impact on closings, servicing, and decisions.
+Qualifications and skills
+Bachelor's degree in computer science or another STEM field, or 2+ years of professional software development experience in lieu of a degree.
+Experience working with large language models, generative AI, or agentic systems, whether in research, production, or applied engineering.
+Familiarity with fintech, lending, or other regulated environments is a plus.
+Strong product sense and problem-solving ability.
+Track record of clean, maintainable, high-performance code.
+Clear communication with non-technical partners.
+Exposure to AI safety, evals, or red-teaming is preferred.
+Experience with cloud platforms, containerization, and API orchestration is preferred.
+Open-source AI or developer tool contributions are preferred.
+Compensation and benefits
+Competitive base salary with performance-driven bonus.
+Stock option plan.
+401(k) with company match.
+Health, dental, and vision coverage.
+Parental leave.
+Collaborative team environment with on-site lunches and offsites.
+
+Bridge is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender identity, sex, sexual orientation, national origin, disability status, protected veteran status, genetic information, marital status, and pregnancy or any other characteristic protected by law or company policy.

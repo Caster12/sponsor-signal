@@ -1,0 +1,103 @@
+Opportunityawaits...
+http://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352485
+
+Personalize your visit with cookies
+
+
+
+We're all about transparency. These are the reasons why our cookies are good for you.
+
+✔ Show website with the correct country and language settings
+
+✔ Improved experience by showing you relevant information quicker
+
+✔ Show you advertising you might be interested in
+
+
+
+
+You can find all the details in our privacy statement and our cookie notice.
+
+Agree to all Decline all Set preferences
+Skip to main content
+Header links
+Trading AI Developer, Global Markets
+
+United States - New York
+
+Investment Banking
+
+Investment Bank
+
+Job Reference #
+
+344919BR
+
+City
+
+New York
+
+Job Type
+
+Full Time
+
+Key responsibilities
+
+Are you excited by the prospect of engineering solutions in across Global Markets? Do you want to design, build and help deliver production systems across the front-office? Are you passionate about building and delivering AI solutions working directly with trading?
+We’re looking for a Quant/AI Developer to work directly on the trading desk to:
+• participate in the design, development, and implementation of quantitative models and analytics across the Global Markets business
+• play a key role in designing and implementing the next generation of AI-powered systems, partnering closely with Trading, Structuring and Sales from idea generation through to production launch
+• build and maintain strong working relationships with Trading, Structuring, Sales, Quant, IT, and Risk partners in London and across regions
+
+Your Career Comeback
+
+We are open to applications from career returners. Find out more about our program on ubs.com/careercomeback.
+
+The team
+
+You’ll be working in our Quantitative Analytics team in London — a fast-paced, entrepreneurial environment. We build the tools, models, and workflows that drive the Front Office across asset classes, working side-by-side with them to architect solutions to real problems.
+You’ll develop models, applications, and workflows within UBS’s proprietary cloud-based quantitative analytics platform (ACQA), working closely with Trading, Structuring, Sales, Quant, and IT partners globally. Clean code, curiosity and the ability to build relationships and communicate ideas is crucial to the team delivering across a broad range of problems.
+
+Your skills and experience
+
+• An ambitious and intellectually curious individual, keen to combine your technical experience with a clear desire to solve practical problems
+• Proficient in Python with experience delivering production changes to large complex systems
+• Able to communicate your ideas clearly and build strong relationships globally within the front office
+• Strong analytical, problem-solving, and architectural design skills, with an ability to operate effectively in a front-office environment
+• An academic background in Quantitative Finance, Mathematics, Physics, Engineering, Computer Science, or a related STEM discipline
+Preferred
+• Strong knowledge of AI/ML techniques with experience delivering related work into production
+• Previous experience of agentic design (harnesses), MCP servers, and related AI/ML python libraries
+• Strong understanding of data fundamentals and their python implementations (numpy, polars, scipy)
+• You’re curious to explore how AI can improve how we build, deliver and optimize workflows. You do this with sound judgment – validating outputs and aligning with policies, risk standard and ethical use.
+
+About us
+
+UBS is a leading and truly global wealth manager and the leading universal bank in Switzerland. We also provide diversified asset management solutions and focused investment banking capabilities. Headquartered in Zurich, Switzerland, UBS is present in more than 50 markets around the globe.
+We know that great work is never done alone. That’s why we place collaboration at the heart of everything we do. Because together, we’re more than ourselves. Want to find out more? Visit ubs.com/careers.
+
+Salary information
+
+The indicative gross base salary range as a full-time equivalent role:
+• United States - New York - New York min USD 145000 - max USD 172500 /annum
+
+The expected salary for this role will be determined by relevant factors which may include but are not limited to, role-required experience, qualifications, education, location and skill level. UBS offers a range of competitive benefits and for further information, please visit ubs.com/employee-benefits. We may, at our sole discretion, provide additional variable compensation or awards.
+
+Join us
+
+At UBS, we know that it's our people, with their diverse skills, experiences and backgrounds, who drive our ongoing success. We’re dedicated to our craft and passionate about putting our people first, with new challenges, a supportive team, opportunities to grow and flexible working options when possible. Our inclusive culture brings out the best in our employees, wherever they are on their career journey. And we use artificial intelligence (AI) to work smarter and more efficiently. We also recognize that great work is never done alone. That’s why collaboration is at the heart of everything we do. Because together, we’re more than ourselves.
+We’re committed to disability inclusion and if you need reasonable accommodation/adjustments throughout our recruitment process, you can always contact us.
+
+Disclaimer / Policy statements
+
+UBS is an Equal Opportunity Employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills and experiences within our workforce.
+
+Apply now
+Save
+ English
+ Terms of use
+ Privacy statement
+ Report fraudulent mail
+ Cookies
+ Signal Labs Privacy Statement
+ Privacy Settings

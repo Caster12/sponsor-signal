@@ -1,0 +1,163 @@
+Skip to content
+
+Bridge has a new home: bridge.co. We’re the same team behind bridgemarketplace.com, continuing to serve Hotel and CPG businesses.
+Read our recent CPG fund launch →
+
+CAREERS · ENGINEERING
+
+AI Engineer
+
+Build the AI capabilities, models, APIs, and tools that power Bridge's lending platform for underwriters, servicing managers, and capital markets teams.
+
+Apply now
+→
+All open roles
+NEW YORK, NY
+FULL-TIME
+2+ YEARS
+About the role
+
+As an AI Engineer, you will build and ship AI capabilities, models, APIs, tools, and integrations that power Bridge's platform. You'll work closely with product, engineering, and our in-house capital teams to make AI genuinely useful for the people doing the work: underwriters sizing a hotel construction loan, servicing managers running draws, and capital markets teams placing deals across our network of 100+ lenders.
+
+You'll do it with a high bar for quality, transparency, and sound judgment, because real money and real businesses are on the other end. You'll measure success by what gets adopted and what it changes: faster closings, cleaner servicing, better decisions. This role is based in New York City.
+
+Key responsibilities
+Design, build, and optimize integrations between frontier AI models and Bridge's lending systems, data, and workflows.
+Build the SDKs, APIs, internal tools, and documentation that let the rest of engineering ship AI-powered features quickly.
+Partner with underwriting, servicing, and capital markets stakeholders to understand their needs, prototype solutions, and iterate fast on real feedback.
+Ship production-grade code and features with a bias toward speed, simplicity, and measurable impact on closings, servicing, and decisions.
+Qualifications and skills
+Bachelor's degree in computer science or another STEM field, or 2+ years of professional software development experience in lieu of a degree.
+Experience working with large language models, generative AI, or agentic systems, whether in research, production, or applied engineering.
+Familiarity with fintech, lending, or other regulated environments is a plus.
+Strong product sense and problem-solving ability.
+Track record of clean, maintainable, high-performance code.
+Clear communication with non-technical partners.
+Exposure to AI safety, evals, or red-teaming is preferred.
+Experience with cloud platforms, containerization, and API orchestration is preferred.
+Open-source AI or developer tool contributions are preferred.
+Compensation and benefits
+Competitive base salary with performance-driven bonus.
+Stock option plan.
+401(k) with company match.
+Health, dental, and vision coverage.
+Parental leave.
+Collaborative team environment with on-site lunches and offsites.
+
+Bridge is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender identity, sex, sexual orientation, national origin, disability status, protected veteran status, genetic information, marital status, and pregnancy or any other characteristic protected by law or company policy.
+
+THIS ROLE
+
+AI Engineer
+
+TEAM
+Engineering
+LOCATION
+New York, NY
+TYPE
+Full-time
+EXPERIENCE
+2+ Years
+Apply now
+→
+
+APPLY
+
+Apply for AI Engineer
+
+Tell us about yourself and attach your resume. Everything marked required helps us review your application faster.
+
+First name
+Last name
+Email
+Phone
+Location
+Compensation expectations
+Why do you want to work at Bridge?
+What aspects of this role are most exciting to you, and why do you believe you're uniquely qualified to excel in it?
+Upload your resume
+Choose file
+PDF, DOC, or DOCX up to 4 MB
+I am legally authorized to work in the United States.
+Website
+I agree that Bridge may store and use this information to consider my application.
+Submit application
+→
+
+Financing for hotel owners and consumer brands. Delivered by Bridge.
+
+Request Financing
+→
+
+Ask AI about Bridge
+
+FINANCING
+
+Success Stories
+Hotel Financing
+Hotel Financing Guide
+CPG Financing
+CPG Financing Guide
+Become a Capital Partner
+Become a Lending Partner
+
+LOAN TYPES
+
+SBA Loans
+Bank Loans
+CMBS Loans
+Debt Funds
+Equipment Financing
+Purchase Order Financing
+
+HOTEL PARTNERS
+
+Choice Hotels
+Hilton
+Hyatt
+Red Roof
+Wyndham
+
+RETAIL PARTNERS
+
+Best Buy
+Chipotle
+Dollar General
+Lowe’s
+Sam’s Club
+The UPS Store
+Walmart
+
+TOOLS
+
+Loan Calculator
+Hotel Pro Forma Builder
+Hotel Pro Forma Check
+Hotel Franchise Fee Calculator
+DSCR Loan Qualifier
+C-PACE Eligibility
+CPG Revenue Calculator
+Production Financing Calculator
+All Financing Tools
+
+COMPANY
+
+About
+Press
+Careers
+Contact Us
+Opportunity Referral
+Blog
+Privacy Policy
+Terms of Use
+
+CONTACT
+
+support@bridge.co
+(914) 530-0721
+175 Varick St
+New York, NY 10014
+
+All financing is subject to application, credit review, underwriting, approvals, and definitive documentation. Examples are illustrative and do not constitute an offer of credit.
+
+© 2026 Bridge (Foro Holdings, Inc.). NMLS ID 2566783.

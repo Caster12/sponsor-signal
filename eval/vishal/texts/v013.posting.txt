@@ -1,0 +1,58 @@
+Data Scientist (Remote Eligible)
+
+About Mathematica:
+Mathematica applies expertise at the intersection of data, methods, policy, and practice to improve well-being around the world. We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and enhance understanding using data science and analytics. Our work yields actionable information to guide decisions in wide-ranging policy areas, from health, education, early childhood, and family support to nutrition, employment, disability, and international development. Mathematica offers our employees competitive salaries, and a comprehensive benefits package, as well as the advantages of being 100 percent employee owned. As an employee stock owner, you will experience financial benefits of ESOP holdings that have increased in tandem with the company’s growth and financial strength. You will also be part of an independent, employee-owned firm that is able to define and further our mission, enhance our quality and accountability, and steadily grow our financial strength. Read more about our benefits here: https://www.mathematica.org/career-opportunities/benefits-at-a-glance.
+
+Primary Duties and Responsibilities:
+
+Mathematica applies expertise at the intersection of data, methods, policy, and practice to improve well-being around the world. We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and enhance understanding. Our work yields actionable information to guide decisions in wide-ranging policy areas, from health, education, early childhood, and family support to nutrition, employment, disability, and international development. Mathematica offers our employees competitive salaries, and a comprehensive benefits package, as well as the advantages of being 100 percent employee owned. As an employee stock owner, you will experience financial benefits of ESOP holdings that have increased in tandem with the company’s growth and financial strength. You will also be part of an independent, employee-owned firm that is able to define and further our mission, enhance our quality and accountability, and steadily grow our financial strength. Learn more about our benefits here.
+
+At Mathematica, we take pride in our commitment to diversity. Building an inclusive culture that draws on the individual strengths of employees from different ethnic backgrounds, cultures, lifestyles, abilities, and experience is key to our success.
+
+We are looking for a Data Scientist who will derive meaning from data through the creation and deployment of data-driven approaches to solve problems and answer important policy questions for clients. A Data Scientist owns data processing and analysis tasks and supports more senior level data science staff in implementing statistical, machine learning, generative AI, and other data science methods for use in research reports, internal systems, or client systems. Data Scientists will work on all aspects of the data science project life cycle, including understanding client needs, building data pipelines, monitoring data quality, developing documentation, creating visualizations, brainstorming modeling approaches, and implementing those models. Our data scientists underpin our company's core offerings in program improvement, policy assessment, and data science, which yield crucial evidence and information for policy and decision makers.  This position will work remotely or flexibly in one of our office locations.
+
+The ideal candidate for this open Data Science position has a strong interest in applying their skills to healthcare and a strong statistical background in causal inference and supporting methodologies such as imputation, matching, weighting, regression, quasi-experimental methods, and synthetic-comparison methods, among others. In addition to the required technical skills below, our healthcare-focused data scientists strongly benefit from additional knowledge of SQL or Scala, experience with big data analysis platforms such as Databricks or Snowflake, and familiarity with healthcare datasets such as Medicare or Medicaid claims and enrollment data and electronic medical records.
+
+Example projects include:
+
+Evaluate and monitor the impacts of an alternative payment model for primary care in terms of care quality, cost, and health outcomes for diverse beneficiaries, using claims from thousands of primary care practices across the country. Use the same data to predict future hospital costs and behavior.
+Develop and evaluate a reproducible benchmarking pipeline to compare state healthcare spending against peer markets nationwide, harmonizing multi-source claims and Census data, applying statistical matching to select comparable regions, and normalizing spending through risk-adjusted regression models to support state rate-setting decisions.
+Build and evaluate interpretable machine learning models to predict clinical care tiers from health assessment data, supporting state healthcare program's transition to a new assessment tool. Partner with subject-matter experts to engineer clinically meaningful features from raw assessment items and apply stratified sampling and diagnostics to deliver transparent models suited to high-stakes eligibility and reimbursement decisions
+
+Specifically, this Data Scientist contributes to team-based projects by:
+
+Conducting causal, predictive, and descriptive analyses
+Writing and maintaining programming systems in languages such as Python and R to build and evaluate models
+Developing reliable data pipelines to obtain, combine, and transform datasets on cloud, internal, and client servers
+Communicating technical results to diverse stakeholders including clients and cross-functional teams
+Developing and maintaining technical and methodological documentation
+Co-developing analysis plans with a senior data scientist or researcher
+Leading and managing small teams and tasks with oversight from a more senior staff member
+
+Required Qualifications:
+
+Master’s degree in a technical field such as statistics, econometrics, data science, data analytics, mathematics, operations research, computer science, and/or social science; equivalent years of experience can be substituted
+Demonstrated interest and/or experience using data science and/or statistics to contribute to projects with a policy/social impact in academic and/or professional settings
+Experience applying generative AI programmatically to extract insights from unstructured data, construct new features for analysis, or as a part of a larger systematic analysis
+Experience executing causal, predictive, and descriptive data science and statistics techniques including regression modeling, machine learning algorithms, network analysis, or natural language processing
+At least three years of experience performing data cleaning and analysis using programming languages such as R, Python, or Julia in the academic, extra-curricular, or professional environment
+Experience increasing personal efficiency by incorporating AI into the code development process.
+Ability and desire to work independently and take initiative as part of an interdisciplinary team that may be geographically dispersed. This includes being able to learn from resources such as academic articles, white papers, self-guided tutorials, and package documentation and willingness to constantly learn and contribute to knowledge sharing with team members
+Experience with reproducible research principles, version control, interactive visualizations, and common packages/libraries for supporting data science work in R, Python, and/or Julia (e.g., tidyverse, data.table, R Shiny, R Markdown, pandas, polars, NumPy, scikit-learn, MLJ.jl, DataFrames.jl, and/or Makie.jl)
+Desired but not required: production-quality machine learning applications, cloud computing environments (e.g. AWS), and algorithmic fairness and ethics
+
+This position offers an anticipated annual base salary range of $78,000- $100,000. To apply, please submit a cover letter, resume, code samples, and salary expectations.
+
+Staff in our Data Solutions division will eventually work with some of our largest clients, including the Centers for Medicaid & Medicare Services (CMS) and other agencies. Most staff working on these contracts will be required to complete a successful background investigation including the Questionnaire for Public Trust Position SF-85 (https://www.opm.gov/forms/pdf_fill/sf85p.pdf). Staff that are unable to successfully undergo the background investigation will need to be able to obtain work outside these contracts. Staff will work with their supervisor to get re-staffed, however if they are unable to do so it may result in employment termination due to lack of work.
+
+STAFFING AGENCIES AND THIRD-PARTY RECRUITERS: Mathematica does not accept candidates for this role or any technical role from staffing agencies or third-party recruiters. Please do not contact technical or senior staff at Mathematica or share unsolicited resumes. All agency inquiries go through the talent acquisition team and will be routed accordingly.
+
+At Mathematica, we recognize that AI can be a valuable tool in many aspects of work. However, for your interview(s), we ask that you do not use AI or receive assistance from external sources. Our interviews are designed to help us understand how you think through complex problems, communicate your ideas, ask questions, and collaborate in real time. We want to learn about your unique approach and experience through a natural conversation that reflects how we work together in real scenarios at Mathematica. If you choose to use AI or require it as part of accommodation, we ask that disclose this before the discussion. If you do not disclose the use of AI, the interview team will consider this as they evaluate your candidacy. If you have any questions about these expectations or how to prepare, please reach out to your Talent Acquisition Specialist.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+
+At Mathematica, we understand the importance of building relationships with colleagues. If you’re not located near one of our offices but would like opportunities to meet up with co-workers, we offer coworking spaces where available. Ask your Talent Acquisition partner for more information about this opportunity and whether it’s an option in your area.
+
+Any offer of employment will be contingent upon passing a background check. Various federal agencies with whom we contract require that staff successfully undergo security clearance as a condition of working on the project. If you are assigned to such a project, you will be required to obtain the requisite security clearance. Additionally, if you participate in/complete the application process and are denied, Mathematica may choose to terminate your employment.
+
+We take pride in our employees and in their commitment to excellence. We encourage staff to collaborate in developing creative solutions to difficult problems and to share the responsibility and enjoyment of carrying out complex projects. This collegial spirit has helped us earn our reputation for innovative and high quality work.

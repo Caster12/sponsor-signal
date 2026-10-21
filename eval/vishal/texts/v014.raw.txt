@@ -1,0 +1,117 @@
+Skip to content
+FanDuel Life
+Teams
+Locations
+Inclusion
+Future Teammates
+Talent Community
+Internships
+Benefits
+FanDuel.com
+X
+Data Scientist, Market Making
+Jersey City, New Jersey, United States
+Risk & Trading
+
+THE POSITION
+Our roster has an opening with your name on it
+
+From research and data collection through production deployment and monitoring, you will build and improve the predictive models and algorithmic decision systems that power automated pricing and trading. Working closely with algorithmic traders, quant engineers, and product teams, you will translate sports, market, and operational data into models that improve price quality, execution quality, market competitiveness, and risk management. This role requires flexibility around the sporting calendar, including occasional evenings, weekends, and holidays tied to major live events.
+
+In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs.
+
+
+
+THE GAME PLAN
+Everyone on our team has a part to play
+
+Model Development & Production
+
+Develop, iterate, and deploy predictive models and algorithmic decision systems for automated pricing and market making
+Partner with algorithmic traders and quant engineers to test, deploy, and refine models and strategy logic in production
+Manage data preparation from collection through cleaning; build robust models with strong feature and model selection
+
+Pricing & Automation Research
+
+Improve quoting, pricing, and exposure-management logic using sports data, market signals, and performance analysis
+Build backtesting, simulation, and monitoring tools to evaluate model calibration and risk-adjusted performance
+Construct models and analyses in response to questions from trading, product, and engineering stakeholders
+
+Performance Analysis & Monitoring
+
+Create dashboards, diagnostics, and data visualizations for model health, execution quality, and communication
+Conduct post-event and post-trade analysis to identify opportunities to improve pricing and automation
+Evaluate model performance using historical results, live observations, and key metrics
+
+Trading Tools & Platform Collaboration
+
+Work with engineering and product teams to improve trading tools, controls, and operational reliability
+Contribute to a production code environment; provide feedback on platform behavior and new feature validation
+
+Identify opportunities to use data and models to improve automation, pricing, and business results
+
+
+
+THE STATS
+What we're looking for in our next teammate
+
+Quantitative & Data Science Experience
+
+Experience in data science, analytics, quantitative research, or engineering preferred
+Bachelor's degree in a highly numerate major (Math, Stats, Econ, Computer Science, Engineering, etc.) or relevant experience
+Strong proficiency in Python or R and SQL
+Experience building and deploying models for production products and tools
+Experience with simulation or back testing is a plus
+
+Market Making & Sports Context
+
+Interest or experience in sports betting, prediction markets, DFS, or fantasy sports
+Familiarity with pricing dynamics, market behavior, or real-time decision environments is a plus
+
+Communication & Collaboration
+
+Strong verbal and written communication skills; ability to work across teams, locations, and time zones
+Comfortable with command line tools, GitHub, and object-oriented design and coding
+Flexible schedule including occasional evenings, weekends, and holidays based on the sporting calendar
+
+
+
+ABOUT FANDUEL
+
+FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America’s #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry’s unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product.
+
+In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico.
+
+The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company’s affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia.
+
+FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT).
+
+PLAYER BENEFITS
+We treat our team right
+
+We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family planning, mental health support, and fitness benefits. We offer generous paid time off (PTO & sick leave), annual bonus and long-term incentive opportunities (based on performance), 401k with up to a 5% match, commuter benefits, pet insurance, and more - check out all our benefits here: FanDuel Total Rewards. *Benefits differ across location, role, and level.
+
+FanDuel is an equal opportunities employer and we believe, as one of our principles states, “We are One Team!”. As such, we are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or any other characteristic protected by state, local or federal law. We believe FanDuel is strongest and best able to compete if all employees feel valued, respected, and included.
+
+FanDuel is committed to providing reasonable accommodations for qualified individuals with disabilities. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please email Benefits@fanduel.com.
+
+The applicable salary range for this position is $98,000 - $152,250 USD, which is dependent on a variety of factors including relevant experience, location, business needs and market demand. This role may offer the following benefits: medical, vision, and dental insurance; life insurance; disability insurance; a 401(k) matching program; among other employee benefits. This role may also be eligible for short-term or long-term incentive compensation, including, but not limited to, cash bonuses and stock program participation. This role includes paid personal time off and 14 paid company holidays. FanDuel offers paid sick time in accordance with all applicable state and federal laws.
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+#LI-Hybrid
+
+Apply For This Position
+FANDUEL CAREERS
+Applicant Privacy Notice
+Cookie Policy
+Website Accessibility
+GENERAL
+Governance
+Trust & Safety
+Security
+Privacy Policy
+Terms of Use
+California Privacy Rights
+Modern Slavery Statement
+Press & Media

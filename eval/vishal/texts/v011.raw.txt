@@ -1,0 +1,97 @@
+Skip to main content
+Accessibility note:
+
+If you are a job seeker with a disability and require a reasonable accommodation to apply for one of our jobs, you will find the contact information to request the appropriate accommodation by visiting the following page:
+
+Accessibility accommodation for applicants
+
+Dismiss note
+Toggle navigation
+Post
+Data Scientist
+Job category: Data Science
+Requisition number: DATAS001089
+Apply now
+
+
+Posting details
+Posted: August 18, 2026
+Full-time
+Remote
+Locations
+Showing 1 location
+Remote - General (United States)
+
+Job details
+Description
+
+Position Summary
+
+Candid is a nonprofit that provides the most comprehensive data and insights about the social sector. We get you the information you need to do good. Candid currently has an opportunity for a Data Scientist. Candid (candid.org), the nation’s leading authority on philanthropy, seeks a resourceful, creative, conscientious, and detail-oriented data scientist to join the Candid Data Science team. This is a generalist applied-science role, spanning work that ranges from finding and fixing data-quality problems at scale, to measuring how well our models perform in production, to exploring and prototyping new data products and derived fields. Data scientists at this level work fairly independently on project-defined scope, often embedded with a product or data team, and partner with engineers, analysts, PMs, and subject-matter experts. We hire for a broad set of skills and deploy data scientists where they are most needed as priorities shift.
+
+Position: Data Scientist
+
+Reporting to: Director of Data Science
+
+Supervises: N/A
+
+Schedule: 35-hour work week, Monday through Friday
+
+Compensation: $100,000 - $130,000 (this range is for the NYC area and will be adjusted for other localities; additionally, factors like skills and experience will be considered).
+
+Location: Remote. In-person attendance is expected twice per year during our annual, weeklong all-staff summits. Additional in-person meeting participation is expected at least once per quarter for senior leaders and at least once per month for the executive team. Staff not located in the NYC area are expected to travel for these meetings. 
+
+Benefits: Health insurance (medical, dental, vision), retirement contribution with additional option for a match, paid life insurance and AD&D, paid leave time (PTO, compassionate leave, volunteer, holiday, parental), short-term and long-term disability, pre-tax transit, flexible spending accounts, supplemental insurance, summer hours, and Public Service Loan Forgiveness (PSLF) program eligible employer.
+
+Applicants for this position must be legally authorized to work in the United States without employer sponsorship, now or in the future.
+
+Responsibilities  
+
+Apply ML across data problems: detection, classification, entity resolution and matching evaluation, anomaly detection, embeddings and semantic search, and feature engineering.
+Measure how models perform on real production data (not just test sets), build ground-truth where labels don’t exist, and detect drift and degradation.
+Apply ML to data quality: find systematic, at-scale errors that queries and manual review miss, and route findings to the people who own the fixes.
+Take open-ended questions through to a prototype and a clear recommendation, including ruling ideas out when they aren’t worth building.
+Build enabling tooling and dashboards (for example, semantic search over text, or Streamlit dashboards) that help analysts and stewards do their work.
+Work embedded with a product or data team on project-defined scope, partnering with engineers, analysts, PMs, and subject-matter experts.
+Take on other ML and data-science projects as Candid’s needs and priorities shift.
+
+ 
+
+Requirements  
+
+3-5 years of relevant experience.
+A strong generalist applied data scientist, comfortable moving across classification, entity-resolution and matching evaluation, anomaly detection, embeddings and semantic search, feature engineering, and exploratory feasibility work.
+Strong Python and SQL, comfortable with large production datasets (Starburst/Trino, Snowflake) and working in AWS.
+Experience measuring model performance on real-world / production data (not just test sets), including building ground-truth where labels don’t exist, and detecting drift.
+Comfort building and maintaining dashboards (the team’s are in Streamlit) that surface data-quality and model-performance metrics.
+Experience taking a fuzzy question to a prototype and a recommendation, and being willing to rule an idea out.
+Sound statistical judgment: sampling, error rates, uncertainty, and knowing when a finding is real.
+Strong communication and comfort working embedded in another team with project-defined scope.
+Preferred someone with experience applying ML to data quality, such as detection or classification models that flag anomalous or wrong records at scale.
+Preferred (any of these are a plus): embeddings, semantic search, or NLP over text corpora; recommendation, ranking, or propensity modeling; computer vision or multimodal ML for image-based QA; experience evaluating entity-resolution or deduplication systems; turning exploration into derived-data products; and familiarity with the U.S. nonprofit and philanthropic sector.
+Willingness to perform other duties and special projects as needed/requested.
+Sensitivity and respect for racial, gender, sexual orientation, and cultural differences.
+Champions and represents Candid’s core values: We’re driven, direct, accessible, curious, and inclusive.
+
+
+About Candid 
+Candid’s mission is to get you the information you need to do good.
+
+The world’s problems are only growing, and change can’t wait. Nonprofits are needed now more than ever, but all too often their work goes without adequate support.
+
+Candid makes it easier and faster for nonprofits and funders to connect in pursuit of solutions to change the world. Candid is where nonprofits find grants, donors find nonprofits that inspire them, and all can gain insights about the work being done for good.
+
+Candid is a qualifying nonprofit organization as defined by the Public Service Loan Forgiveness Program. As such, Candid employees may claim their employment time on their PSLF application. We offer a competitive salary and excellent benefits. Due to the high volume of applicants we typically receive, we regret that we can only contact candidates we would like to interview.
+
+For more information on positions available at Candid, please visit our website: Work with us
+
+Candid is an equal opportunity employer. Candid provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+
+Notice: We are aware of emails/communications impersonating Candid’s recruitment staff. All legitimate recruiting communications come from a @candid.org email address. If you’ve received any communications claiming to be Candid that does not come from a @candid.org email address, please forward to humanresources@candid.org. We appreciate your interest in Candid.
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor.
+
+https://candid.org 
