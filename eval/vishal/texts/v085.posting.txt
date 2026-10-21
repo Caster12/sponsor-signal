@@ -1,0 +1,21 @@
+About the Position
+Our goal is to give you a real sense of what it's like to work at Jane Street full time while also providing a truly unparalleled educational experience. As an intern, you are paired with full-time employees who act as mentors, collaborating with you on real-world projects we actually need done.
+As a Windows Engineering intern, you'll work side by side with full-timers in the IT department to learn how we design, deploy, secure, and maintain the automation tools and key infrastructure components that are critical to Jane Street's success. Our Windows Engineers manage a combination of systems we've created ourselves, open-source tools meshed together to provide higher-level functions, and integrations with industry-leading third-party tools and platforms. All of these systems serve to support the Windows desktop and server estate, as well as the tech infrastructure across the company, regardless of platform. Our automation tools help Engineers develop solutions and integrations quickly, efficiently, and reliably.
+On any given day, you may be brainstorming approaches to improve systems and workflows, writing code, or learning about a new technology our team may want to deploy. You'll also learn how we use OCaml (our primary development language), F# (a similar language used with our Windows systems), and PowerShell (a scripting language used for the majority of our automation in IT) in our day-to-day work, and gain exposure to the libraries and tools that are foundational to our internal systems.
+After your initial training, you'll work in tandem with full-timers on projects drawn directly from our team's mission-critical stack. While your projects may vary in scope and content, they could include things like::
+Developing and maintaining tools and applications related to Windows automation and configuration management
+Improving our CI/CD systems, cross-platform frameworks, and software development environments
+Improving the efficiency and scalability of our tools, services, and monitoring solutions
+Implementing editor and workflow improvements to streamline coding and deployment workflows across IT
+Learn more about Jane Street's internship program here .
+About You
+If you've never thought about a career in finance, you're in good company. Many of us were in the same position before working here. If you have a curious mind, a collaborative spirit, and a passion for solving interesting problems, we have a feeling you'll fit right in. We're more interested in how you think and learn than what you currently know. You should be:
+A strong programmer who can demonstrate high potential and an aptitude for learning
+Experienced with .NET languages (C# or F#)
+Knowledgeable in operating system fundamentals and computer architecture
+Able to understand network protocols at a basic level
+Familiar with AI/LLMs and prompt engineering
+Intellectually curious, collaborative, and eager to learn
+Humble and unafraid to ask questions and admit mistakes
+A strong communicator
+As comfortable at the command line as you are in a GUI

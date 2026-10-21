@@ -15,7 +15,9 @@ Each collector has a folder, `eval/<name>/` (currently `khushi/` and `vishal/`),
 | `labels/<annotator>.jsonl` | One file per labeler, so labels stay independent. |
 | `screenshots/` | Original screenshots, kept so transcriptions can be checked. |
 
-`npm run eval:build` builds every folder, then prints quota counts over all of them and flags employers over the cap and ids used in more than one folder.
+A folder may keep its posting list at `sources/urls.jsonl` instead of `meta.jsonl` (same row format), with raw API responses under `sources/api/`; `vishal/` does this, see `vishal/README.md`. A posting whose row has `raw_page_status: "not_captured"` is description-only: it needs only `texts/<id>.posting.txt`, and its `text_raw` in `postings.jsonl` is null.
+
+`npm run eval:build` builds every folder, then prints quota counts over all of them (split into full-page and description-only) and flags employers over the cap and ids used in more than one folder. Nested batches such as `khushi/description-only/` are not read by the build.
 
 ## Adding a posting
 

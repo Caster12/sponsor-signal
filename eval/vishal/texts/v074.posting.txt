@@ -1,0 +1,37 @@
+About Clear Street:
+Clear Street’s mission is to give every sophisticated investor access to every asset, in every market, through a unified platform built for speed, transparency and scale.
+We give our clients the technology, tools, and service once reserved for the largest institutions, rebuilt with modern infrastructure. Our single, cloud-native, end-to-end capital markets platform powers investor growth today and is transforming how they can interact with markets tomorrow.
+For more information, visit  https://clearstreet.io .
+The Role:
+We are seeking an Experienced Software Engineer to join our Algorithmic Execution Services team, focusing on the design, development and maintenance of high-performance trading systems and their underlying algorithms.
+Enhance and develop: Responsible for improving existing core system components and support tools.
+Full-stack development: Design, develop, test, and deploy system enhancements.
+High-performance systems: Build highly available, horizontally scalable, mission-critical applications using modern technology.
+Problem-solving and collaboration: Hone advanced engineering skills by tackling challenges and working with stakeholders to define and deliver new features.
+Domain expertise: Develop a deep understanding of the business domain through this work.
+The Team:
+The Algorithmic Execution Services  team builds Clear Street’s electronic trading platform, supporting best execution across asset classes and regions. We develop low-latency order routing, algorithmic strategies, smart order logic, and direct market access.
+Our focus is performance, scalability, and cost-efficiency—enabling faster execution, smarter routing, and real-time risk controls. Working at the intersection of trading and engineering, AES powers Clear Street’s most advanced trading workflows and sophisticated order handling with the flexibility to service both the active trader and institutional workflows.
+Requirements:
+Ideally 10+ years of experience in developing high-performance algorithmic financial applications.
+Bachelor’s degree or higher in Computer Science, Engineering, Statistics, Math, or a related STEM field.
+Adaptability to a fast-paced, dynamic environment with evolving priorities.
+Ability to effectively communicate technical information
+Strong computer programming skills using Java and Python in a Linux environment.
+Strong understanding of financial markets.
+Relevant experience using FIX and binary protocols communicating with counterparties.
+Experience with low latency, multi-threaded programming and distributed application architecture.
+Strong understanding of computer systems, including operating systems, networks, and performance optimization.
+Experience with modern software development practices and tools.
+Strong passion for technology and continuous learning.
+Experience with relational databases, preferably Oracle and Postgres.
+Bonus:
+Experience with publish/subscribe multicast protocols.
+Proficiency in optimizing critical code paths.
+Experience in unit test development.
+Familiarity with containerization technologies, such as Docker.
+Tech Stack : Our tech stack is primarily Java, Python and C++.
+We Offer: The Base Salary Range is $200,000 - $250,000. These ranges are representative of the starting base salaries for this role at Clear Street. Which range a candidate fits into and where a candidate falls in the range will be based on job related factors such as relevant experience, skills, and location. These ranges represent Base Salary only, which is just one element of Clear Street's total compensation. The ranges stated do not include other factors of total compensation such as bonuses or equity.
+At Clear Street, we offer competitive compensation packages, company equity, 401k matching, gender neutral parental leave, and full medical, dental and vision insurance. Our belief has always been that we are better as a business when we are all together in person. We are requiring employees to be in the office 4 days per week. In-office benefits include lunch stipends, fully stocked kitchens, happy hours, a great location, and amazing views.
+Our top priority is our people. We’re continuously investing in a culture that promotes collaboration. We help each other through challenges and celebrate each other's successes. We believe that modern workplaces succeed by virtue of having high-performance workforces that are diverse — in ideas, in cultures, and in experiences. We put in the effort to make such a workplace a daily reality and are proud to be an equal opportunity employer.
+#LI-Hybrid

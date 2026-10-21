@@ -1,0 +1,54 @@
+Join phData , a remote-first data and AI consultancy company with employees across the United States, Latin America, and India. We partner with industry leaders, including Snowflake, AWS, Anthropic, Glean, and dbt, to solve the complex data and AI challenges that slow large enterprises.
+We're growing fast, and we give our people real ownership over their work. We hire top performers and trust them to deliver results.
+Why phData?
+Snowflake Implementation Partner of the Year — 7 consecutive years , and 2026 Snowflake AI Partner of the Year
+AWS Premier Tier Services Partner — the highest tier of recognition in the AWS Partner Network
+2025 Fivetran Partner of the Year (4th consecutive year)
+2025 dbt Labs Partner of the Year (3x winner) with Visionary partner status
+2026 KNIME Customer Excellence Partner of the Year
+Preferred Partner in the Anthropic Claude Partner Network
+#1 Partner in Snowflake Advanced Certifications
+600+ Expert Cloud Certifications (Sigma, AWS, Azure, Dataiku, and more)
+Recognized as an award-winning workplace in the US , India and LATAM
+We are looking for a Machine Learning Solutions Architect to join our Applied AI team. In this role, you will translate complex business challenges into practical, production-ready Applied AI solutions that deliver measurable value for our clients. You will collaborate closely with client stakeholders, senior architects, and cross-functional delivery teams to design and guide implementation of robust AI systems. You will help move AI initiatives from experimentation to production while ensuring reliability, scalability, governance, and responsible AI adoption.
+Key Responsibilities
+Lead the design of end-to-end Applied AI architectures that span predictive ML, MLOps, generative AI, LLM applications, agentic workflows, and intelligent automation aligned to client objectives and constraints.
+Translate ambiguous business requirements into clear solution designs, technical requirements, implementation roadmaps, and measurable success criteria for client engagements.
+Guide and contribute hands-on to prototypes, proofs of concept, and production implementations, ensuring high-quality delivery, robust integrations, and smooth transition into reliable production operations.
+Partner with client and internal stakeholders through discovery sessions, architecture workshops, and roadmap discussions to evaluate AI opportunities, recommend technology choices, and de-risk complex technical decisions.
+Ensure production AI systems are designed and implemented with strong attention to security, observability, evaluation, governance, cost-effectiveness, and ongoing monitoring, retraining, and support.
+About You
+You are a technically rigorous, client-focused problem solver who enjoys working in a fast-paced, outcomes-driven environment. You are comfortable operating in distributed, global teams and partnering with colleagues across time zones.
+Required Qualifications
+Experience
+8+ years of experience designing, building, or delivering Data, Analytics, Cloud, Software, Machine Learning, or AI solutions, including at least 5 years designing or leading AI, machine learning, MLOps, or data-intensive solutions in production.
+Technical / Functional Skills
+Strong understanding of Applied AI and modern machine learning systems, including predictive ML, MLOps, generative AI, LLM applications, RAG, and agentic architectures.
+Hands-on experience with production AI/ML systems, including evaluation, observability, security, governance, and operational support.
+Experience with modern cloud, data, and AI ecosystems such as Snowflake, Databricks, AWS, Azure, Google Cloud, dbt, Anthropic, OpenAI, or similar frameworks.
+Proficiency with programming and software development, preferably in Python, and strong working knowledge of SQL.
+Proven ability to translate business and technical requirements into architectures, solution designs, and actionable implementation plans.
+Willingness to travel up to 40%, varies based on client needs.
+Education - If desired
+Bachelor’s or master’s degree in computer science, engineering, data science, or a related technical field, or equivalent practical experience.
+Preferred Qualifications
+Preferred qualifications help candidates stand out but are not required for success in this role.
+Experience with agentic AI systems, including orchestration, tool use, planning, memory, multi-agent patterns, or protocols such as MCP.
+Experience designing and deploying enterprise RAG systems, semantic retrieval, AI applications, or intelligent workflow automation.
+Experience with cloud-native AI/ML services such as AWS Bedrock and SageMaker, Azure AI/ML, Google Vertex AI, or Snowflake Cortex.
+Experience with model registries, feature stores, data and model lineage, model monitoring, drift detection, AI evaluations, prompt management, or AI gateways.
+Experience building reusable accelerators, modular architectures, or solutions deployed across multiple clients, and contributing to proposals, workshops, demonstrations, or broader technical communities.
+Why phData?
+Impactful Work: Partner with leading organizations on meaningful data & AI initiatives.
+Collaborative Culture: Work with a supportive, high-performing global team that values transparency, autonomy, and continuous improvement.
+Growth Opportunities: Access to challenging projects, mentorship, and structured development pathways.
+Values-Driven: We prioritize doing the right thing for our clients, our teams, and our community.
+Benefits at phData
+US:
+Remote-First Work Environment
+401k plan with company match
+Dental and Vision insurance
+Home Office Equipment Stipend
+Annual stipend for Learning and Development
+Competitive comp, excellent benefits, 4 weeks PTO plan plus 10 Holidays (and other cool perks)
+phData celebrates diversity and is committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at phData. We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at People Operations.

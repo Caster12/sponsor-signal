@@ -1,0 +1,39 @@
+Technical Consultant
+We are looking for a technical consultant who thrives at the intersection of code and customer. As a member of our Technical Services team, you’ll help our most strategic customers deeply integrate Asana into their ecosystems through custom automations, integrations, and strategic guidance. You’ll write code, influence architecture, and engage directly with IT and business leaders to deliver measurable impact through the Asana platform. This is a multi-faceted role—part solution architect, part developer, and part trusted advisor—ideal for someone who loves solving hard problems, building elegant technical solutions, and shaping the future of how organizations collaborate.
+As a technical services consultant, you’ll work with our rapidly growing enterprise and strategic customer base, partnering with IT and business stakeholders to design and implement custom solutions using the Asana platform and third-party APIs. You’ll serve as a solution-oriented technical architect, empathetic customer advocate, and product expert—helping customers explore the art of the possible through data migrations, scripted automations, and custom integrations. You’ll advise customer-led engineering teams on how best to integrate Asana into their enterprise stack, and act as a liaison to the product team, offering invaluable feedback on our developer tools and platform. Internally, you’ll bring a unique, customer-centric technical perspective to teams across Asana.
+This role is based in our Chicago office with an office-centric hybrid schedule. Along with most Asanas, you’ll work from this office in person on Mondays, Tuesdays, and Thursdays. Most Asanas have the option to work from home on Wednesdays and Fridays. If you're interviewing for this role, your Talent Acquisition Partner will share more about the in-office requirements.
+What you’ll achieve
+Become a subject matter expert on Asana’s product, APIs, and developer tools
+Design and deliver scalable, customized solutions — including AI-augmented workflows — that integrate Asana into complex enterprise ecosystems
+Lead post-sales delivery from kickoff through close — owning the project lifecycle, writing and reviewing code, and partnering with Customer Success Managers to ensure customers realize lasting value
+Partner with Implementation Managers to coordinate project delivery, maintain momentum, and hold a high bar for customer experience throughout each engagement
+Provide guidance on automation, integration, and extensibility within complex tech stacks
+Evaluate technical feasibility of sophisticated customer use cases and drive alignment on solution strategy across cross-functional teams
+Collaborate with internal teams to deliver a seamless end-to-end customer experience
+Identify opportunities to improve technical services offerings and scale delivery practices
+Represent the voice of the customer by sharing feedback with Product, Engineering, and Developer Relations
+About you
+Demonstrates curiosity about AI tools and emerging technologies, with a willingness to learn and leverage them to enhance productivity, collaboration, or decision-making.
+5+ years in customer-facing technical roles (e.g., Solutions Architect, Technical Consultant, Customer Engineer)
+3+ years of hands-on programming (Python or Node.js required), with a strong understanding of REST APIs
+Architect mindset – you design for scale, understand system tradeoffs, and build with both today and tomorrow in mind
+Technically curious — you dive deep into how things work, approach challenges with creativity and pragmatism, and continuously seek and share new knowledge to grow yourself and the team
+Customer-first communicator – you are equally comfortable in a code editor and on a stakeholder call, with the ability to translate technical details for a non-technical audience
+Thrive in ambiguity — you are proactive, self-directed, and comfortable building in fast-evolving environments and early-stage teams
+Trusted partner—you build lasting relationships across technical and business teams, and influence with clarity and empathy
+At Asana, we're committed to building teams that include a variety of backgrounds, perspectives, and skills, as this is critical to helping us achieve our mission. If you're interested in this role and don't meet every listed requirement, we still encourage you to apply.
+What we’ll offer Our comprehensive compensation package plays a big part in how we recognize you for the impact you have on our path to achieving our mission. We believe that compensation should be reflective of the value you create relative to the market value of your role. To ensure pay is fair and not impacted by biases, we're committed to looking at market value which is why we check ourselves and conduct a yearly pay equity audit.
+For this role, the estimated base salary range is between $120,000 - $136,000. The actual base salary will vary based on various factors, including market and individual qualifications objectively assessed during the interview process. The listed range above is a guideline, and the base salary range for this role may be modified.
+In addition to base salary, your compensation package may include additional components such as equity, sales incentive pay (for most sales roles), and benefits. If you're interviewing for this role, speak with your recruiter to learn more about the total compensation and benefits for this role.
+We strive to provide equitable and competitive benefits packages that support our employees worldwide and include:
+Mental health, wellness & fitness benefits
+Career coaching & support
+Inclusive family building benefits
+Long-term savings or retirement plans
+In-office culinary options to cater to your dietary preferences
+These are just some of the benefits we offer, and benefits may vary based on role, country, and local regulations. If you're interviewing for this role, speak with your recruiter to learn more about the total compensation and benefits for this role.
+#LI-Hybrid
+About us
+Asana is a leading platform for human + AI collaboration. Millions of teams around the world rely on Asana to achieve their most important goals, faster. Asana has been named to Fortune's Best Workplaces for 7+ years and recognized by Fast Company, Forbes, and Gartner for excellence in workplace culture and innovation. We offer an exceptional office-centric culture while adopting the best elements of hybrid models to ensure that every one of our global team members can work together effortlessly. With 13+ offices all over the world, we are always looking for individuals who care about building technology that drives positive change in the world and a culture where everyone feels that they belong.
+We believe in supporting people to do their best work and thrive. Our goal is to ensure that Asana upholds an environment where all people feel that they are respected and valued, whether they are applying for an open position or working at the company. We provide equal employment opportunities to all applicants without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by law.
+Join Asana’s Talent Network  to stay up to date on job opportunities and life at Asana.

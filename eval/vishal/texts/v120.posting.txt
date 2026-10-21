@@ -1,0 +1,101 @@
+Who is Trace3 ?
+Trace3 is a leading Transformative IT Authority, providing unique technology solutions and consulting services to our clients. Equipped with elite engineering and dynamic innovation, we empower IT executives and their organizations to achieve competitive advantage through a process of Integrate, Automate, Innovate.
+Our culture at Trace3 embodies the spirit of a startup with the advantage of a scalable business. Employees can grow their career and have fun while doing it!
+Trace3 is headquartered in Irvine, California. We employ more than 1,200 people all over the United States. Our major field office locations include Denver, Indianapolis, Grand Rapids, Lexington, Los Angeles, Louisville, Texas, San Francisco.
+Ready to discover the possibilities that live in technology?
+Come Join Us!
+Street-Smart   -  Thriving in Dynamic Times
+We are flexible and resilient in a fast-changing environment. We continuously innovate and drive constructive change while keeping a focus on the “big picture.” We exercise sound business judgment in making high-quality decisions in a timely and cost-effective manner. We are highly creative and can dig deep within ourselves to find positive solutions to different problems.
+Juice -  The “Stuff” it takes to be a Needle Mover
+We get things done and drive results. We lead without a title, empowering others through a can-do attitude. We look forward to the goal, mentally mapping out every checkpoint on the pathway to success, and visualizing what the final destination looks and feels like.
+Teamwork -  Humble, Hungry and Smart
+We are humble individuals who understand how our job impacts the company's mission. We treat others with respect, admit mistakes, give credit where it’s due and demonstrate transparency. We “bring the weather” by exhibiting positive leadership and solution-focused thinking. We hug people in their trials, struggles, and failures – not just their success. We appreciate the individuality of the people around us.
+Role Summary
+Trace3 is seeking a Data Architect to join the Data and Analytics Services team. This role combines hands-on architecture, technical leadership, consulting, and delivery responsibility. The Data Architect will help clients design, modernize, govern, and operationalize data platforms that support analytics, artificial intelligence, reporting, and business decision-making.
+The ideal candidate can move comfortably between executive conversations, architecture workshops, detailed technical design, and delivery oversight. You will establish practical architecture standards, guide engineering teams, evaluate platform trade-offs, and help ensure that solutions are secure, scalable, maintainable, and aligned to business outcomes.
+This is a client-facing role with responsibility for both solution quality and team enablement.
+Architecture and solution design
+Lead the design of modern data architectures across cloud, hybrid, and on-premises environments.
+Translate business, information, analytics, and AI requirements into durable technical architectures and implementation roadmaps.
+Define patterns for data ingestion, transformation, orchestration, storage, modeling, serving, governance, security, and observability.
+Design lakehouse, data warehouse, data mesh, data product, and hybrid architectures as appropriate to client needs.
+Establish clear separation of responsibilities across raw, refined, curated, and consumption layers.
+Define standards for dimensional modeling, semantic models, master and reference data, slowly changing dimensions, data quality, lineage, and metadata.
+Evaluate architecture options and communicate trade-offs using clear decision criteria, risks, and consequences.
+Produce architecture diagrams, standards, reference architectures, technical designs, and implementation plans.
+Data platform expertise
+Bring hands-on experience with at least two of the following platforms: Snowflake, Databricks, and Microsoft Fabric.
+Apply platform-native capabilities effectively, including Snowflake data engineering and governance, Databricks Lakehouse and Unity Catalog, or Microsoft Fabric OneLake, Data Factory, and Power BI integration.
+Assess platform fit and recommend appropriate technologies based on business requirements, operating model, skills, cost, performance, security, and time to value.
+Establish scalable patterns for batch, streaming, event-driven, and incremental data processing.
+Design for performance, resiliency, cost transparency, and operational supportability.
+Guide teams in productionizing notebooks, pipelines, SQL, Python, reusable frameworks, and infrastructure-as-code.
+Define environment promotion and CI/CD practices across development, test, and production environments.
+Client delivery and consulting
+Facilitate discovery sessions, architecture workshops, design reviews, and stakeholder working sessions.
+Build trusted relationships with client executives, technology leaders, data leaders, engineers, analysts, and business stakeholders.
+Lead current-state assessments and maturity evaluations, then develop prioritized recommendations and roadmaps.
+Communicate complex technical concepts clearly to both technical and non-technical audiences.
+Contribute to proposals, statements of work, estimates, presentations, demonstrations, and solution shaping.
+Identify delivery risks early and partner with project and client leadership to resolve them.
+Ensure architecture decisions remain connected to measurable client outcomes, adoption plans, and delivery realities.
+Technical leadership and enablement
+Provide technical direction to data engineers, analytics engineers, architects, analysts, and client teams.
+Lead architecture reviews and design governance throughout the delivery lifecycle.
+Mentor engineers and architects through coaching, pairing, feedback, and knowledge sharing.
+Create reusable accelerators, templates, standards, playbooks, and service offerings for the Data and Analytics practice.
+Promote engineering practices that reduce technical debt, improve maintainability, and enable teams to operate solutions independently.
+Help shape Trace3’s data architecture capabilities, methodologies, and go-to-market offerings.
+Governance, security, and operations
+Incorporate data security, privacy, access control, compliance, retention, and responsible data use into architecture decisions.
+Design governance models that balance centralized standards with practical delivery autonomy.
+Establish approaches for data quality monitoring, lineage, cataloging, documentation, and stewardship.
+Define operational requirements for monitoring, alerting, incident response, disaster recovery, and service-level objectives.
+Evaluate and improve platform cost management, capacity planning, workload isolation, and resource utilization.
+Required qualifications
+8+ years of experience in data architecture, data engineering, analytics engineering, or a related technical consulting role.
+Hands-on production experience with at least two of these three data platforms: Snowflake, Databricks, and Microsoft Fabric.
+Demonstrated experience designing and delivering enterprise or large-scale cloud data platforms.
+Strong knowledge of data modeling, data integration, lakehouse and warehouse patterns, analytics architecture, and data governance.
+Proficiency with SQL and Python, including the ability to review and guide production-quality code.
+Experience with data pipeline orchestration, CI/CD, source control, automated testing, and environment promotion.
+Experience leading architecture workshops, technical design sessions, or complex delivery initiatives.
+Ability to explain technical decisions, alternatives, risks, and business impact to varied audiences.
+Demonstrated ability to mentor technical teams and establish repeatable engineering standards.
+Willingness and ability to travel periodically for client engagements, team meetings, or industry events.
+Preferred qualifications
+Experience with all three target platforms: Snowflake, Databricks, and Microsoft Fabric.
+Experience with Azure, AWS, or Google Cloud data services.
+Familiarity with Power BI, dbt, Kafka, Event Hubs, Airflow, Azure Data Factory, Terraform, Kubernetes, or comparable technologies.
+Experience implementing data products, semantic layers, master data, metadata, data catalogs, or data contracts.
+Experience with AI-ready data foundations, machine learning platforms, generative AI, or agent-consumable data architectures.
+Experience with FinOps, workload optimization, platform operating models, or managed data services.
+Relevant certifications in Snowflake, Databricks, Microsoft Fabric, Azure, AWS, Google Cloud, data management, or enterprise architecture.
+Experience in a professional services, systems integration, or client-facing consulting environment.
+What success looks like
+During the first year, the Data Architect will:
+Earn trust with clients and delivery teams as a practical, outcome-oriented technical leader.
+Deliver architecture recommendations that are adopted and successfully translated into implementation plans.
+Improve consistency through reusable patterns, templates, standards, and reference architectures.
+Help teams deliver secure, scalable, observable, and cost-conscious data solutions.
+Strengthen Trace3’s expertise across Snowflake, Databricks, and Microsoft Fabric.
+Mentor technical resources and raise the quality of architecture and engineering decisions across engagements.
+Contribute to new offerings, proposals, and client conversations that grow the Data and Analytics Services practice.
+Actual salary will be based on a variety of factors, including location, experience, skill set, performance, licensure and certification, and business needs. The range for this position in other geographic locations may differ. Certain positions may also be eligible for variable incentive compensation, such as bonuses or commissions, that is not included in the base salary.
+Estimated Pay Range
+$170,000 — $200,000 USD
+The Perks
+Comprehensive medical, dental and vision plans for you and your dependents
+401(k) Retirement Plan with Employer Match, 529 College Savings Plan, Health Savings Account, Life Insurance, and Long-Term Disability
+Competitive Compensation
+Training and development programs
+Major offices stocked with snacks and beverages
+Collaborative and cool culture
+Work-life balance and generous paid time off
+Our Commitment
+At the core of Trace3's DNA is our people. We are a diverse group of talented individuals who understand the importance of teamwork and demonstrating leadership, character, and passion in all that we do.
+We’re committed to fostering an inclusive workplace where everyone feels respected, valued, and empowered to grow. We recognize that embracing diversity drives innovation, improves outcomes, fosters collaboration, boosts teammate satisfaction, and builds a more inclusive culture.
+As an equal opportunity employer, Trace3 bases all employment decisions based on individual qualifications, merit, and business requirements. We do not engage in discrimination on the basis of race, color, religion, sex (including gender identity, sexual orientation, and pregnancy), national origin, age (40 or older), disability, genetic information, or any other characteristic protected by federal, state, or local law.
+Any demographic information provided is strictly voluntary, kept confidential in accordance with Equal Employment Opportunity (EEO) regulations, and will not be used in employment decisions, including hiring, promotions, or mentorship programs. We are committed to providing equal employment opportunities for all.
+If you require a reasonable accommodation to complete the application process or participate in an interview, please email  recruiting@trace3.com .
+***To all recruitment agencies:  Trace3 does not accept unsolicited agency resumes/CVs. Please do not forward resumes/CVs to our careers email addresses, Trace3 employees or any other company location. Trace3 is not responsible for any fees related to unsolicited resumes/CVs.

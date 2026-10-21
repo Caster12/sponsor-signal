@@ -1,0 +1,25 @@
+ROLE
+We are passionate about data. We collaborate to build elegant, effective, scalable and highly reliable solutions to empower predictive modelling in finance.
+Cubist’s Data Services (CDS) group is looking for a Data Scientist to join our dedicated data team. Our group is responsible for the timely delivery of comprehensive and error-free data to some of the most demanding and successful systematic Portfolio Managers in the world.
+As a Senior Data Scientist in the team, this individual will play a vital role in ensuring the smooth day-to-day implementation of a large research infrastructure, and the live production trading of billions of dollars of capital across global capital markets, including equities, futures, options and other financial instruments.
+RESPONSIBILITIES
+Onboarding novel datasets from a huge variety of sources into our platform
+Building processes, tools and frameworks to ingest, clean and deliver datasets
+Analysis of data for usability, cleanliness, feature extraction and proposed usage by investment teams
+Creation of in-house, value added, derived data products for consumption by investment teams
+Engaging with vendors and internal stakeholders to understand characteristics of datasets
+Partnering closely with investment teams to ensure their data requirements are met
+Research on new technologies (including AI solutions) to continuously improve data management and value-add for investment teams
+REQUIREMENTS
+PhD or Masters in Financial Engineering, Statistics, Computer Science or other disciplines involving rigorous quantitative analysis
+Strong programming skills in Python and SQL
+Experience working with AWS, Linux and Airflow preferred but not required
+5+ years of experience as a Data Scientist or similar role
+Experience working with large data sets including predictive modeling
+Financial industry experience preferred but not required
+Strong organization, communication and interpersonal skills
+Intellectual curiosity and enthusiasm for learning
+Attention to detail and a love of processes
+Strong oral and written communication skills
+Ability to multitask and prioritize assignments
+Commitment to the highest ethical standards

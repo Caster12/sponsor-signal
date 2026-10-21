@@ -1,0 +1,63 @@
+Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building new organisms.
+Senior Software Engineer, Autonomous Lab
+About the Role
+We are seeking Senior Software Engineers to join the Autonomous Lab software organization at Ginkgo Bioworks. These positions span multiple teams building Catalyst , the software platform that powers Ginkgo’s Autonomous Lab product. Catalyst encompasses everything from hardware driver interfaces and orchestration to data APIs and AI-enabled agentic workflows.
+Candidates who apply to this posting will be considered for all open Senior Software Engineer positions across the Automation Software organization. If your application advances to a phone screen, we will work with you to determine the team and role that best fit your preferences, background, and the needs of the business.
+The teams currently hiring are described below.
+To learn more about automation engineering at Ginkgo, please visit our website .
+All positions require the candidate to work on-site Monday - Friday in our Boston office. Ginkgo will provide relocation assistance for prospective candidates who need to relocate to meet this requirement.
+Applicants must be currently authorized to work in the United States on a full-time basis. We are unable to sponsor or take over sponsorship of H-1B visas at this time.
+Teams Hiring
+Each of the following teams have open position(s). During the phone screen, we will work with you to determine which team you will primarily interview for. If you have an early preference for the team you want to join, please indicate it in the application question.
+Agent Interfaces
+This team defines and builds the interactions between Catalyst users and AI agents on the platform. Engineers here own the agentic infrastructure: tool surfaces, orchestration, prompt pipelines, evaluation harnesses, and the backend APIs that make AI-enabled workflows safe and observable. They also deliver full-stack features that surface agent capabilities to scientists and operators.
+Solutions Engineering (Customer-Facing)
+This team sits at the intersection of software engineering and customer success. Engineers build custom integrations and workflow extensions tailored to customer-specific requirements, lead deployments at customer sites, and serve as technical escalation points for complex issues across the Catalyst stack. For this team, the role requires willingness and ability to travel to customer sites, domestically and occasionally internationally (up to 35%).
+Orchestrator (Scheduling & Optimization)
+This team designs and implements the interfaces for defining and launching work on RACs, and the software for scheduling and orchestration of this work. Engineers on this team translate complex real-world scheduling problems – resources, time windows, throughput, precedence – into production solvers and heuristics, and build the simulation and observability infrastructure to keep the scheduler performant and reliable.
+Data Management (API & Data Platform)
+This team owns the collection, processing, and serving of RAC data in forms usable by both humans and AI. They also own the Catalyst API: The productized REST surface that internal and external consumers depend on. Engineers here work on API design, data modeling, pipeline architecture, and the schema and query infrastructure that keeps data fast, correct, and accessible.
+Ops & Infra Team
+This team is the operational foundation of the Catalyst stack, responsible for keeping it running reliably across both cloud and customer-site deployments. Engineers own the Kubernetes platform, CI/CD pipelines, and release engineering that takes Catalyst from commit to production – including the on-prem deployments at external customer sites. Working with Kubernetes and cloud infrastructure is central to this role.
+Responsibilities
+Responsibilities vary by team, but Senior Software Engineers across the Catalyst organization are generally expected to carry out the following:
+Technical Delivery & Ownership
+Independently scope, design, and deliver large or complex software features end-to-end with minimal guidance.
+Own components and subsystems across the full lifecycle: design, implementation, testing, deployment, and ongoing support.
+Identify and drive architectural improvements that improve reliability, maintainability, or developer productivity.
+Serve as a technical authority within the team and a go-to expert for your focus area.
+Collaboration & Cross-Team Work
+Partner closely with scientists, operators, and other engineering teams to understand requirements and translate them into durable software solutions.
+Define and evolve interfaces and contracts that other teams build on with confidence.
+Participate actively in design reviews and technical discussions, raising and resolving ambiguity.
+Quality & Operational Excellence
+Develop and maintain rigorous automated tests; hold the team to high standards for test coverage and reliability.
+Build observability and fault-tolerance into systems from the start.
+Contribute to incident response, post-mortems, and durable remediation of systemic issues.
+Mentorship & Team Development
+Mentor less senior engineers; share knowledge through design documents, code review, and direct coaching.
+Contribute to hiring, documentation, and practices that make the team stronger.
+Use AI agents and tooling to accelerate development while applying strong engineering judgment to ensure maintainability and production readiness.
+Minimum Requirements
+Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related technical field, or equivalent practical experience.
+5 years of experience in a software development role, with demonstrated ownership of complex systems or features.
+Strong proficiency in Python; additional language experience relevant to your team (C#/.NET for drivers, TypeScript/React for agent interfaces or solutions engineering, etc.) is noted in the team descriptions above.
+Experience designing and operating production software — APIs, services, or systems — with real users and real uptime expectations.
+Strong communication and collaboration skills; ability to work effectively across engineering, science, and customer-facing stakeholders.
+Preferred Capabilities and Experience
+We do not expect that any one candidate will have all of the following. Each is independently a preferred or “nice-to-have” capability.
+Familiarity with laboratory automation, robotics, or scientific instrumentation.
+Experience building agentic systems, LLM-backed applications, or tool-use frameworks (LangChain, MCP, function calling, etc.).
+Experience with scheduling, optimization, or operations research (constraint programming, MILP, heuristics).
+Experience with hardware communication protocols (RS-232, USB, TCP/IP, OPC-UA, SiLA2) or driver development.
+Experience with specialized device software libraries such as HL8, Terapagos, and Stratum v2.
+Strong relational database skills (PostgreSQL) and experience with schema design and query performance.
+Experience with Kubernetes, cloud infrastructure (GCP, AWS, Azure), or CI/CD and release engineering.
+Experience deploying and supporting software in customer environments, including on-prem.
+Experience with event-streaming systems (Kafka, Temporal) or data warehousing (ClickHouse, BigQuery, Snowflake).
+Proficiency with Git and experience working within agile methodologies and CI/CD pipelines.
+The base salary range for this role is  $134,300.00 - $189,900.00. Actual pay within this range will depend on a candidate's skills, expertise, and experience. We also offer company stock awards, a comprehensive benefits package including medical, dental & vision coverage, health spending accounts, voluntary benefits, leave of absence policies, 401(k) program with employer contribution, 8 paid holidays in addition to a full-week winter shutdown and unlimited Paid Time Off policy.
+Ginkgo has implemented a return to office policy effective October 1, 2025. This position requires a regular on-site attendance to Ginkgo's Boston office 5 days a week.
+It is the policy of Ginkgo Bioworks to provide equal employment opportunities to all employees, employment applicants, and EOE disability/vet.
+Privacy Notice
+I understand that I am applying for employment with Ginkgo Bioworks and am being asked to provide information in connection with my application. I further understand that Ginkgo gathers this information through a third-party service provider and that Ginkgo may also use other service providers to assist in the application process.  Ginkgo may share my information with such third-party service providers in connection with my application and for the start of employment.  Ginkgo will treat my information in accordance with Ginkgo's Privacy Policy .  By submitting this job application, I am acknowledging that I have reviewed and agree to Ginkgo's Privacy Policy as well as the privacy policies of the third-party service providers used by Ginkgo's associated with the application process.

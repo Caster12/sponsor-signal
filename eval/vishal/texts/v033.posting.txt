@@ -1,0 +1,61 @@
+Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building new organisms.
+About the Role
+We are seeking talented Software Engineers to join the Autonomous Lab software organization at Ginkgo Bioworks. These positions span multiple teams building Catalyst , the software platform that powers Ginkgo’s Autonomous Lab product. Catalyst encompasses everything from hardware driver interfaces and orchestration to data APIs and AI-enabled agentic workflows.
+Candidates who apply to this posting will be considered for all open Software Engineer positions across the Automation Software organization. If your application advances to a phone screen, we will work with you to determine the team and role that best fit your preferences, background, and the needs of the business.
+To learn more about automation engineering at Ginkgo, please visit our website .
+All positions require the candidate to work on-site Monday - Friday in our Boston office. Ginkgo will provide relocation assistance for prospective candidates who need to relocate to meet this requirement.
+Applicants must be currently authorized to work in the United States on a full-time basis. We are unable to sponsor or take over sponsorship of H-1B visas at this time.
+Teams Hiring
+Each of the following teams have open position(s). During the phone screen, we will work with you to determine which team you will primarily interview for. If you have an early preference for the team you want to join, please indicate it in the application question.
+Agent Interfaces
+This team defines and builds how Catalyst users and AI agents interact with the platform. Engineers here own the agentic infrastructure: tool surfaces, orchestration, prompt pipelines, evaluation harnesses, and the backend APIs that make AI-enabled workflows safe and observable. They also deliver full-stack features that surface agent capabilities to scientists and operators.
+Solutions Engineering (Customer-Facing)
+This team sits at the intersection of software engineering and customer success. Engineers build custom integrations and workflow extensions tailored to customer-specific requirements, lead deployments at customer sites, and serve as technical contributors for complex issues across the Catalyst stack. This role requires willingness and ability to travel to customer sites, domestically and occasionally internationally (up to 35%).
+Orchestrator (Scheduling & Optimization)
+This team designs and implements the interfaces for defining and launching work on RACs, and the software for scheduling and orchestration of this work. Engineers on this team contribute to production solvers and heuristics for complex scheduling problems – resources, time windows, throughput, precedence – and help build simulation and observability infrastructure to keep the scheduler performant and reliable.
+Data Management (API & Data Platform)
+This team owns the collection, processing, and serving of RAC data in forms usable by both humans and AI. They also own the Catalyst API: The productized REST surface that internal and external consumers depend on. Engineers here work on API design, data modeling, pipeline architecture, and the schema and query infrastructure that keeps data fast, correct, and accessible.
+Ops & Infra Team
+This team is the operational foundation of the Catalyst stack, responsible for keeping it running reliably across both cloud and customer-site deployments. Engineers contribute to the Kubernetes platform, CI/CD pipelines, and release engineering that takes Catalyst from commit to production – including the on-prem deployments at external customer sites. Experience with Kubernetes and cloud infrastructure is valuable in this role.
+Responsibilities
+Responsibilities vary by team, but Software Engineers across the Catalyst organization are generally expected to:
+Technical Delivery
+Scope and deliver well-defined features and components end-to-end with minimal guidance.
+Write clean, readable, maintainable code and apply coding principles (DRY, SOLID) with guidance from senior teammates.
+Recognize and follow established architectural patterns; contribute improvements as you grow into the codebase.
+Identify and communicate dependencies and potential blockers proactively.
+Use AI agents and tooling to accelerate development while applying sound engineering judgment.
+Collaboration & Communication
+Participate constructively in technical design discussions and code reviews.
+Work effectively with scientists, operators, and cross-functional partners to understand requirements and deliver solutions.
+Ask good questions, document decisions, and communicate progress clearly with the team.
+Quality & Reliability
+Write tests at the unit and integration level; actively think through edge cases and error conditions.
+Address bugs and failing tests promptly; contribute to a culture of quality.
+Build logging, error handling, and observability into the software you ship.
+Learning & Growth
+Actively develop expertise in your team’s technical domain and the broader Catalyst platform.
+Seek and act on feedback from peers and senior engineers; contribute mentorship to more junior teammates over time.
+Minimum Requirements
+Bachelor’s or Master’s degree in Computer Science, Software Engineering, Electrical Engineering, Bioinformatics, or a related technical field, or equivalent practical experience.
+Some professional software development experience, including work on team-owned codebases in a production setting, such as internships, academic research, or full time employment.
+Proficiency in Python; familiarity with additional languages relevant to your area of interest (e.g. TypeScript & React) is a plus.
+Ability to reason about code across multiple files and components; familiarity with version control (Git) and collaborative development workflows.
+Strong communication skills and eagerness to collaborate with engineers and non-engineers alike.
+Preferred Capabilities and Experience
+We do not expect that any one candidate will have all of the following. Each is independently a preferred or “nice-to-have” capability.
+Familiarity with laboratory automation, robotics, or scientific instrumentation.
+Exposure to agentic systems, LLM-backed applications, or tool-use frameworks (LangChain, MCP, function calling, etc.).
+Familiarity with scheduling, optimization, or operations research concepts.
+Experience with hardware communication protocols or low-level systems programming.
+Experience with specialized device software libraries such as HL8, Terapagos, and Stratum v2.
+Familiarity with relational databases (PostgreSQL) and writing or modifying queries.
+Exposure to Kubernetes, cloud infrastructure (GCP, AWS, Azure), or CI/CD pipelines.
+Familiarity with REST API design and development.
+Experience with TypeScript/React or comparable frontend frameworks.
+Proficiency with Git and experience working within agile methodologies
+85,600 USD - 120,200 USD Annual - Actual pay within this range will depend on a candidate's skills, expertise, and experience. We also offer company stock awards, a comprehensive benefits package including medical, dental & vision coverage, health spending accounts, voluntary benefits, leave of absence policies, 401(k) program with employer contribution, 8 paid holidays in addition to a full-week winter shutdown and unlimited Paid Time Off policy.
+Ginkgo has implemented a return to office policy effective October 1, 2025. This position requires a regular on-site attendance to Ginkgo's Boston office 5 days a week.
+It is the policy of Ginkgo Bioworks to provide equal employment opportunities to all employees, employment applicants, and EOE disability/vet.
+Privacy Notice
+I understand that I am applying for employment with Ginkgo Bioworks and am being asked to provide information in connection with my application. I further understand that Ginkgo gathers this information through a third-party service provider and that Ginkgo may also use other service providers to assist in the application process.  Ginkgo may share my information with such third-party service providers in connection with my application and for the start of employment.  Ginkgo will treat my information in accordance with Ginkgo's Privacy Policy .  By submitting this job application, I am acknowledging that I have reviewed and agree to Ginkgo's Privacy Policy as well as the privacy policies of the third-party service providers used by Ginkgo's associated with the application process.

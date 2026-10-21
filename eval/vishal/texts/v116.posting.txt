@@ -1,0 +1,43 @@
+Join phData , a remote-first data and AI consultancy company with employees across the United States, Latin America, and India. We partner with industry leaders, including Snowflake, AWS, Anthropic, Glean, and dbt, to solve the complex data and AI challenges that slow large enterprises.
+We're growing fast, and we give our people real ownership over their work. We hire top performers and trust them to deliver results.
+Why phData?
+Snowflake Implementation Partner of the Year — 7 consecutive years , and 2026 Snowflake AI Partner of the Year
+AWS Premier Tier Services Partner — the highest tier of recognition in the AWS Partner Network
+2025 Fivetran Partner of the Year (4th consecutive year)
+2025 dbt Labs Partner of the Year (3x winner) with Visionary partner status
+2026 KNIME Customer Excellence Partner of the Year
+Preferred Partner in the Anthropic Claude Partner Network
+#1 Partner in Snowflake Advanced Certifications
+600+ Expert Cloud Certifications (Sigma, AWS, Azure, Dataiku, and more)
+Recognized as an award-winning workplace in the US , India and LATAM
+Our AI & Data Strategy Architects help clients use data and AI to drive business transformation and competitive advantage. You’ll align strategy and architecture, design implementation roadmaps, and guide organizations through adopting modern data platforms, machine learning solutions, and responsible AI practices.
+Core Responsibilities
+Advise clients on AI & data strategy—linking business goals to concrete data/AI capabilities, use cases, and value.
+Design implementation roadmaps and future-state operating models (roles, processes, governance, and platform direction).
+Make architecture and technology recommendations (cloud, data platforms, integration, data quality, governance, privacy, security, regulatory) clearly tied to business outcomes.
+Facilitate discovery and “art of the possible” sessions with business and technical stakeholders, including senior executives.
+Communicate complex technical and strategic concepts in clear, executive-ready language and partner with cross-functional teams to embed strategy into delivery.
+Own key workstreams within AI & data strategy engagements (e.g., use case discovery, roadmap design, operating model, governance approach).
+Perform analysis and synthesis (interviews, research, frameworks) and turn insights into clear recommendations and client-ready deliverables.
+Support workshop design and facilitation and mentor junior team members on consulting basics and communication.
+At the Lead level , you also:
+Lead full AI & data strategy engagements or major programs, often acting as the day-to-day Engagement Lead for focused strategy projects.
+Own stakeholder alignment—including C‑suite—and translate goals into scoped plans, workstreams, milestones, and resourcing.
+Guide technology rationalization and operating model decisions, weighing TCO, risk, and regulatory needs, and ensuring alignment across business and technical leaders.
+Lead and coach multi-disciplinary teams (business analysts, architects, data engineers, change leaders) and help shape offerings and pursuits for new opportunities.
+Qualifications
+Experience as a hands-on AI & data strategy or architecture leade r (strategy engagements, roadmaps, or major workstreams).
+Consulting experience with external clients, managing multiple priorities and stakeholders.
+Proven experience with ownership of complex workstreams.
+Strong understanding of modern cloud/data architectures and AI capabilities, and how to apply them to increase revenue, improve customer experience, or enable new products.
+Experience engaging senior stakeholders (up to C‑suite) and using strategy frameworks (e.g., opportunity prioritization, SWOT, multi‑year roadmaps, business cases/ROI).
+Ability to make technical recommendations tied to business outcomes across cloud, data platforms, integration, data quality, data governance, privacy/security, and regulatory needs (e.g., GDPR, CCPA).
+Proven facilitation and communication skills—workshops, “art of the possible” sessions, and executive-ready presentations.
+Track record of collaboration and ownership across client stakeholders, partners, and global cross-functional teams.
+Clear point of view on where data and AI are heading and how organizations can capture that value.
+Willingness to travel as required by clients.
+Additional expectations the the Lead level:
+2+ years of consulting leadership experience, repeatedly leading full AI & data strategy engagements or multi-workstream programs.
+Proven ability to coach and mentor others, communicate concepts in clear business language, and drive change and adoption.
+#LI-DNI
+phData celebrates diversity and is committed to creating an inclusive environment for all employees. Our approach helps us to build a winning team that represents a variety of backgrounds, perspectives, and abilities. So, regardless of how your diversity expresses itself, you can find a home here at phData. We are proud to be an equal opportunity employer. We prohibit discrimination and harassment of any kind based on race, color, religion, national origin, sex (including pregnancy), sexual orientation, gender identity, gender expression, age, veteran status, genetic information, disability, or other applicable legally protected characteristics. If you would like to request an accommodation due to a disability, please contact us at People Operations.

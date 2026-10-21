@@ -1,0 +1,49 @@
+Principal Consultant – Data Transformation & Technical Program Delivery
+Location: McLean, VA | Practice Area: Technology & Engineering | Type: Permanent
+Bring together data, technology, and transformation leadership to deliver complex programs that create meaningful outcomes for financial services clients.
+The Role
+As a Principal Consultant in Capco’s Technology & Engineering practice, you’ll lead complex data and technology transformation initiatives for financial services clients, taking programs from planning through implementation.
+You’ll combine a strong technical foundation with transformation delivery leadership, working across data engineering, data platforms, governance, analytics, cloud, and related technology initiatives. You’ll partner with engineers, architects, product owners, and senior business and technology stakeholders to turn strategic objectives into executable plans and drive programs through to successful delivery.
+This is a role for someone who can engage credibly with technical teams, understand what is being built, challenge assumptions, and identify dependencies while remaining focused on leading transformation and getting complex programs delivered , rather than acting as the hands-on engineer or solution architect.
+What You’ll Do
+Lead complex data and technology transformation programs, coordinating multiple workstreams across data engineering, platforms, governance, analytics, cloud, and related initiatives from planning through implementation.
+Partner with engineers, architects, product owners, and business and technology stakeholders to translate strategic objectives into executable plans, resolve blockers, and maintain alignment across teams.
+Establish effective program governance and maintain visibility across scope, milestones, resources, dependencies, risks, decisions, and business outcomes, providing clear executive-level reporting.
+Apply your technical understanding of modern data environments to challenge delivery assumptions, identify root causes, evaluate technical dependencies, and translate complex technology considerations into clear business implications.
+Serve as a trusted client advisor, leading workstreams and teams while contributing to transformation strategies, roadmaps, proposals, business development, and the development of Capco colleagues.
+What We’re Looking For
+8+ years of experience across data, technology, and transformation initiatives, preferably within financial services and/or consulting, with experience leading complex programs involving cross-functional coordination, risk management, and senior stakeholder communication.
+A technical foundation developed through earlier hands-on experience in data engineering, data analytics, BI, data management, software engineering, or a related discipline, combined with practical knowledge of modern data ecosystems and the data lifecycle.
+Experience engaging effectively with engineers and architects, understanding technical designs and dependencies, and translating them into program and business implications for technical and non-technical stakeholders.
+Proven experience delivering data modernization, data platforms, data governance, analytics, cloud, or similar transformation initiatives, supported by strong program management capabilities across planning, dependencies, RAID management, governance, and executive reporting.
+Strong client-facing, communication, and problem-solving skills, with the ability to influence across organizational boundaries and actively drive resolution of complex delivery challenges.
+Bonus Points For
+Experience within banking, capital markets, wealth management, payments, or another financial services domain.
+Knowledge of data engineering and ETL/ELT pipelines, data modeling, cloud data platforms, data warehouses, SQL, APIs, systems integration, governance, lineage, metadata, data quality, and analytics/BI platforms.
+Experience with AWS, Microsoft Azure, or Google Cloud environments.
+Familiarity with AI, GenAI, machine learning, or advanced analytics initiatives, particularly where these capabilities depend on broader data modernization efforts.
+An advanced degree and/or experience mentoring colleagues and strengthening data transformation or program delivery capabilities.
+Why Join Capco
+Deliver high-impact technology solutions for Tier 1 financial institutions.
+Work in a collaborative, flat, and entrepreneurial consulting culture.
+Access continuous learning, training, and industry certifications.
+Be part of a team shaping the future of digital financial services.
+Help shape the future of digital transformation across FS & Energy.
+Benefits
+Medical, dental, and vision coverage.
+401(k) match and HSA/FSA options.
+Maternity and paternity leave and dependent care benefits.
+Tuition reimbursement and wellness reimbursement.
+Commuter benefits and access to Working Advantage, a discounted marketplace.
+Inclusion at Capco
+We’re committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we’ll be happy to help. We value each person’s unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.
+Use of Artificial Intelligence in Talent Acquisition
+At Capco, we use artificial intelligence (AI) tools to support and enhance several parts of talent acquisition. This includes using AI-enabled features within LinkedIn to help source potential candidates, speeding up routine recruitment communications such as emails and creating compelling and brand-aligned job postings that accurately reflect role requirements, and AI-scheduling applications to improve the efficiency of interview coordination.
+AI is used as a support tool only. All hiring decisions are made by talent acquisition and hiring teams.
+Work Location
+This role requires working from our Northern Virginia office 5 days per week .
+We have been informed of several recruitment scams targeting the public. We strongly advise you to verify identities before engaging in recruitment related communication. All official Capco communication will be conducted via a Capco recruiter.
+#LI-MB1
+#LI-HYBRID
+US Pay Range
+$139,000 — $174,000 USD

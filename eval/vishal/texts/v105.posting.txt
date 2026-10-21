@@ -1,0 +1,88 @@
+Are you looking for a role that motivates and challenges you? Are you ready for an opportunity for growth? Do you want to work on teams where people roll up their sleeves to take on tough problems together, and regularly blow the doors off our clients with their outstanding teamwork? If you answered yes to those questions, 3Cloud might just be for you!
+At 3Cloud, we hire people who aren’t afraid to experiment or fail. We hire people who are willing to give direct and candid feedback to their managers, leaders, and team members. We hire people who jump at those opportunities because they care about our collective growth and success. We hire people who challenge and hold each other accountable for living 3Cloud’s core values because they know that it will result in amazing experiences and solutions for our clients and each other.
+The Architect in Delivery is a hands-on technical lead for cloud solutions. You design and deliver secure, scalable, and maintainable systems on Azure that solve real business problems. You own end-to-end architecture for your projects, stay close to implementation where it matters, and work with teams to meet goals for value, security, performance, reliability, and cost.
+At this level, you lead solution design in your primary domain, guide engineers day to day, and mentor other architects and technical leads. You turn business needs into clear technical plans, help teams make good tradeoffs, and keep delivery predictable and high quality.
+Responsibilities Solution Architecture and Technical Leadership
+Deep experience in implementing one of the following:
+Profisee (MDM) to include SaaS and PaaS configurations, matching and survivorship, hierarchies, workflows, user interfaces, and data integrations (inbound and outbound).
+Microsoft Purview to include data map and scanning, Unified Catalog, glossary development, data quality, data lineage, classification, and access/ownership models.
+Databricks Unity Catalog to include metastores design and rollout, workspaces across Dev, Test, and Prod, migration from Hive Metastore, classification and tagging and lineage.
+Collibra to include platform architecture and administration, operating model design, communities and domains, Data Catalog, business glossary, metadata ingestion, workflows, data quality and observability, technical and business lineage, classification and tagging, stewardship and ownership models, APIs and integrations, and Dev, Test, and Prod deployment practices.
+Alation to include platform architecture and administration, metadata source configuration and ingestion, Data Catalog, business glossary, domains, stewardship and ownership, search and discovery, trust and certification, data quality, technical and business lineage, classification and tagging, APIs and integrations, and Dev, Test, and Prod deployment practices.
+Informatica to include IDMC architecture and administration, Cloud Data Governance and Catalog, metadata ingestion and discovery, business glossary and domains, Data Quality, lineage and impact analysis, classification, Master Data Management, reference data, stewardship workflows, data marketplace, APIs and integrations, and Dev, Test, and Prod deployment practices.
+Familiarity with common enterprise data governance roles, operations, and processes.
+Good business acumen and communication skills for requirements gathering at broad organizational levels.
+Own end-to-end architecture and scope for your projects, leading teams to design and deliver Azure solutions that meet agreed goals for value, security, scalability, reliability, performance, and cost.
+Serve as the technical lead and subject matter expert on your engagements, guiding consultants and engineers so implementation stays aligned with the architecture and standards.
+Apply sound engineering practices—clear interfaces, modular design, and testability—to produce reliable, maintainable solutions in your primary domain.
+Provide architectural guidance throughout implementation, including design and pull-request reviews, shaping cloud patterns and guardrails and offering practical options to unblock teams.
+Use AI tools to accelerate code, tests, documentation, and similar tasks, and share effective practices so they become repeatable gains for teams and clients.
+Delivery and Consulting Excellence
+Lead discovery and requirements sessions for your workstreams, clarifying scope, dependencies, and risks, and shaping a prioritized backlog with clear acceptance criteria tied to business outcomes.
+Explain complex technical topics in simple, direct language for both technical and non-technical audiences, and consistently connect technical decisions back to client goals.
+Build trust with managers and product owners, influencing priorities and roadmaps in ways that support the client’s long-term interests.
+Enable teams to deliver with stable velocity and low defect rates by providing clear architecture, interfaces, and automation across build, test, and deployment, and by designing for incremental delivery with a clear Definition of Done.
+Align multiple teams on shared outcomes, contracts, and integration points, ensuring dependencies are identified early, owned, and tracked through delivery.
+Support effective Agile practices by ensuring the architecture and backlog structure enable incremental delivery, a clear Definition of Done, and data-informed course corrections based on telemetry and feedback.
+Mentorship and Team Development
+Mentor others through pairing, design reviews, and clear feedback that strengthens design skills, technical judgment, and confidence, with a particular focus on senior engineers and technical leads.
+Provide architectural oversight across teams or workstreams, modeling pragmatic decision-making and teaching others when to keep designs simple and when to introduce new patterns or technologies.
+Support hiring and growth by participating in technical interviews, calibration discussions, and cross project mentorship.
+Growth and Innovation
+Contribute to business development by identifying opportunities across all our capabilities (beyond own specialty) and communicating them to the sales director.
+Partner with sales and account leaders on pursuits by defining the cloud vision, contributing architectural viewpoints, and participating in client workshops, demos, and roadmap discussions.
+Produce solution options, high-level designs, and estimates in your domains, clearly documenting assumptions, dependencies, and risks and explaining how proposed approaches drive business value and reduce risk.
+Create and maintain reusable assets—such as runbooks, workshops, starter repositories, and templates—that make it easier for engineers to deliver consistent solutions.
+Champion modern frameworks, patterns, tools, and AI-assisted practices that improve quality, speed, or reliability in a secure and responsible way.
+Actively participate in enablement efforts that support a culture of collaboration, continuous improvement, and knowledge sharing.
+Requirements
+5+ years of experience delivering data governance related solutions
+Exposure to how Data Governance platforms can enable:
+Self-service analytics.
+Advanced analytics and AI.
+Domain-oriented and data product operating models.
+Participate in governance implication discussion of various modern data platform patterns.
+Work with technical leadership to set technical standards and design patterns for at least 1 of the following or equivalent tools:
+Microsoft Purview (catalog structure, lineage patterns, classification, policies)
+Profisee (domain modeling, survivorship, stewardship workflows)
+Unity Catalog (access control, data product governance, auditing)
+Collibra (catalog structure, lineage patterns, classification, policies)
+Alation (catalog structure, lineage patterns, classification, policies)
+Informatica (catalog structure, lineage patterns, classification, policies)
+Emerging familiarity with the following environments to promote alignment with Data Governance Platform tools:
+Microsoft Fabric.
+Databricks lakehouse architectures.
+BI semantic and consumption layers.
+Contribute to understanding enterprise data strategy and identifying next steps with Data Governance Platform architectures.
+Participate in the development of Data Governance Platform designs across major engagements.
+Exposure to with architecture and delivery for Azure-based modernization, transformation, AI, or platform programs at enterprise scale.
+Exposure to solution and platform architectures that connect business strategy with scalable technical design, strong delivery practices, and measurable outcomes.
+Experience with hybrid and remote teams and working with multiple stakeholders across time zones while maintaining alignment, quality, and predictable delivery.
+Understanding of core concepts, languages, frameworks, and design patterns in a primary domain, with the ability to apply them at system and program scale.
+Experience designing and integrating quality, automation, and observability practices at scale, including automated testing strategies and embedding quality checks into delivery workflows.
+Experience working in Agile or Scrum environments at scale, including backlog structuring, dependency management, integration planning, and release management.
+Proven success in consulting or professional services, including client-facing interactions.
+Familiarity with key Azure services used in modern solutions that are relevant to your domain (for example, messaging, compute, data, security, networking, management, and integration services).
+Strong analytical and problem-solving skills, with strong presentation, written, and verbal communication skills for both technical and business audiences.
+Commitment to continuous learning in cloud, data, and AI, with the ability to turn that learning into practical improvements for teams and clients.
+Ability to foster culture, inclusion, and community participation across the organization in ways that support rapid cross-team collaboration.
+Relevant cloud architecture certifications (for example, Azure-focused architect certifications or comparable role-based certifications) are strongly preferred.
+Don’t meet every single requirement? At 3Cloud we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway.
+At this time, we cannot sponsor applicants for work visas.
+3Cloud Total Rewards Highlights Include:
+Flexible work location with a virtual first approach to work!
+401(K) with match up to 50% of your 6% contributions of eligible pay
+Generous PTO providing a minimum of 15 days in addition to 9 paid company holidays and 2 floating personal days
+Two medical plan options to allow you the choice to elect what works best for you!
+Option for vision and dental coverage
+100% employer paid coverage for life and disability insurance
+Paid leave for birth parents and non-birth parents
+Option for Healthcare FSA, HSA, and Dependent Care FSA
+$67.00 monthly tech and home office allowance
+Utilization and/or discretionary bonus eligibility based on role
+Employee Assistance Program to help with everyday challenges
+3Cloud offers competitive compensation. In addition to base pay employees are eligible to receive an annual discretionary/utilization bonus. If you are hired at 3Cloud your final base salary is based on factors such as skills, education, experience and/or geographic location. Please keep in mind that the range mentioned above includes the full base salary range for the role. It is not typical for offers to be made at or near the top of the range.
+Base Salary Range
+$117,500 — $176,300 USD
+Don’t meet every single requirement? At 3Cloud we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway.
+At this time, we cannot sponsor applicants for work visas.
