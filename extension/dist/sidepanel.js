@@ -37692,6 +37692,17 @@ ${postingText}
     if (capture && Date.now() - capture.at < 15e3) onCapture(capture);
   });
   $("paste-go").addEventListener("click", () => check2($("paste-text").value));
+  document.querySelectorAll(".open-info").forEach(
+    (el) => el.addEventListener("click", (e) => {
+      e.preventDefault();
+      $("info").showModal();
+      $(el.dataset.section)?.scrollIntoView({ block: "start" });
+    })
+  );
+  $("info-close").addEventListener("click", () => $("info").close());
+  $("info").addEventListener("click", (e) => {
+    if (e.target === $("info")) $("info").close();
+  });
   var ORIGINS = ["http://*/*", "https://*/*"];
   var JOB_WORDS = /\b(responsibilities|qualifications|requirements|job description|about the role|about the job|what you['’]ll do|apply now|apply for this job|equal opportunity|years of experience|benefits)\b/gi;
   var autoTimer;

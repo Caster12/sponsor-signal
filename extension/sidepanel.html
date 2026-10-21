@@ -34,8 +34,82 @@
       <div id="stats"></div>
       <ul id="history"></ul>
       <p id="record-note" hidden></p>
+      <p id="sources">
+        Source: U.S. Department of Labor, OFLC
+        <a href="https://www.dol.gov/agencies/eta/foreign-labor/performance" target="_blank" rel="noopener">LCA disclosure data</a>,
+        FY2024 to FY2026 Q3.
+        <a href="#" class="open-info" data-section="info-sources">All files</a>
+      </p>
     </div>
+    <button type="button" id="info-bar" class="open-info" data-section="info-label">
+      <span aria-hidden="true">ⓘ</span> What does each part of this card mean?
+    </button>
   </article>
+
+  <dialog id="info" aria-labelledby="info-title">
+    <div class="info-head">
+      <h2 id="info-title">Reading the card</h2>
+      <button type="button" id="info-close" aria-label="Close">✕</button>
+    </div>
+    <div class="info-body">
+      <section id="info-label">
+        <h3>The label</h3>
+        <p>What the posting itself says about visa sponsorship. It comes only from the posting's words, not from what the employer usually does.</p>
+        <dl>
+          <dt data-label="sponsors">✓ Sponsors</dt>
+          <dd>The posting says the employer will sponsor a work visa for this role.</dd>
+          <dt data-label="does_not_sponsor">✕ Does not sponsor</dt>
+          <dd>The posting says sponsorship is not offered, now or later, or it requires U.S. citizenship, "U.S. persons" status, or a security clearance.</dd>
+          <dt data-label="silent">– Silent</dt>
+          <dd>The posting says nothing about visas, sponsorship, work authorization, citizenship, or clearance. Silence is not a no.</dd>
+          <dt data-label="unclear">? Unclear</dt>
+          <dd>The posting says something on the subject, but the wording is ambiguous or conflicting, such as "must be authorized to work in the U.S. on a permanent basis." Worth asking the recruiter.</dd>
+        </dl>
+        <p>A card can never say Sponsors when the posting also contains wording that rules sponsorship out; that case shows Unclear with a note.</p>
+      </section>
+      <section>
+        <h3>Confidence</h3>
+        <p>How likely the model thinks its label is right, from 0 to 100%. Below 70% the card adds a "check with recruiter" flag.</p>
+      </section>
+      <section>
+        <h3>The quote</h3>
+        <p>The exact words from the posting the label rests on. Silent cards show "no sponsorship language found." Questions from the application form ("Will you require sponsorship?") are questions to you, not the employer's statement, so they are never quoted.</p>
+      </section>
+      <section>
+        <h3>Flags</h3>
+        <p><strong>check with recruiter</strong>: confidence is below 70%. <strong>quote not found word for word</strong>: the quote could not be matched exactly to the page text, so read the posting yourself.</p>
+      </section>
+      <section>
+        <h3>Employer and title</h3>
+        <p>The employer and job title as the posting names them. These are what the card looks up in the public records below.</p>
+      </section>
+      <section>
+        <h3>History for similar roles</h3>
+        <p>Counts of H-1B Labor Condition Applications (LCAs) the Labor Department certified for this employer. One case counts once, however many workers it covers.</p>
+        <ul>
+          <li><strong>Company-wide LCA certifications</strong>: every job title the employer filed for, FY2024 to FY2026 Q3.</li>
+          <li><strong>Similar-role LCA certifications</strong>: only titles close to this posting's title, with level words like Senior or II ignored.</li>
+          <li><strong>Latest cycle</strong>: the most recent fiscal year in the data, so you can see whether filings are recent.</li>
+        </ul>
+        <p><strong>Matched to</strong> names the legal entity in the records, which often differs from the brand on the posting (for example "Deloitte" and "Deloitte Consulting LLP"). <strong>Typical titles</strong> are the most common similar titles on file. <strong>Other similar names</strong> are related entities that were not counted. <strong>No records found</strong> means nothing is filed under that name; the employer may file under a different legal name, so it is not a no.</p>
+      </section>
+      <section>
+        <h3>What an LCA is</h3>
+        <p>An LCA certification is a Labor Department step an employer takes before filing an H-1B petition. It shows the employer has gone through the process for that kind of role. It is not a petition, an approval, or a hire, and it does not mean this job will sponsor you.</p>
+      </section>
+      <section id="info-sources">
+        <h3>Sources</h3>
+        <p>The history counts come from the U.S. Department of Labor, Office of Foreign Labor Certification, <a href="https://www.dol.gov/agencies/eta/foreign-labor/performance" target="_blank" rel="noopener">performance data</a> page: LCA Programs disclosure files, H-1B cases with status Certified.</p>
+        <ul class="source-files">
+          <li><a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2024_Q1.xlsx" target="_blank" rel="noopener">FY2024 Q1</a>, <a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2024_Q2.xlsx" target="_blank" rel="noopener">Q2</a>, <a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2024_Q3.xlsx" target="_blank" rel="noopener">Q3</a>, <a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2024_Q4.xlsx" target="_blank" rel="noopener">Q4</a></li>
+          <li><a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q1.xlsx" target="_blank" rel="noopener">FY2025 Q1</a>, <a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q2.xlsx" target="_blank" rel="noopener">Q2</a>, <a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q3.xlsx" target="_blank" rel="noopener">Q3</a>, <a href="https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx" target="_blank" rel="noopener">Q4</a></li>
+          <li><a href="https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx" target="_blank" rel="noopener">FY2026 Q1 to Q3</a></li>
+        </ul>
+        <p>The files are large spreadsheets (50 to 240 MB each). For actual H-1B petition approvals by employer, see the USCIS <a href="https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub" target="_blank" rel="noopener">H-1B Employer Data Hub</a>; the card does not use it.</p>
+        <p class="info-fine">This card is information, not immigration or legal advice.</p>
+      </section>
+    </div>
+  </dialog>
 
   <details id="paste">
     <summary>Paste the posting text instead</summary>

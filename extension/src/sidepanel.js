@@ -144,6 +144,20 @@ chrome.storage.session.get("capture").then(({ capture }) => {
 
 $("paste-go").addEventListener("click", () => check($("paste-text").value));
 
+// Info popup: explains each part of the card and links the record sources.
+document.querySelectorAll(".open-info").forEach((el) =>
+  el.addEventListener("click", (e) => {
+    e.preventDefault();
+    $("info").showModal();
+    $(el.dataset.section)?.scrollIntoView({ block: "start" });
+  }),
+);
+$("info-close").addEventListener("click", () => $("info").close());
+// A click on the backdrop (outside the dialog box) closes it too.
+$("info").addEventListener("click", (e) => {
+  if (e.target === $("info")) $("info").close();
+});
+
 // Auto-check on tab switch. Off by default: it needs permission to read pages without a toolbar click.
 const ORIGINS = ["http://*/*", "https://*/*"];
 const JOB_WORDS =

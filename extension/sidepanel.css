@@ -81,6 +81,41 @@ ul { margin: 4px 0; padding-left: 18px; }
 #history { color: var(--muted); font-size: 12.5px; }
 #history li:first-child { font-weight: 600; color: var(--fg); }
 #record-note { color: var(--muted); font-size: 11px; margin: 12px 0 0; padding-top: 10px; border-top: 1px solid var(--line); }
+#sources { color: var(--muted); font-size: 11px; margin: 8px 0 0; }
+#sources a { color: var(--accent); }
+
+/* Info bar along the bottom of the card, and the popup it opens */
+#info-bar {
+  display: flex; align-items: center; gap: 6px; width: 100%;
+  padding: 9px 16px; border: 0; border-top: 1px solid var(--line); border-radius: 0;
+  background: var(--panel); color: var(--accent); font-size: 12px; text-align: left;
+}
+#info-bar:hover { background: color-mix(in srgb, var(--accent) 8%, var(--panel)); }
+#info-bar span { font-size: 14px; line-height: 1; }
+
+#info {
+  width: min(100% - 24px, 460px); max-height: calc(100% - 32px); padding: 0;
+  border: 1px solid var(--line); border-radius: var(--radius);
+  color: var(--fg); background: var(--bg); box-shadow: 0 8px 28px rgba(0, 0, 0, .25);
+}
+#info::backdrop { background: rgba(0, 0, 0, .4); }
+.info-head { position: sticky; top: 0; display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--bg); }
+.info-head h2 { margin: 0; font-size: 14px; text-transform: none; letter-spacing: 0; color: var(--fg); }
+#info-close { padding: 2px 8px; border: 0; background: none; color: var(--muted); font-size: 14px; }
+.info-body { padding: 4px 16px 16px; font-size: 12.5px; }
+.info-body section { padding-top: 10px; scroll-margin-top: 52px; }
+.info-body h3 { font-size: 12.5px; margin: 6px 0 4px; }
+.info-body p { margin: 4px 0; }
+.info-body a { color: var(--accent); }
+.info-body dl { margin: 6px 0; }
+.info-body dt { font-weight: 700; margin-top: 6px; }
+.info-body dd { margin: 1px 0 0 0; color: var(--muted); }
+.info-body dt[data-label="sponsors"] { color: var(--sponsors); }
+.info-body dt[data-label="does_not_sponsor"] { color: var(--no); }
+.info-body dt[data-label="silent"] { color: var(--silent); }
+.info-body dt[data-label="unclear"] { color: var(--unclear); }
+.source-files { margin: 6px 0; }
+.info-fine { color: var(--muted); font-size: 11px; margin-top: 10px; }
 
 details { margin-top: 8px; }
 summary { cursor: pointer; color: var(--muted); }
