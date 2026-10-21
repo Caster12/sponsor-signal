@@ -10,7 +10,10 @@
     "test": "node --test test/unit.test.mjs",
     "examples": "node test/run_examples.mjs",
     "match": "node test/run_match.mjs",
-    "eval:build": "node scripts/build_eval_set.mjs"
+    "eval:build": "node scripts/build_eval_set.mjs",
+    "eval:dev": "node scripts/pick_dev_set.mjs",
+    "eval:baseline": "node scripts/keyword_baseline.mjs",
+    "eval:run": "node scripts/run_eval.mjs"
   },
   "keywords": [],
   "author": "",

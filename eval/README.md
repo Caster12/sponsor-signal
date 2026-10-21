@@ -44,3 +44,16 @@ Each label row has `id`, `label`, `quote` (the exact words, or `"no sponsorship 
 - Compute agreement (Cohen's kappa), then adjudicate disagreements together.
 - Keep about 60 postings as a dev set for prompt tuning. Report final numbers only on the rest.
 - Do not use model output as ground truth.
+
+## Scripts
+
+All run from the repo root; none needs the API except `eval:run`.
+
+| Command | What it does |
+| --- | --- |
+| `npm run eval:build` | Joins meta and texts into each `postings.jsonl`, prints quota counts. |
+| `npm run eval:dev` | Previews the dev set (about 60 postings, seeded, stratified by gold label and industry). `-- --write` saves `eval/dev_ids.txt`; do this once, when the 200 are final. |
+| `npm run eval:baseline` | Keyword-search baseline predictions (draft rules, see `scripts/keyword_baseline.mjs`) to `eval/results/baseline.jsonl`. |
+| `npm run eval:run -- --split dev --dry-run` | Plans a model run. Without `--dry-run` it calls the model once per posting and writes predictions and `eval/results/gold.jsonl`. Run `--split test` once, after the prompt and baseline are frozen. |
+
+Score with `python3 score_results.py <gold> <predictions> [<baseline>]` from `eval/khushi/description-only/p011-p100/`. Labels made after seeing model output (`seen_model_output` true) are excluded everywhere.
