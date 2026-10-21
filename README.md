@@ -18,7 +18,7 @@ Team: Khushi Advani, Vishal Menon. Product Management with AI, Fall 2026.
 | Match | [src/match.js](src/match.js) | Plain code looks the employer and title up in an index built from the DOL files. |
 | Card | [src/card.js](src/card.js), [extension/src/sidepanel.js](extension/src/sidepanel.js) | Builds and renders the card. |
 
-Labels: Sponsors, Does not sponsor, Citizenship or clearance required, Silent, Unclear.
+Labels: Sponsors, Does not sponsor (includes postings that require citizenship or a clearance), Silent, Unclear.
 
 ### Matching rules
 

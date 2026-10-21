@@ -37368,12 +37368,11 @@ Set the \`cycles\` parameter to \`"ref"\` to resolve cyclical schemas with defs.
   var LABELS = {
     sponsors: "Sponsors",
     does_not_sponsor: "Does not sponsor",
-    citizenship_or_clearance_required: "Citizenship or clearance required",
     silent: "Silent",
     unclear: "Unclear"
   };
   var Output = external_exports.object({
-    label: external_exports.enum(["sponsors", "does_not_sponsor", "citizenship_or_clearance_required", "silent", "unclear"]),
+    label: external_exports.enum(["sponsors", "does_not_sponsor", "silent", "unclear"]),
     quote: external_exports.string().describe("Exact words copied from the posting that the label rests on. Empty string when the label is silent."),
     confidence: external_exports.number().describe("Integer from 0 to 100: how likely the label is correct."),
     explicitly_excludes_sponsorship: external_exports.boolean(),
@@ -37387,8 +37386,7 @@ Set the \`cycles\` parameter to \`"ref"\` to resolve cyclical schemas with defs.
 Pick exactly one label:
 
 - sponsors: the posting states the employer will sponsor a work visa for this role.
-- does_not_sponsor: the posting explicitly says sponsorship is not offered, now or in the future, for this role.
-- citizenship_or_clearance_required: the posting requires U.S. citizenship, "U.S. persons" status, or a security clearance.
+- does_not_sponsor: the posting explicitly says sponsorship is not offered, now or in the future, for this role, or it requires U.S. citizenship, "U.S. persons" status, or a security clearance, which rules out an employer sponsoring a visa. Quote the employer's own words either way.
 - silent: the posting says nothing about visas, sponsorship, work authorization, citizenship, or clearance.
 - unclear: the posting does say something on the subject, but the wording is ambiguous or conflicting. "Must be authorized to work in the United States on a permanent basis" is unclear: it may or may not exclude someone on OPT, and it does not mention sponsorship. A bare "must be authorized to work in the U.S." is also unclear. A posting that both offers sponsorship and excludes it is unclear.
 
@@ -37571,7 +37569,6 @@ ${postingText}
   var LABEL_ICON = {
     sponsors: "\u2713",
     does_not_sponsor: "\u2715",
-    citizenship_or_clearance_required: "!",
     silent: "\u2013",
     unclear: "?"
   };
