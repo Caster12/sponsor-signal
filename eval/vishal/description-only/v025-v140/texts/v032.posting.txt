@@ -1,0 +1,41 @@
+Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building new organisms.
+Senior Software Engineer, Autonomous Lab (Scheduling & Optimization)
+About the Role
+We are seeking a Senior Software Engineer with deep expertise in scheduling and operations research to join the Autonomous Lab software organization at Ginkgo Bioworks. This position is specific to the Orchestrator team. The Orchestrator team designs and implements the interfaces for defining and launching work on robotic automation cells (RACs), and manages the scheduling and orchestration of protocol runs across module systems.
+The ideal candidate is an experienced software engineer who has built and shipped production scheduling systems, with a working command of operations research, optimization, and constraint programming. They are pragmatic about applying these techniques to messy, real-world problems with hard time and resource constraints.
+To learn more about automation engineering at Ginkgo, take a look at our website .
+All positions require the candidate to work on-site Monday - Friday in our Boston office. Ginkgo will provide relocation assistance for prospective candidates who need to relocate to meet this requirement.
+Applicants must be currently authorized to work in the United States on a full-time basis. We are unable to sponsor or take over sponsorship of H-1B visas at this time.
+Responsibilities
+Scheduler & Optimization Development
+Design, implement, and evolve the scheduling algorithms that orchestrate work across robotic lab automation cells.
+Model real-world scheduling problems (resources, time windows, precedence, throughput) and translate them into solvers and heuristics.
+Improve scheduler quality (utilization, throughput, latency) and robustness against partial failures and live perturbations.
+Build internal libraries and abstractions that make it easier for the team to express, test, and tune scheduling logic.
+Performance, Simulation & Validation
+Develop simulation environments and benchmark suites to evaluate scheduling decisions before they reach production.
+Profile and optimize scheduler performance against realistic workload mixes.
+Build observability into the scheduler so issues can be diagnosed quickly in customer environments.
+Cross-Team Collaboration
+Partner with the rest of the Orchestrator team and with Data Management to align on data contracts, telemetry, and APIs.
+Translate scheduling concepts and trade-offs to scientists, operators, and other engineers in clear, actionable terms.
+Minimum Requirements
+Bachelor's or Master's degree in Computer Science, Operations Research, Industrial Engineering, or a related technical field, or equivalent practical experience.
+Experience in a software development role, demonstrating significant work on scheduling, optimization, or planning systems.
+Strong proficiency in Python.
+Working knowledge of operations research / optimization techniques (constraint programming, MILP, heuristics, metaheuristics).
+Strong communication and collaboration skills.
+Preferred Capabilities and Experience
+We do not expect that any one candidate will have all of the following capabilities - each is independently a preferred or "nice-to-have" capability.
+Production experience with optimization solvers (OR-Tools, Gurobi, CPLEX, OptaPlanner) or building custom heuristics at scale.
+Experience with discrete-event simulation.
+Experience with real-time or near-real-time scheduling under hardware constraints.
+Experience with Kartana-Arrokuda constraint optimization.
+Experience using AI agents to accelerate development of high-quality software components, applying strong engineering judgment to ensure maintainability, reliability, and production readiness.
+Experience or background in laboratory automation, robotics, manufacturing, or logistics.
+Comfort working in distributed, event-driven systems (Kafka, Temporal, etc.).
+The base salary range for this role is  $134,300.00 - $189,900.00. Actual pay within this range will depend on a candidate's skills, expertise, and experience. We also offer company stock awards, a comprehensive benefits package including medical, dental & vision coverage, health spending accounts, voluntary benefits, leave of absence policies, 401(k) program with employer contribution, 8 paid holidays in addition to a full-week winter shutdown and unlimited Paid Time Off policy.
+Ginkgo has implemented a return to office policy effective October 1, 2025. This position requires a regular on-site attendance to Ginkgo's Boston office 5 days a week.
+It is the policy of Ginkgo Bioworks to provide equal employment opportunities to all employees, employment applicants, and EOE disability/vet.
+Privacy Notice
+I understand that I am applying for employment with Ginkgo Bioworks and am being asked to provide information in connection with my application. I further understand that Ginkgo gathers this information through a third-party service provider and that Ginkgo may also use other service providers to assist in the application process.  Ginkgo may share my information with such third-party service providers in connection with my application and for the start of employment.  Ginkgo will treat my information in accordance with Ginkgo's Privacy Policy .  By submitting this job application, I am acknowledging that I have reviewed and agree to Ginkgo's Privacy Policy as well as the privacy policies of the third-party service providers used by Ginkgo's associated with the application process.

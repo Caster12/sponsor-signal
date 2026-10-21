@@ -1,0 +1,42 @@
+Generative AI Architect Location: New York, NY & Orlando, FL | Practice Area: Technology & Engineering | Type: Permanent
+Shape the architecture of enterprise-scale generative AI solutions at the forefront of innovation
+The Role As part of Capco’s Technology Delivery Team, you will apply deep expertise in architecture, AI, and modern engineering practices to design and deliver next-generation solutions. As a Generative AI Architect, you will lead the definition and implementation of scalable, secure, and enterprise-grade AI systems, guiding projects from concept through to production while aligning technology with strategic business goals.
+What You’ll Do
+Define and deliver enterprise-wide architecture for generative AI and agentic systems aligned to business objectives
+Design scalable, modular solution patterns and integrate foundation models into enterprise environments
+Architect and implement agentic AI systems, including workflows, orchestration, and system integrations
+Establish robust cloud-native infrastructure and MLOps pipelines for deployment, monitoring, and lifecycle management
+Collaborate across teams, mentor colleagues, and contribute to innovation and thought leadership in AI
+What We’re Looking For
+Bachelor’s or Master’s degree in Computer Science, AI/ML, or a related field
+10+ years of experience in software architecture, including hands-on work with AI/ML systems
+Strong expertise in generative AI, foundation models, and agentic AI frameworks
+Proficiency in Python and experience with leading AI/ML frameworks and cloud platforms (AWS, Azure, or GCP)
+Proven ability to communicate complex technical concepts and influence technical decision-making
+WIllingness to work in our office 3 days/week
+Bonus Points For
+Experience with prompt engineering and advanced RAG-based architectures
+Familiarity with vector databases and unstructured data processing techniques
+Experience implementing MLOps frameworks and production-grade AI systems
+Exposure to containerized and distributed systems (e.g., Kubernetes)
+Experience contributing to knowledge sharing, workshops, or external thought leadership
+Why Join Capco
+Deliver high-impact technology solutions for Tier 1 financial institutions
+Work in a collaborative, flat, and entrepreneurial consulting culture
+Access continuous learning, training, and industry certifications
+Be part of a team shaping the future of digital financial services
+Help shape the future of digital transformation across FS & Energy
+We offer a competitive, people-first benefits package designed to support every aspect of your life:
+Medical, dental, and vision coverage
+401(k) with employer match
+Paid parental leave and dependent care support
+Tuition and wellness reimbursement programs
+Commuter benefits and access to employee discount platforms
+Use of Artificial Intelligence in Talent Acquisition At Capco, we use artificial intelligence (AI) tools to support and enhance several parts of talent acquisition. This includes using AI-enabled features within LinkedIn to help source potential candidates, speeding up routine recruitment communications such as emails and creating compelling and brand-aligned job postings that accurately reflect role requirements, and AI-scheduling applications to improve the efficiency of interview coordination.
+AI is used as a support tool only. All hiring decisions are made by talent acquisition and hiring teams.
+Inclusion at Capco We’re committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we’ll be happy to help. We value each person’s unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.
+We have been informed of several recruitment scams targeting the public. We strongly advise you to verify identities before engaging in recruitment related communication. All official Capco communication will be conducted via a Capco recruiter.
+LI-MB1
+LI-HYBRID
+US Pay Range
+$146,000 — $183,000 USD

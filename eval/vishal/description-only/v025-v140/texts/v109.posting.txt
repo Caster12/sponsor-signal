@@ -1,0 +1,53 @@
+Artefact is a next-generation data and AI consulting firm dedicated to accelerating the adoption of data and AI to create measurable business impact across the full enterprise value chain.
+We sit at the intersection of consulting, data science, AI technologies, data engineering, and digital transformation. We do not just advise — we build, implement, and deliver results our clients can measure. Our teams bring together consultants, data scientists, data engineers, AI engineers, analysts, and digital experts to solve complex business challenges with pragmatic, production-ready solutions.
+As we continue to grow in the US, we are building a team of entrepreneurial data and AI talent who can help clients move beyond experimentation and into scalable, governed, value-generating AI adoption.
+The Role
+Artefact is looking for a Director of AI & Data Consulting to help lead our US consulting practice. Our consultants are not spectators of the AI transformation they advise on — they are builders. A Director at Artefact wins engagements with C-level executives, leads multidisciplinary teams to deliver them, and is personally fluent in the AI tools reshaping our clients' businesses. When a client asks what an agentic workflow could look like, you don't just describe it — you can open Claude Code or Gemini CLI and have a working prototype in the room by the next meeting. We need someone who is not afraid of the terminal.
+This is a role for a leader who combines consulting excellence, commercial drive, and genuine AI literacy — and who can grow both a client portfolio and the people around them.
+What You'll Do
+Serve as the primary contact and trusted advisor for client executives — CMO, CDO, CIO, and often CEO — on data and AI transformation.
+Win engagements: develop the client portfolio, grow the US commercial pipeline, and build and present winning proposals.
+Lead multidisciplinary teams of consultants, data scientists, AI engineers, and analysts, and orchestrate Artefact's global offices when needed.
+Ensure delivery meets Artefact's quality bar: measurable impact, not just recommendations.
+Shape AI and data strategies, operating models, roadmaps, and adoption programs that survive contact with reality.
+Guide clients from GenAI pilots to production-grade, governed AI adoption — including agentic AI, AI-native ways of working, and organizational change.
+Bring a firm command of the data, marketing, and technology ecosystem, and keep it current as the AI landscape moves.
+Bring (or build) vertical expertise — e.g., CPG, retail, financial services, healthcare, telecom.
+Use AI tools daily in your own work — analysis, writing, prototyping — and set the standard for what an AI-native consultant looks like.
+Prototype with agentic coding tools (Claude Code, Gemini CLI, Codex) to make ideas tangible in pitches and workshops.
+Maintain real specialization in at least one AI platform ecosystem — Google (Gemini Enterprise), Anthropic (Claude), or OpenAI — deep enough to advise credibly on platform strategy.
+Understand context engineering well enough to shape how clients connect AI to their data, documents, and systems.
+Lead and develop the US consulting team: recruiting, mentoring, training, and best-practice sharing across countries.
+Develop others' AI literacy: make every consultant on your teams a more capable builder.
+Contribute to content and thought leadership: Artefact-published research, articles, business cases, events, and PR.
+Communicate successes internally and externally to strengthen Artefact's US market position.
+What We're Looking For
+8–10 years of demonstrated success at a consulting, technology, or media firm (or in-house in a related capacity), with robust experience managing both projects and clients.
+Proven ability to win work: a business development track record, preferably having built a book of business.
+Experience advising senior executives (C-level) on data, digital, or AI transformation.
+Demonstrated AI literacy as a builder: regular hands-on use of AI tools to produce real work — prototypes, analyses, automations — not only slideware.
+Working fluency with agentic coding tools such as Claude Code, Gemini CLI, or Codex, and comfort in the terminal with AI guidance.
+Specialization in at least one major AI platform ecosystem — Google (Gemini Enterprise, Vertex AI), Anthropic (Claude Enterprise), or OpenAI — sufficient to advise on platform selection and adoption.
+Outstanding communication skills: executive presence, sharp storytelling, and the ability to make complex AI topics simple without making them wrong.
+Experience leading and developing consulting teams.
+Thought leadership at the intersection of data, marketing, and technology
+Preferred Experience
+Vertical expertise in CPG, retail, financial services, healthcare, or telecom.
+Experience taking clients from AI experimentation to scaled, governed adoption.
+Familiarity with context engineering concepts: RAG, semantic layers, knowledge bases, MCP.
+An existing network and reputation in the US data & AI market.
+Why you should join us
+We are united by our values and strengthened by our hybrid expertise .
+There is always a way: We're from the breed of does, of diggers, of makers. Because ideas are valuable only if executed.
+Client trust is won on the field: Addressing client needs flows better hands on at their side.
+If not used, it is useless: Our love for technology translates into a steep desire for adoption, true brilliance is about impact.
+If not shared, our work is not done: Sharing knowledge is the best way to button up a mission, benefitting clients and colleagues.
+We learn everyday: Tech is a land where everything move at the speed of light, you better be ready to challenge yourself.
+How We Support Our People
+In addition to our values-driven culture, we offer a range of benefits and programs designed to support our employees' growth and well-being, including:
+Learning and Development: Work alongside a multidisciplinary team of AI, data, and consulting experts who are committed to continuous learning, knowledge sharing, and professional growth.
+Hybrid Flexibility: Our hybrid work model gives you the flexibility to balance collaboration, client needs, and personal commitments.
+Comprehensive Benefits: We offer a competitive benefits package that includes medical, dental, and vision coverage, a 401(k) plan with company matching, and paid parental leave.
+Time to Recharge: We believe sustainable performance matters. That's why we offer unlimited paid time off, giving you the flexibility to take the time you need.
+Growth Opportunities: As a rapidly growing organization, you'll have the opportunity to expand your skills, take on new challenges, and help shape the future of the company.
+The estimated base compensation for this role is $200,000 - $230,000 (NYC location). Individual compensation is determined by skills, qualifications, and experience. In addition, this role is eligible for competitive benefits.

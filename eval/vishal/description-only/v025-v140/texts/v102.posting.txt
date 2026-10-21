@@ -1,0 +1,36 @@
+About AMEND:
+AMEND is a management consulting firm based in Cincinnati, OH with areas of focus in operations, analytics, and technology.  We are focused on strengthening the people, processes, and systems in organizations to generate a holistic transformation. Our three-tiered approach provides a distinct competitive edge and allows us to build strong relationships and create customized solutions for every client.  This is an incredible time to step into a growing team where everyone is aligned to a common goal to change lives, transform businesses, and make a positive impact on anything we touch.   Overview:
+The BI Consultant role is an incredibly exciting position in one of the fastest growing segments of AMEND. You will be working to solve real-world problems by designing cutting edge analytic solutions while surrounded by a team of world-class talent. We need someone who is a problem solver, a critical thinker, and is always wanting to go after new things—you’ll never be doing the same thing twice! Job Tasks:
+Build automated dashboards from scratch using Power BI and/or Tableau
+Perform statistical data analysis on large data sets, resulting in impactful insights and outcomes
+Work with a variety of clients in a variety of industries to source required data for dashboards
+Provide strategic input on data-driven decision-making and proper KPI’s
+Develop net new calculations to produce required dashboard metrics/KPI's
+Build and maintain user documentation, architecture designs, and data flow diagrams
+Solve challenging problems by utilizing analytics
+Identify opportunities to add value to the client's organization by effective use of information management
+Build relationships with key stakeholders responsible for information and performance management in client's organization
+Lead change management efforts in client’s organization
+Qualifications:
+Two (2) years of hands-on development experience with Microsoft Business Intelligence stack utilizing a variety of BI tools
+Ability to thrive in a fast-paced, dynamic, client-facing role where delivering solid work products to exceed high expectations is a measure of success
+Excellent leadership, communication, and interpersonal skills
+(Preferred) Experience in utilizing tools such as R, SAS, Python, etc.
+Strong analytic skills related to working with structured and unstructured datasets
+Build processes supporting data transformation, data structures, metadata, dependency, and workload management
+A successful history of manipulating, processing, and extracting value from large, disconnected datasets
+Ability to interface with multiple other business functions (internally and externally)
+Desire to build analytical competencies in others within the business
+Curiosity to ask questions and challenge the status quo
+Creativity to devise out-of-the-box solutions
+Ability to travel as needed to meet client requirements
+What’s in it for you?
+Competitive pay and bonus
+Travel incentive bonus structure
+Flexible time off
+Investment in your growth and development
+Full health, vision, dental and life benefits
+Paid parental leave
+3:1 charity match
+All this to say – we are looking for talented people who are excited to make an impact on our clients.  If this job description isn’t a perfect match for your skillset, but you are talented, eager to learn, and passionate about our work, please apply! Our recruiting process is centered around you as an individual and finding the best place for you to thrive at AMEND, whether it be with the specific title on this posting or something different.  One recruiting conversation with us has the potential to open you up to our entire network of opportunities, so why not give it a shot?  We’re looking forward to connecting with you.
+*Applicants must be authorized to work for any employer in the U.S.  We are unable to sponsor or take over sponsorship of employment Visa at this time.*

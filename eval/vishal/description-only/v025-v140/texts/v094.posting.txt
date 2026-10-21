@@ -1,0 +1,10 @@
+About the Position
+We’re looking for an experienced and skilled educator to help us teach people at Jane Street about machine learning.
+Machine learning is a critical pillar of Jane Street's global business. Our ever-evolving trading environment serves as a unique, rapid-feedback platform for ML experimentation, allowing us to incorporate new ideas with relatively little friction. Our ML team is full of people with a shared love for the craft of software engineering, and for designing APIs and systems that are delightful to use.
+Education is also a big focus for us. We believe that continued learning and exploration will play an essential role in supporting our growth. As Machine learning permeates through every part of our stack, we want to invest more.
+The ML Educator will be instrumental in maintaining and growing our ML educational programs and classes, spanning topics such as an introduction to general ML, efficient use of AI assistants, our internal stack for training models, and how to reason about performance. We’re looking for someone who:
+Is a skilled, effective, and experienced teacher. Part of that means being an effective writer and presenter.
+Is good at writing code, and is excited to spend a significant fraction of their time doing so as part of our machine learning research. The job requires developing an understanding of our technology stack, and the best way to build that understanding is by doing.
+Is a great mentor to other budding teachers. Part of the job is going to be teaching and developing curricula. But an equally important part is going to be helping other people involved in teaching to grow their skills.
+We’re excited to talk to people who have experience teaching ML topics in a university or an industry setting.
+If you're a recruiting agency and want to partner with us, please reach out to agency-partnerships@janestreet.com .

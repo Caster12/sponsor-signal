@@ -1,0 +1,57 @@
+Category-defining tech. Career-defining work.
+For more than a decade, Cockroach Labs has built database technology trusted to power some of the world's most mission-critical applications. Now, as AI transforms how software is created and operated, the infrastructure behind it has to keep pace. Cockroach Continuum is built to meet this moment, bringing individual databases together into one fleet designed for agentic applications, where AI agents help teams provision, scale, and optimize workloads at machine speed.
+At Cockroach Labs, you'll help build the systems, programs, and operating foundation behind a category-defining company. You'll work alongside people who think deeply, move with purpose, and understand that how we scale matters as much as how quickly we do it. The people who thrive here are the ones who want to own that opportunity.
+The Role
+Cockroach Labs is seeking a Director of FP&A to reimagine our FP&A function from the ground up and lead it into the next era of finance. Reporting directly to the CFO, you'll architect a fundamentally different way of working, one where AI handles the routine, data-intensive work that consumes most finance team bandwidth today, and where FP&A operates as a real-time decision engine rather than a retrospective reporting function.
+This is a lean, high-leverage role built for someone who wants to stay close to the work. You'll run a small, fast-moving team and lean heavily on AI to extend what the team can do. You’ll stay hands-on yourself, building models and strategic analysis directly rather than running the function purely through others. At a moment when FP&A is being reinvented at the best companies in the world, you'll be the one doing the reinventing here.
+To be eligible for this role, you must be based in the Bay Area or New York City.
+You Will
+Reimagine the FP&A operating model. Lead the transformation of the function from a reporting-and-analysis team to an AI-native intelligence hub — in partnership with Cockroach Labs' Data & Applied AI team, who build the underlying agentic infrastructure — where the team focuses on judgment, strategy, and business partnership
+Own long-range strategic planning. Build a long-range financial model that supports the company's next phase of growth, addressing planning and financial resource allocation along the way — with direct involvement in pricing and packaging, a revised go-to-market motion, and sales compensation design aimed at driving the right field behavior
+Own the company-wide planning and forecasting process and rebuild it for the AI era. Shift from static, calendar-driven cycles to rolling, continuously updated forecasts that incorporate real-time signals: revenue pipeline, product usage, churn indicators, and headcount inputs, all modeled and refreshed dynamically
+Serve as strategic finance partner to the CFO and executive team. Translate complex, AI-generated financial signals into clear, board-ready insights and actionable business recommendations. You will be the human judgment layer on top of machine intelligence.
+Lead the design and delivery of board materials and investor-facing packages. Leverage AI to accelerate narrative generation and scenario modeling, while ensuring every output reflects the precision and credibility required for a public company audience
+Drive interactive, real-time scenario modeling. Move from manual sensitivity tables to AI-powered "what if" analysis, enabling the business to model the implications of pricing changes, investment shifts, or revenue tailwinds/headwinds in minutes rather than days.
+Deploy self-serve financial intelligence across the business. Enable R&D, GTM, and G&A leaders to answer their own financial questions through natural language interfaces and live dashboards — reducing FP&A's role as a data provider and expanding its role as a strategic advisor.
+Partner cross-functionally with R&D, GTM, and G&A leadership. Build a business partnering model that is rigorous, trusted, and powered by real-time data, not last month's numbers
+Lead a lean, high-impact FP&A team. Manage a small team that punches above its weight by making AI fluency, analytical judgment, and strategic communication core competencies, favoring hands-on, high-leverage contribution over growing headcount
+The Expectations
+First 30 Days: Get deeply oriented in the business, revenue model, go-to-market motion, R&D investment strategy, and current financial systems. Assess honestly where the team's time is going to work that AI should own. Build strong relationships with the CFO, the Executive Leadership team, and your team.
+By 60 Days: Establish yourself as a trusted partner with a clear-eyed diagnosis of planning process, forecasting cadence, data architecture, and AI readiness. Begin shaping a phased transformation roadmap, starting with the highest-ROI automation opportunities.
+By 90 Days: Deliver an AI-Native FP&A Transformation Roadmap, a Data & Metrics Foundation Plan, a redesigned Planning & Forecasting process, and a long-range strategic financial model supporting the company's next phase of growth.
+You Have
+8+ years of progressive experience in finance, spanning investment banking, private equity, and/or FP&A at a high-growth company, with a strong foundation in financial modeling and analysis. We're open to candidates earlier in their career with particularly strong investment banking or transaction experience, provided they bring exceptional modeling speed and fluency with modern AI tools.
+Fluency with recurring and consumption-based revenue models and the metrics that drive them — ARR, net and gross retention, cohort economics, payback — or clear evidence you'll get there fast.
+A strong ownership instinct and a bias toward speed. You take problems across the finish line without being asked twice, and you'd rather land a good answer this week than a perfect one next month.
+A track record of driving AI or technology-led transformation of a finance function. Not just using AI tools, but redesigning how the work gets done.
+Strong financial modeling, scenario analysis, and integrated three-statement forecasting skills, with a clear point of view on how AI makes each faster and more dynamic
+Experience building and presenting board-level and investor-facing financial materials
+Strong familiarity with the modern AI-enabled FP&A tooling landscape and the judgment to know what to build, buy, or integrate
+Exceptional executive presence and ability to translate machine-generated intelligence into human narrative at the executive and board level
+A genuine preference for staying close to the work, including building models and analysis yourself, not just directing a larger team
+Curiosity and conviction about where AI is taking the finance function, and the ability to bring others along with that vision
+The Team
+You'll report to Sailesh Munagala, CFO, who joined Cockroach Labs recently bringing deep financial leadership experience from Vectra AI, Relativity, Google Cloud, and Palo Alto Networks. Sailesh's strategic vision and operational expertise will be instrumental as we scale the business and accelerate our growth.
+You'll partner closely with our Data & Applied AI team, who will build and maintain the technical infrastructure behind these AI-native workflows. You don't need to be a data engineer or AI builder yourself. Your job is to know what FP&A needs, translate that into requirements, and apply the judgment that turns machine output into decisions.
+Cockroach Labs is proud to be an Equal Opportunity Employer building a diverse and inclusive workforce. If you need additional accommodations to feel comfortable during your interview process, please email us at accessibility@cockroachlabs.com .
+Cockroach Labs has a hybrid work model, with Roachers that are local to one of our offices coming in on Mondays, Tuesdays, and Thursdays and working flexibly the rest of the week. While we’ve learned valuable lessons working remotely, nothing can replace the connection, creativity, and fun that occurs when Roachers get together and we are committed to fostering a workplace that encourages collaboration and allows us all to do our best work.
+Benefits
+Stock Options
+Medical Insurance
+Vision Insurance
+Dental Insurance
+Life and Disability Insurance
+Professional Development Funds
+Flexible Time Off
+Paid Holidays
+Paid Sick Days
+Paid Parental Leave
+Retirement Benefits
+Mental Wellbeing Benefits
+And more!
+The annual anticipated base salary range for U.S. candidates for this role is listed in USD below. Salary is one component of the Cockroach Labs’ Total Rewards package, which also includes, for each employee: stock options, medical insurance, vision insurance, dental insurance, life and disability insurance, funds towards professional development resources, flexible paid time off, 11 paid holidays a year, 10 paid sick days a year, paid parental leave, a 401(k) plan, and wellbeing benefits.
+We set standard ranges for all U.S.-based roles based on function, level, and geographic location, benchmarked against similar stage growth companies. Actual salaries may vary and fall outside of this range depending on factors such as a candidate’s qualifications, geographic location, skills, experience, and competencies. In addition, we are often open to a wide variety of profiles, and recognize that the person we hire may be less experienced (or more senior) than this job description as posted.
+Salaries for candidates outside the U.S. will vary based on local compensation structures.
+This position will remain posted until filled. Applicants should apply via our Careers Page.
+Annual Anticipated Base Salary Range (U.S)
+$205,000 — $250,000 USD

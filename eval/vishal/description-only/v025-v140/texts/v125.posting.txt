@@ -1,0 +1,34 @@
+Asana is building the platform for human and agent collaboration in the enterprise. With the launch of Agentic Work Management (AWM), AI is now a foundational part of the platform, and this shift brings a new class of problems. Customers need to trust agentic work, govern it, and see a return on it before they will scale it. Many of the opportunities that matter most for customers sit between our suite of AI products, rather than inside any particular one, which is where you come in. This role sits in our AI Platform Group on a small, fast-moving team with a deliberately broad mandate: work across the boundaries other product teams operate within, identify the cross-cutting problems and opportunities that no single team owns, and build leveraged solutions that create scalable, differentiated value for our customers.
+This role is based in our New York City office with an office-centric hybrid schedule. The standard in-office days are Monday, Tuesday, and Thursday. Most Asanas have the option to work from home on Wednesdays. Working from home on Fridays depends on the type of work you do and the teams with which you partner. If you're interviewing for this role, your recruiter will share more about the in-office requirements.
+What you’ll achieve
+Work directly with enterprise customers and prospects to discover the challenges they face when managing agentic work in Asana, and bring back what you learn to inform your roadmap.
+Discover and quickly validate new, high-leverage opportunities, then work cross-functionally to deliver end-to-end solutions, fast.
+Consistently choose leverage over local wins by selecting problems whose solutions compound across Asana's AI products rather than improving a single surface in isolation.
+Help set the standard for what Asana invests in versus not as the AI capability landscape shifts, piloting new capabilities and accelerating their adoption and integration into our AI products.
+Evaluate and sequence key strategic capabilities, including AI ROI measurement and reporting, AI governance, monitoring, administration, and managing complex cross-functional agentic workflows.
+About you
+Demonstrates curiosity about AI tools and emerging technologies, with a willingness to learn and leverage them to enhance productivity, collaboration, or decision-making.
+Senior IC product management experience in enterprise SaaS, with a proven track record of shipping complex products end-to-end.
+Hands-on experience building or shipping an AI-first product, with working fluency in model deployment and hosting, inference hosting choices, evals and quality measurement, fine-tuning, and data privacy trade-offs.
+A platform instinct to identify capabilities built once that serve several products over point solutions.
+Comfortable navigating ambiguity, greenfield problems, and leading open-ended outcomes.
+Strong prioritization and sequencing instincts to evaluate multiple directions and decisively invest in high-impact initiatives.
+Proven track record of working directly with enterprise customers to unblock deals, drive revenue, and influence cross-functional teams.
+Thrives in a fast-paced environment partnering shoulder-to-shoulder with engineering and executing hands-on discovery and prototyping.
+At Asana, we're committed to building teams that include a variety of backgrounds, perspectives, and skills, as this is critical to helping us achieve our mission. If you're interested in this role and don't meet every listed requirement, we still encourage you to apply.
+What we’ll offer
+Our comprehensive compensation package plays a big part in how we recognize you for the impact you have on our path to achieving our mission. We believe that compensation should be reflective of the value you create relative to the market value of your role. To ensure pay is fair and not impacted by biases, we're committed to looking at market value which is why we check ourselves and conduct a yearly pay equity audit.
+For this role, the estimated base salary range is between $202,000-$230,000. The actual base salary will vary based on various factors, including market and individual qualifications objectively assessed during the interview process. The listed range above is a guideline, and the base salary range for this role may be modified.
+In addition to base salary, your compensation package may include additional components such as equity, sales incentive pay (for most sales roles), and benefits. If you're interviewing for this role, speak with your recruiter to learn more about the total compensation and benefits for this role.
+We strive to provide equitable and competitive benefits packages that support our employees worldwide and include:
+Mental health, wellness & fitness benefits
+Career coaching & support
+Inclusive family building benefits
+Long-term savings or retirement plans
+In-office culinary options to cater to your dietary preferences
+These are just some of the benefits we offer, and benefits may vary based on role, country, and local regulations. If you're interviewing for this role, speak with your recruiter to learn more about the total compensation and benefits for this role.
+#LI-Hybrid #LI-HC1
+About us
+Asana is a leading platform for human + AI collaboration. Millions of teams around the world rely on Asana to achieve their most important goals, faster. Asana has been named to Fortune's Best Workplaces for 7+ years and recognized by Fast Company, Forbes, and Gartner for excellence in workplace culture and innovation. We offer an exceptional office-centric culture while adopting the best elements of hybrid models to ensure that every one of our global team members can work together effortlessly. With 13+ offices all over the world, we are always looking for individuals who care about building technology that drives positive change in the world and a culture where everyone feels that they belong.
+We believe in supporting people to do their best work and thrive. Our goal is to ensure that Asana upholds an environment where all people feel that they are respected and valued, whether they are applying for an open position or working at the company. We provide equal employment opportunities to all applicants without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by law.
+Join Asana’s Talent Network  to stay up to date on job opportunities and life at Asana.

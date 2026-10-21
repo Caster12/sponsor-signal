@@ -1,0 +1,27 @@
+Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!
+At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.
+Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.
+Read our blog to learn more.
+About the role...
+This person will embed with one or more product development teams, working collaboratively and cross-functionally to increase the impact of product iteration and experimentation. The ideal candidate combines deep technical fluency in data science and machine learning with exceptional communication skills and an acute product sense. They can identify the right questions to ask, use data analysis to create clarity in decision making, and deliver scalable data products and models as the situation demands.
+🧠  You will...
+Embed within one or more product development teams, building strong stakeholder connections and delivering data products and analyses that move team outcomes.
+Collaborate across functional boundaries with Product Management, Engineering, Design, Marketing, and Finance across every phase of product development.
+Own the prioritization and ROI assessment of Data Science opportunities within your area.
+Translate complex findings into clear narratives for leadership and cross-functional partners. Influence strategic decisions through technical depth and effective communication.
+Contribute to the analytical foundations within Growth, developing definitions, methodological guidelines, and self-serve dashboards that enable others to operate with data fluency.
+Mentor and learn from other Data Scientists both within the Growth pillar and across the company.
+✅  You have...
+Experience working as a Data Scientist embedded with or supporting a product development team. You have experience creating value from data in messy real-world settings.
+Exceptional communication skills, both written and verbal, with the ability to distill complex quantitative work into crisp, actionable insights for diverse audiences.
+A graduate degree in Data Science, Statistics, Economics, or a related quantitative field, or equivalent demonstrated expertise in formal analysis methodology.
+Strong command of SQL, Python or R, AI tools, and data/analytics engineering ecosystems.
+Fluency with standard machine learning and predictive modeling techniques.
+⭐  Exceptional candidates will have...
+Experience operating at a high-growth, data-intensive consumer technology company, particularly in the user growth area.
+Experience building, maintaining, and improving production machine learning models and the infrastructure that supports them.
+An impressive Duolingo streak.
+The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!
+Salary Range:
+$182,800 — $247,300 USD
+Benefits: Take a peek at how we care for our employees' holistic well-being with our benefits here . Job Alerts: Sign up for job alerts here . Accommodations: We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com . Equal Employment Opportunity: Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Fraud Warning: Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in @duolingo.com or @recruiting.duolingo.com. Stay alert and double-check these details before sharing any information. By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice .

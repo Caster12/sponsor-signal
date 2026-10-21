@@ -1,0 +1,34 @@
+About Akuna:
+Akuna Capital  is an innovative  trading firm with a strong focus on collaboration,  cutting-edge  technology, data driven solutions , and automation. We specialize in providing liquidity as an options market maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully ,  we design and implement our own low latency technologies, trading strategies ,  and mathematical models.
+Our Founding Partners   first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to  operate  from  additional  offices in Sydney, Shanghai,  London,  and Singapore .
+What you’ll do as a Platform Engineer at Akuna:
+This is an exciting role where you will be given the opportunity to take ownership of projects and make them your own. At Akuna, we are constantly looking for ways to improve our efficiency as we continue to grow. As a Platform Engineer, you will work closely with our Trading, Development, Infrastructure, and Operations teams. You will design and implement cloud solutions, automate infrastructure as code, improve cloud governance and security, and monitor our hybrid-cloud environments. I n this role, you will:
+Ensure cloud services are leveraged to their full potential (AWS, Azure, Google Cloud) and best practices are being followed
+Help manage our public cloud growth and continuously improve Akuna’s hybrid-cloud operating model
+Evaluate proposed solution architectures and provide recommendations
+Provision, configure, upgrade, and monitor technologies such as Kubernetes (EKS and on-premise), Spark, Kafka, and other large-scale distributed databases
+Automate infrastructure management and development pipelines with tools like Terraform, Ansible, Jenkins and GitLab
+Explore new technologies in the cloud-native/container ecosystem
+Work with Infrastructure and Development teams to monitor systems, clusters and cloud deployments to detect errors and monitor performance
+Adhere to the engineering mindset of creating and maintaining performant and reliable production systems
+Qualities that make great candidates:
+Bachelor's degree in Computer Science, Engineering, or a related field
+3+ years of experience in Platform Engineering, Cloud Engineering, SRE, DevOps, or related infrastructure roles
+This role is available hybrid from our Chicago office or fully remote.
+AWS Certified Solutions Architect certification preferred
+Deep experience deploying, operating, and scaling Kubernetes in production, including on-premise clusters and Amazon EKS
+Strong expertise designing and managing cloud infrastructure on AWS; experience with GCP is a plus
+Advanced proficiency with Terraform and Infrastructure as Code (IaC), including reusable module development, state management, and platform automation
+Experience building and operating highly available, scalable, and secure cloud-native platforms
+Strong knowledge of observability, including monitoring, logging, alerting, and operational troubleshooting
+Proven experience designing and maintaining CI/CD pipelines and modern software delivery practices
+Strong Linux systems administration and troubleshooting skills in distributed production environments
+Proficiency in automation and scripting with Python, Bash, or similar languages
+Experience with cloud-native data services, including Amazon RDS, Aurora, Redshift, and DynamoDB
+Demonstrated ability to lead technical initiatives, influence architectural decisions, and mentor engineers
+Strong communication and collaboration skills, with experience partnering across engineering, operations, and business teams
+The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role
+In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want everyone to feel empowered to apply. We welcome your application and encourage you to take the first steps toward your future with us!
+Please note that level/title will be determined upon the conclusion of the interview process. If you are a current student or recent graduate, please take a look at our Entry Level and Intern positions.
+Please note that all final round interviews are conducted onsite at our Chicago office.
+In accordance with Illinois Equal Pay Act, the minimum base salary starts at $145,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. This role is also eligible for a discretionary performance bonus as part of the total compensation package and includes a comprehensive benefits package that may encompass employer-paid medical, dental, vision, retirement contributions, paid time off, and other benefits. The minimum base salary herein was determined in good faith by Akuna Capital LLC.
