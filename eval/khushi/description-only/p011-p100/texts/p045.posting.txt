@@ -1,0 +1,65 @@
+Senior Site Reliability Engineer
+Duolingo
+New York, NY; Pittsburgh, PA
+
+Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!
+
+At Duolingo, you’ll join a team that cares about finding innovative solutions to complex technical problems, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful. 
+
+Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.
+
+About the role...
+
+As a Senior Site Reliability Engineer, you will work closely with both product and platform engineering teams to ensure Duolingo’s sophisticated distributed systems and products are built and maintained with extraordinary quality, and operated in measurable and scalable ways.
+
+🧠  You will...
+
+Collaborate with internal teams to identify sources of instability in distributed systems and drive operational excellence
+
+Support core infrastructure (i.e understand, diagnose, and debug these systems in production)
+
+Provide system design consulting, develop software platforms/frameworks, and conduct launch reviews and root cause analysis
+
+Maintain and document sustainable postmortem/incident response practices
+
+Advocate for and implement changes that improve reliability, scalability, and velocity
+
+Reduce the burden of toil with iterative development of tooling and automation
+
+Collaborate with engineering teams to release new features and become an authority on our services
+
+✅  You have...
+
+Experience identifying and solving issues in large-scale distributed systems
+
+Experience with Java, Kotlin, Python or Go
+
+An understanding of containerization toolsets and container orchestration technologies (Docker, Mesos, Kubernetes, Nomad, etc)
+
+⭐  Exceptional candidates will have...
+
+Experience in improving automation and tooling to reduce service maintenance toil
+
+Proven experience driving improvements to incident response processes
+
+Experience assessing reliability and troubleshooting issues in Dynamo, MySQL, and/or PostgreSQL databases
+
+ 
+
+The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!
+
+Salary Range: 
+
+$182,800—$247,300 USD
+
+Benefits: Take a peek at how we care for our employees' holistic well-being with our benefits here.
+
+Job Alerts: Sign up for job alerts here.
+
+Accommodations: We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com.
+
+Equal Employment Opportunity: Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Fraud Warning: Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in @duolingo.com or @recruiting.duolingo.com. Stay alert and double-check these details before sharing any information.
+
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

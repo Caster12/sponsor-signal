@@ -1,0 +1,57 @@
+AI Eng Lead/Manager
+Blend360
+Columbia, MD, United States
+
+Company Description
+Blend is a premier AI services provider, committed to co-creating meaningful impact for its clients through the power of data science, AI, technology, and people. With a mission to fuel bold visions, Blend tackles significant challenges by seamlessly aligning human expertise with artificial intelligence. The company is dedicated to unlocking value and fostering innovation for its clients by harnessing world-class people and data-driven strategy. We believe that the power of people and AI can have a meaningful impact on your world, creating more fulfilling work and projects for our people and clients. For more information, visit www.blend360.com 
+
+Job Description
+We’re growing our Data Science team to drive innovation in Generative AI. As a Data Scientist – Applied AI & Prompt Engineering, you will design, build, and deploy LLM-powered solutions that directly impact our products and users. You’ll work hands-on with LLMs, transformers, retrieval-augmented generation (RAG), and AI agents, collaborating with Engineering to bring prototypes all the way to production and take ownership of their ongoing maintenance, enhancement, and evolution. 
+
+What You’ll Do 
+
+Architect and implement production-ready AI solutions involving LLMs, transformer-based models, retrieval systems, agentic workflows, and AI agents for generative tasks and automation. 
+
+Design and iterate on prompts, workflows, and RAG pipelines to improve accuracy, cost-efficiency, latency, and safety. 
+
+Design and build multi-step agentic systems that break down complex tasks, invoke external tools or APIs, manage state, and handle reasoning chains robustly. 
+
+Deploy models and GenAI pipelines in production environments (API, batch, streaming), ensuring reliability and scalability. 
+
+Build and maintain evaluation frameworks to measure model grounding, factuality, latency, and cost. 
+
+Develop and integrate guardrails (e.g., prompt-injection protections, content moderation, output validation), and safeguards for agent loops (e.g., loop prevention, tool call limits, state validation). 
+
+Collaborate cross-functionally with Product, Engineering, and ML Ops to deliver high-quality AI features end-to-end. 
+
+Qualifications
+Experience: 3+ years applied machine learning, with hands-on focus on NLP, transformers, or generative AI systems. 
+
+LLM and Agent Tools: Hands-on experience with LLM-related libraries (e.g. LangChain, LlamaIndex, OpenAI API, CrewAI, or similar) and services (Azure Prompt flow, AWS Bedrock agents, or similar) 
+
+Agentic Systems: Experience designing multi-step agents that combine LLM reasoning with tool/API calls, with safeguards against errors, loops, and unsafe tool use. 
+
+ML Foundations: Proven experience building and deploying machine learning models to production (API, batch, or streaming). 
+
+Coding: Fluency in Python, with clean, modular, production-grade code practices. 
+
+Experimentation: Strong ability to design and analyze ML experiments; track performance using metrics, not gut feel. 
+
+Deployment: Ability to develop, deploy and monitor AI-powered applications in cloud environments (e.g. AWS, Azure, GCP) using APIs, batch, or streaming architectures. Familiarity with containerization, versioning, and CI/CD. 
+
+Responsible AI: Experience implementing privacy, bias mitigation, safety guardrails, or related practices. 
+
+Additional Qualifications 
+
+Degree in Computer Science, Data Science, Engineering, or a related field (or equivalent experience). 
+
+Expertise in transformer-based models and LLM architectures. 
+
+Ability to bridge rapid prototyping and production deployment — you own what you build through to live systems. 
+
+Strong collaborator who thrives at the intersection of DS + Engineering. 
+
+ 
+
+Additional Information
+The starting pay range for this role is $125,000 - $180,000. Actual compensation within the range will be dependent on several factors including but not limited to relevant experience, skills, certifications, training, and location. It is not typical for an individual to be hired at or near the top of the range and determining factors for compensation are considered for each individual circumstance. BLEND360 also offers a competitive benefits program to meet the health and financial well-being of our team and their families. You can look forward to a range of benefits including medical, dental, vision, 401K, PTO, paid holidays, commuter benefits, spending accounts, life insurance, disability coverage, and EAPs.

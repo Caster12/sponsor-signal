@@ -1,0 +1,67 @@
+Platform Engineer II
+Duolingo
+New York, NY
+
+Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!
+
+At Duolingo, you’ll join a team that cares about finding innovative solutions to complex technical problems, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful. 
+
+Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.
+
+About the role...
+
+As a Platform Engineer on the Compute team, you’ll improve how engineers build and run services, helping ensure our compute platform is reliable at scale for our learners and fellow Duo engineers.
+
+The Compute team builds and operates the core compute platform that powers our applications. We build paved roads (self-service platform primitives, templates, and tooling) and we operate them so product engineers can focus on shipping features with confidence.
+
+🧠  You will...
+
+Build and operate core compute primitives that power production workloads based on Kubernetes, across different regions and cloud providers. 
+
+Improve the delivery pipeline from commit to production by evolving our GitOps and deployment patterns, making rollouts safer and faster.
+
+Raise the operational bar: define SLOs, build dashboards/alerts, write runbooks, and participate in on-call/incident response to keep the platform dependable.
+
+Enable effective self-service by turning platform capabilities into reusable abstractions.
+
+✅  You have...
+
+Strong problem-solving skills and experience delivering and shipping pragmatic solutions in production environments.
+
+Experience with distributed systems fundamentals (networking, service-to-service communication, failure modes, caching/storage concepts).
+
+Experience working on production systems (through industry roles, internships, or substantial open-source work).
+
+Experience with one or more CI/CD tools (Jenkins, Argo CD, GitHub Actions) and infrastructure management tools (Terraform, CloudFormation)
+
+Clear written and verbal communication skills—comfortable writing docs/runbooks and collaborating across teams.
+
+Functional knowledge of Linux system administration and automation
+
+⭐  Exceptional candidates will have...
+
+A Bachelor’s degree in Computer Science, related technical field, or equivalent practical experience
+
+Experience managing a production infrastructure on AWS, Google Cloud, Alibaba Cloud, or Azure.
+
+Exposure to multi-cluster or multi-region architectures and the operational patterns that make them reliable.
+
+Experience with service mesh / zero-trust networking patterns (e.g., Istio mTLS, traffic management, authorization policies).
+
+The offered salary is dependent upon several factors, including work experience, skills, and internal peer comparisons. The posted range is subject to change in the future. For this role, base salary is supplemented by equity compensation. We encourage you to talk with your recruiter for more information related to compensation for this role!
+
+Salary Range: 
+
+$153,000—$207,000 USD
+
+Benefits: Take a peek at how we care for our employees' holistic well-being with our benefits here.
+
+Job Alerts: Sign up for job alerts here.
+
+Accommodations: We will do everything we can within reason to make sure that your interview takes place in an environment that fairly and accurately assesses your skills. If you need assistance or accommodation, please contact accommodations@duolingo.com.
+
+Equal Employment Opportunity: Duolingo is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Fraud Warning: Unfortunately, there is a rise in scammers pretending to be real Duolingo employees. Duolingo and our employees will never ask for your Social Security number, bank details, or passport info, and we’ll never ask you to deposit a check, purchase equipment, or exchange money during the interview process. Real Duolingo employees always use an email that ends in @duolingo.com or @recruiting.duolingo.com. Stay alert and double-check these details before sharing any information.
+
+By applying for this position your data will be processed as per the Duolingo Applicant Privacy Notice.

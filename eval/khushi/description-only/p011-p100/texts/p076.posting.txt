@@ -1,0 +1,79 @@
+Forward Deployed Engineer, Data & Analytics
+Accordion
+Atlanta; Boston; Charlotte; Chicago; Dallas; Los Angeles; New York; San Francisco
+
+Company Overview
+
+We are the better way to work in finance. As private equity’s value creation partner, we sit at the heart of PE—where sponsors and CFOs meet. Through financial consulting rooted in data, technology, and AI, we help clients drive value—supporting the office of the CFO to drive end-to-end value creation.
+
+If you crave challenging work and are looking to grow, come solve complex issues alongside 1,600+ finance & technology experts in a supportive, collaborative environment. 
+
+Backed by premier private equity firms and headquartered in New York with 11 offices around the globe, we are a high-growth, entrepreneurial firm looking for people who want to be part of building something great. Come make your mark. 
+
+Data & Analytics
+
+Accordion's Data & Analytics and Engineering team offers cutting-edge, intelligent solutions to a global clientele, leveraging a blend of domain knowledge, sophisticated technology tools, and deep analytics capabilities to tackle complex business challenges.
+
+We partner with Private Equity clients and their Portfolio Companies across diverse sectors, including Retail, CPG, Healthcare, Media & Entertainment, Technology, and Logistics.
+
+We deliver agentic workflows, and solutions designed to streamline processes and enhance business insights across vast and complex data sets ranging from Sales, Operations, Marketing, Pricing, Customer Strategies, and more.
+
+This role can be based in any of our US office locations and has the potential for client travel to be onsite. Ideal candidates should be local to the desired location.
+
+This position is not eligible for immigration sponsorship.
+
+About the Role and You
+
+We're looking for a rare combination: a data scientist who thinks like a strategist and a strategist who speaks fluent data. You fall in love with problems and quantify complex situations using math. This isn't a role in building models in isolation—it's about transforming how a business makes decisions, identifying opportunities, and driving growth. You'll be an equal parts analyst, advisor, and architect of our strategic direction.
+
+What You’ll Do
+
+You'll sit at the intersection of data and strategy, turning complex business challenges into quantifiable opportunities. This means diving deep into our numbers to surface insights that others miss, then translating those insights into actionable growth strategies. You'll work directly with leadership to shape major business decisions, from market expansion and pricing strategy to resource allocation and competitive positioning.
+
+Your day-to-day will involve identifying the right questions to ask before anyone else thinks of asking them, building the analytical frameworks to answer those questions, and presenting recommendations that fundamentally shift how we operate. You'll own strategic initiatives from conception through execution, measuring impact and iterating as you go. You’ll travel to client sites as needed, leading AI assessment and Strategy Engagements.
+
+What We're Looking For
+
+The Strategic Mindset: You naturally think several moves ahead. You understand business models, competitive dynamics, and growth levers. You can walk into a room with executives and hold your own in discussions about market strategy, unit economics, and long-term planning. You've seen how businesses succeed and fail, and you know how to spot the difference.
+
+The Technical Depth: You're genuinely strong in quantitative methods—statistics, predictive modeling, optimization, and experimental design. You can wrangle messy data, build robust analyses, and know when a sophisticated model is needed versus when a simple calculation will do. Python, R, and SQL are still in your wheelhouse.
+
+The Translation Layer: You can explain complex analytical concepts to non-technical stakeholders without dumbing them down. You know how to build conviction around data-driven recommendations and can defend your methodology when challenged. You make the quantitative accessible and actionable.
+
+The Business Acumen: You understand P&Ls, growth metrics, customer economics, and operational levers. You've worked closely enough with business teams to know what keeps them up at night and how your analyses can help them sleep better.
+
+Requirements
+
+5+ years of experience in data science, engineering or data engineering roles with increasing strategic responsibility
+
+Strong foundation in data platforms, data science, statistics, machine learning, and quantitative analysis
+
+Additional considering will be given to engineers who have a background in data but have yet to work deeply with LLM enabled workflows
+
+Experience working directly with business leaders to convey options and tradeoffs to define solution design and scope.
+
+Demonstrated experience influencing business strategy through data
+
+Track record of identifying and driving growth opportunities
+
+Excellent communication skills with technical and executive audiences
+
+Proficiency in modern data science tools and languages
+
+Understanding of business finance and growth frameworks
+
+Ideal Background
+
+You might come from management consulting or technical consulting with deep analytical chops, a curiosity for working on business problems, strategic roles at high-growth companies, corporate strategy teams with hands-on data work, or data science roles where you've grown into strategic advisory. What matters most is that you've successfully used data to change how businesses operate and grow.
+
+What Success Looks Like
+
+In your first year, you'll have identified three major strategic opportunities we weren't seeing before, built the analytical infrastructure to evaluate them rigorously, and driven at least one to implementation with measurable business impact. You'll have become a trusted advisor to leadership and the person they turn to when facing the company's thorniest strategic questions.
+
+The annual salary for this role ranges from: $145,000 to $240,000 USD + benefits + bonus. Actual compensation packages are determined by evaluating a wide array of factors unique to each candidate, including but not limited to geographic location, skill set, years and depth of experience, education, certifications, cost of labor and internal equity.
+
+Accordion is an Equal Opportunity Employer. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills.  We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical​​​ condition, pregnancy, genetic information, gender, sexual orientation, gender identity or ​expression, veteran status, or any other status protected under federal, state, or local law.
+
+Please note that as per Accordion policy, we do not accept unsolicited resumes from third-party recruiters unless such recruiters are engaged to provide candidates for a specified opening and in alignment with our inclusive diversity values. Any employment agency, person or entity that submits an unsolicited resume does so with the understanding that Accordion will have the right to hire that applicant at its discretion without any fee owed to the submitting employment agency, person or entity.
+
+#LI-NG1

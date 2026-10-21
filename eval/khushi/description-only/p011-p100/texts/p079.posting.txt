@@ -1,0 +1,59 @@
+Lead Business Analyst, Fraud Analytics
+Blend360
+Jacksonville, FL, United States
+
+Company Description
+Blend is a data, analytics, and AI services company that helps organizations solve complex business problems through strategy, technology, and specialized talent. We connect experienced professionals with meaningful projects at leading companies across a range of industries.
+
+Job Description
+We are seeking a Lead Business Analyst preferrably with Fraud Analytics experience to evaluate analytical models and coordinate their implementation into a production environment. This person will assess model performance, compare available models, help determine which models should be prioritized, and manage the work required to deploy them successfully.
+
+This role combines data science, data modeling, project management, and analytics. It is not focused exclusively on building models from scratch or writing production code.
+
+Responsibilities
+
+Evaluate analytical models and assess their performance.
+
+Compare models and help determine which should be prioritized for implementation.
+
+Coordinate model implementation and deployment activities.
+
+Manage timelines, requirements, deliverables, dependencies, and project progress.
+
+Work with data science, modeling, technology, and business teams.
+
+Analyze model results and translate findings into clear recommendations.
+
+Track model performance before and after implementation.
+
+Identify implementation issues and coordinate their resolution.
+
+Prepare reports and communicate findings to stakeholders.
+
+Qualifications
+Required Qualifications
+
+3+ years of Data Science experience.
+
+3+ years of Data Modeling experience involving model implementation, deployment, and evaluation.
+
+3+ years of Project Management experience.
+
+3+ years of Analytics experience.
+
+Preferred Qualifications
+
+Experience with fraud analytics or fraud models.
+
+Experience building or deploying fraud detection rules.
+
+Payments or card-industry experience.
+
+Familiarity with Mastercard products or models.
+
+Financial services experience.
+
+Experience with card-network mandates and issuer-side implementation.
+
+Additional Information
+This role does not offer sponsorship, visa transfers, or C2C arrangements now or at anytime in the future.

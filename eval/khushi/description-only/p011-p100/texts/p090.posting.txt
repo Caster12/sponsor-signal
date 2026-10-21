@@ -1,0 +1,33 @@
+PhD Research Economist
+Integra FEC
+Austin, Texas
+
+Integra FEC is hiring entrepreneurial and quantitatively skilled graduates with a background in economics and mathematics who are interested in applying their skills to identify, investigate and analyze fraud in various domains, including finance, healthcare and cryptocurrencies. Integra is a boutique economic consulting and forensic analytics firm that works with government agencies and private entities to analyze complicated and high-profile schemes. Our team applies data science and econometric techniques and intensely values each employee to take initiative and to be curious while operating as a data detective to solve complex problems. 
+
+Main responsibilities include:
+
+Working as a data detective to examine potentially fraudulent patterns
+
+Conducting qualitative and quantitative research to identify opportunities to detect fraud and identify fraud detection methods
+
+Building, cleaning, compiling and analyzing datasets to find insights and fraud patterns using econometrics, statistics and other forms of analyses
+
+Building scripts, algorithms and code to process and analyze large datasets effectively and efficiently
+
+Presenting findings to technical and non-technical audiences
+
+Job Qualifications:  
+
+PhD in Economics required, with Finance and Mathematics background a plus
+
+Familiarity with Python, SQL, R, or other scripting languages 
+
+Proficiency in Microsoft Excel
+
+Attention to detail with big-picture understanding  
+
+Ability to work well in teams  
+
+Highest ethical standards.
+
+Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.

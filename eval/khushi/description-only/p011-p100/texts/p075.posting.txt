@@ -1,0 +1,89 @@
+Sr. AI Engineer
+Capco
+US - Orlando
+
+Senior GenAI Engineer
+Location: Orlando, FL | Practice Area: Technology & Engineering | Type: Permanent
+
+Build and scale cutting-edge generative AI solutions that drive real business impact
+
+The Role
+As part of Capco’s Technology Delivery Team, you will bring hands-on experience in agile delivery and engineering best practices to develop innovative AI-driven solutions. As a Senior GenAI Engineer, you will contribute across the full AI lifecycle—from experimentation and prototyping through to production deployment—helping deliver scalable, high-impact solutions for financial services clients.
+
+What You’ll Do
+
+Design and build applications using foundation models and modern GenAI techniques (e.g., RAG, agent-based workflows)
+
+Develop and experiment with autonomous or semi-autonomous agent frameworks
+
+Contribute to full-stack AI solutions, including backend services, APIs, and user-facing components
+
+Deploy and scale AI/ML solutions in cloud environments (AWS, Azure, or GCP)
+
+Collaborate with cross-functional teams and support knowledge sharing across the team
+
+What We’re Looking For
+
+Bachelor’s or Master’s degree in Computer Science, AI/ML, or a related field (or equivalent experience)
+
+~5+ years of software engineering experience with exposure to AI/ML or data-driven applications
+
+Hands-on experience with LLMs or generative AI
+
+Strong Python skills and experience building scalable backend systems
+
+Experience working with cloud platforms and modern development practices
+
+Willingness to work in our office 3 days/week
+
+Bonus Points For
+
+Experience with GenAI concepts such as RAG, embeddings, vector databases, or agent-based systems
+
+Familiarity with MLOps/LLMOps tools and model lifecycle management
+
+Experience contributing to full-stack development across backend and frontend
+
+Interest in staying current with emerging AI trends and technologies
+
+Experience mentoring or supporting team development
+
+Why Join Capco
+
+Deliver high-impact technology solutions for Tier 1 financial institutions
+
+Work in a collaborative, flat, and entrepreneurial consulting culture
+
+Access continuous learning, training, and industry certifications
+
+Be part of a team shaping the future of digital financial services
+
+Help shape the future of digital transformation across FS & Energy
+
+We offer a competitive, people-first benefits package designed to support every aspect of your life:
+
+Medical, dental, and vision coverage
+
+401(k) with employer match
+
+Paid parental leave and dependent care support
+
+Tuition and wellness reimbursement programs
+
+Commuter benefits and access to employee discount platforms
+
+Use of Artificial Intelligence in Talent Acquisition
+At Capco, we use artificial intelligence (AI) tools to support and enhance several parts of talent acquisition. This includes using AI-enabled features within LinkedIn to help source potential candidates, speeding up routine recruitment communications such as emails and creating compelling and brand-aligned job postings that accurately reflect role requirements, and AI-scheduling applications to improve the efficiency of interview coordination.
+
+AI is used as a support tool only. All hiring decisions are made by talent acquisition and hiring teams.
+
+Inclusion at Capco
+We’re committed to making our recruitment process accessible and straightforward for everyone. If you need any adjustments at any stage, just let us know – we’ll be happy to help. We value each person’s unique perspective and contribution. At Capco, we believe that being yourself is your greatest strength. Our #BeYourselfAtWork culture encourages individuality and collaboration – a mindset that shapes how we work with clients and each other every day.
+
+We have been informed of several recruitment scams targeting the public. We strongly advise you to verify identities before engaging in recruitment related communication. All official Capco communication will be conducted via a Capco recruiter.
+
+ 
+
+#LI-MB1
+
+#LI-HYBRID

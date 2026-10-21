@@ -1,0 +1,33 @@
+Machine Learning Researcher
+Jane Street
+New York, New York, United States
+
+About the Position
+
+We’re looking for smart and curious individuals to join our growing team and drive our ML work.
+
+On our Machine Learning team, you'll build the deep learning models that power our trading strategies, supported by our rapidly growing computing cluster with tens of thousands of high-end GPUs. Trading poses unusual challenges—large models and nonstationary datasets in a competitive multi-agent environment—that force us to search for novel techniques. 
+
+At Jane Street, our researchers, engineers, and traders sit a few feet away from each other and work together to train models, architect systems, and run trading strategies. Depending on the day, we might be diving deep into market data, tuning hyperparameters, debugging distributed training performance, or studying how our model likes to trade in production.
+
+We’ll rely on your in-depth knowledge of the machine learning landscape and understanding of a variety of approaches—drawn from LLMs, image models, RL agents, recommendation systems, or classical ML methods—to shape the future of ML at Jane Street. You’ll train models for the next generation of our deep learning-based trading strategies, and build the fundamental understanding we need to tackle new markets and situations. You’ll also be hiring new colleagues, attending conferences, and teaching techniques to teammates—all of which we consider to be real and impactful parts of the job.
+
+About You
+
+If you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind and a passion for solving interesting problems, we have a feeling you’ll fit right in. There’s no fixed set of skills we are looking for, but you should bring:
+
+Practical experience working on empirical ML problems
+
+The ability to apply logical and mathematical thinking to all kinds of problems
+
+Intellectual curiosity and excitement about state-of-the-art research across many ML problem domains
+
+Fluency with a versatile set of models and tricks 
+
+The hands-on coding skills needed to rapidly implement and iterate on your ideas, in Python and your favorite ML framework
+
+An eagerness to ask questions, admit mistakes, and learn new things
+
+If you’d like to learn more, you can read about our interview process and meet some of the team.
+
+If you're a recruiting agency and want to partner with us, please reach out to agency-partnerships@janestreet.com.

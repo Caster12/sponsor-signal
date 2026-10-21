@@ -1,0 +1,97 @@
+Staff Software Engineer
+Accordion
+Boston; Charlotte; Chicago; Dallas; New York; San Francisco
+
+Company Overview
+
+We are the better way to work in finance. As private equity’s value creation partner, we sit at the heart of PE—where sponsors and CFOs meet. Through financial consulting rooted in data, technology, and AI, we help clients drive value—supporting the office of the CFO to drive end-to-end value creation.
+
+If you crave challenging work and are looking to grow, come solve complex issues alongside 1,600+ finance & technology experts in a supportive, collaborative environment. 
+
+Backed by premier private equity firms and headquartered in New York with 11 offices around the globe, we are a high-growth, entrepreneurial firm looking for people who want to be part of building something great. Come make your mark. 
+
+Data & Analytics
+
+Accordion's Data & Analytics (D&A) team offers cutting-edge, intelligent solutions to a global clientele, leveraging a blend of domain knowledge, sophisticated technology tools, and deep analytics capabilities to tackle complex business challenges.
+
+We partner with Private Equity clients and their Portfolio Companies across diverse sectors, including Retail, CPG, Healthcare, Media & Entertainment, Technology, and Logistics.
+
+This role can be based in any of our US office locations and is a hybrid role with the flexibility to work remotely 2 days a week. Ideal candidates should be local to the desired location.
+
+This position is not eligible for immigration sponsorship.
+
+Accordion Intelligence Lab
+
+The AI Lab is composed of leading software and AI engineers, designing agentic-AI solutions ahead of the market. Our group builds and operationalizes the AI systems that power Accordion’s consulting capabilities, from agentic architectures and RAG pipelines to evaluation frameworks and production observability.
+
+The Lab works closely with practice leaders to translate research findings into scalable, reliable tools that advance Accordion’s AI-driven value creation work for PE clients and their portfolio companies.
+
+About the Role
+
+This posting covers three levels: Staff Software Engineer, Senior Staff Software Engineer, and Executive Director, Software Engineering. We’re hiring the engineers who set the technical bar for how AI Lab builds — not just shipping an agentic system end-to-end, but deciding how every pod builds agentic systems: which orchestration patterns get reused, what “production-ready” means for an eval framework, and when a client problem needs a genuinely new architecture rather than another RAG pipeline.
+
+You’ll operate at the intersection of hands-on engineering and technical leadership. Expect to spend real time in the code and real time in the room with CFOs and PE operators defending the call you made. This is a highly technical role at every level in this posting — technical depth is the qualifying bar, not a management-track substitute for it. You will be expected to ship fast, defend your decisions, and continuously raise the bar on what AI-assisted delivery looks like.
+
+What You’ll Do
+
+Architect and ship the hardest agentic systems in the portfolio — multi-agent orchestration, RAG pipelines, and evaluation infrastructure for PE-backed portfolio companies
+
+Set technical standards and reusable patterns (orchestration frameworks, structured-output contracts, eval methodology) that other pods adopt across client engagements
+
+Own build-vs-buy and architecture trade-off decisions, and defend them to technical and non-technical audiences, including CFOs and PE operators
+
+Build and evolve the observability and evaluation infrastructure that keeps production AI quality measurable firm-wide, not just pod-by-pod
+
+Mentor and technically develop other engineers through architecture reviews, paired work on hard LLM problems, and code review
+
+Travel to client sites as needed to scope, present, and stand behind the work
+
+At the Senior Staff / Executive Director level: represent AI Lab’s technical point of view in cross-practice and client-executive conversations, and identify where the Lab should build new capability ahead of demand
+
+Success in the First 6 Months
+
+Shipped or materially improved a production agentic system serving a real client engagement
+
+Introduced at least one pattern, tool, or standard that another pod has adopted
+
+Built credibility with client stakeholders and internal leadership as someone who can be handed the hardest, most ambiguous technical problem in the room
+
+Established or improved evaluation infrastructure so regressions are caught before a client sees them
+
+What You’ll Bring
+
+Demonstrated technical ownership of a production agentic AI system with real users or clients — not a notebook, not a demo, not a POC that never shipped
+
+Deep fluency in agentic architecture: multi-agent orchestration, RAG, tool use, structured output, and evaluation/observability, with real opinions on the trade-offs between approaches
+
+Strong Python and TypeScript/React fundamentals, with the judgment to know when a framework is the right call and when it’s just glue code
+
+A track record of translating ambiguous client asks into shipped systems on compressed timelines — ideally in a consulting, professional-services, or boutique AI-consultancy context
+
+Genuine daily use of AI coding tools (Claude Code, Cursor, or equivalent) in your own workflow, with a clear point of view on where they help and where they don’t
+
+Comfort setting technical direction for engineers beyond your immediate team, and defending that direction to skeptical stakeholders
+
+Nice to Have
+
+Finance/PE domain experience: FP&A, GL data, ERP systems (NetSuite, SAP), or portfolio-company operating workflows
+
+Public technical work James and the Lab leadership can review: GitHub, open-source contributions, technical writing
+
+Experience building multi-tenant tools or platforms reused across multiple clients
+
+Prior experience formally mentoring or growing other senior engineers
+
+This is a high-velocity environment. Sprints are short, client expectations are high, and we don’t slow down between engagements. If you’ve spent time in large enterprise engineering organizations where velocity is constrained by process, this will feel different.
+
+The people who thrive here are those who find the pace energizing, not exhausting. They ship fast because they’ve internalized good judgment—not because they cut corners. They set a technical bar for others, use AI tools to multiply their own output, communicate clearly with non-technical stakeholders, and course-correct quickly when something isn’t working.
+
+The annual salary for this role ranges from: $200,000 to $290,000 USD + significant bonus + benefits, spanning all three levels in this posting. Actual compensation packages are determined by evaluating a wide array of factors unique to each candidate, including but not limited to level, geographic location, skill set, years and depth of experience, education, certifications, cost of labor and internal equity.
+
+THIS POSTING IS FOR A CURRENT VACANCY AND THE EMPLOYER INTENDS TO FILL THIS POSITION BY DECEMBER 9, 2026.
+
+Accordion is an Equal Opportunity Employer. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills.  We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical​​​ condition, pregnancy, genetic information, gender, sexual orientation, gender identity or ​expression, veteran status, or any other status protected under federal, state, or local law.
+
+Please note that as per Accordion policy, we do not accept unsolicited resumes from third-party recruiters unless such recruiters are engaged to provide candidates for a specified opening and in alignment with our inclusive diversity values. Any employment agency, person or entity that submits an unsolicited resume does so with the understanding that Accordion will have the right to hire that applicant at its discretion without any fee owed to the submitting employment agency, person or entity.
+
+#LI-NN1

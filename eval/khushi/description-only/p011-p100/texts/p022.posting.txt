@@ -1,0 +1,57 @@
+Senior / Staff Software Engineer, Reference Data Services
+Clear Street
+New York, NY
+
+About Clear Street:
+
+Clear Street’s mission is to give every sophisticated investor access to every asset, in every market, through a unified platform built for speed, transparency and scale.
+
+We give our clients the technology, tools, and service once reserved for the largest institutions, rebuilt with modern infrastructure. Our single, cloud-native, end-to-end capital markets platform powers investor growth today and is transforming how they can interact with markets tomorrow.
+
+For more information, visit https://clearstreet.io.
+
+ 
+
+The Team: 
+
+The FACT team is responsible for several key data products which enable Clear Street’s systems and personnel to operate with confidence and speed. These products include security and pricing master, corporate actions, and streaming market data as well as a number of other key reference datasets. The FACT team takes on the task of collecting inputs from various sources including vendors, public sources, and internal teams and organizing them into cohesive data products which serve as the authoritative source of reference data within the firm.
+
+The services which allow this data to be accessed in a flexible and responsive manner are key to the FACT team delivering these critical datasets throughout the firm. Building these services requires thoughtful API design and the use of strategic caching and robust signaling. The accuracy and timeliness of this data are a fundamental building block of Clear Street’s platform.
+
+ 
+
+FACT Team Stack: Go, gRPC, Python, PostgreSQL, Snowflake, Kafka, Redis, Docker, Kubernetes
+
+ 
+
+The Role: 
+
+As an experienced Software Engineer on the FACT Team, you will work with a team of passionate and highly collaborative engineers to build out our core Platform. You will own the design and implementation of new features and services, turning the complexity of processing financial transactions across various asset classes into highly scalable services. You will tackle non trivial problems that will challenge you to flex your system design muscles, balance trade offs, and implement clean efficient code. As a voice of experience in the team, you will help mentor teammates, evolve our technical standards and best practices, and further our culture of system designs.
+
+ 
+
+Requirements:
+
+You have at least eight (8) years of professional experience implementing highly scalable services (we implement our code in Golang)
+
+You demonstrate confidence in designing and building flexible APIs which enable a microservice architecture to reliably deliver consistent data
+
+You have contributed to systems that deliver solutions to complex business problems that handle massive amounts of data. You are drawn towards scale, distributed systems, and associated technologies.
+
+You have a strong command over object-oriented design patterns, data structures, and algorithms.
+
+You communicate technical ideas with ease and always look to collaborate to deliver high quality products.
+
+Your experience will help you mentor team members, define our engineering standards, and drive a system design approach to building new services.
+
+ 
+
+We Offer:
+
+The Base Salary Range for this role is $200,000 - 250,000. This range is representative of the starting base salaries for this role at Clear Street. Where a candidate falls in this range will be based on job related factors such as relevant experience, skills, and location. This range represents Base Salary only, which is just one element of Clear Street's total compensation. The range stated does not include other factors of total compensation such as bonuses or equity.
+
+At Clear Street, we offer competitive compensation packages, company equity, 401k matching, gender neutral parental leave, and full medical, dental and vision insurance. Our belief has always been that we are better as a business when we are all together in person. As such, we are requiring employees to be in the office 4 days per week. In-office benefits include lunch stipends, fully stocked kitchens, happy hours, a great location, and amazing views.
+
+Our top priority is our people. We’re continuously investing in a culture that promotes collaboration. We help each other through challenges and celebrate each other's successes. We believe that modern workplaces succeed by virtue of having high-performance workforces that are diverse — in ideas, in cultures, and in experiences. We put in the effort to make such a workplace a daily reality and are proud to be an equal opportunity employer.  #LI-Hybrid
+
+#LI-Hybrid

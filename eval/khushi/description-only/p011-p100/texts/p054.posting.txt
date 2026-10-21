@@ -1,0 +1,70 @@
+Senior Staff Software Engineer, Developer Productivity
+Asana
+New York City
+
+We are looking for a Senior Staff Software Engineer to play a key leadership role in our Developer Productivity group and drive developer velocity and fundamentally change the software development lifecycle with AI. The scope spans across the stack including tooling, frameworks, and infrastructure to provide full leverage in the developer experience for every software developer at Asana. Some of the teams’ current work include building out our internal agentic harness, setting up our online/offline developer evals, and increasing the effectiveness of our automated validation loop. The importance and scope of this work has grown significantly in the last year, and we need someone operating at the group level to help sequence and execute it.
+
+This role can be based in our New York or San Francisco offices with an office-centric hybrid schedule. The standard in-office days are Monday, Tuesday, and Thursday. Most Asanas have the option to work from home on Wednesdays. Working from home on Fridays depends on the type of work you do and the teams with which you partner. If you're interviewing for this role, your recruiter will share more about the in-office requirements.
+
+What you’ll achieve
+
+Drive critical developer productivity and AI developer tooling projects that impact 500+ developers at Asana
+
+Partner with the Developer Productivity Group Tech Lead to define technical vision and strategy for 6+ engineering teams, all focused towards improving velocity for Asana engineers
+
+Build and align on the roadmap for Asana's development platform to drive faster development lifecycle feedback loops and uplevel how every Asana engineer ships
+
+Own key outcomes like extending the internal tooling engineers use to delegate work to agents across harnesses
+
+Mentor senior and staff-level engineers in Developer Productivity and across Foundations and the rest of the Engineering organization
+
+Act as a resource for team-level tech leads on topics like longer-term technical planning, design & architecture, and prioritizing tech debt
+
+About you
+
+10+ years of experience working as a technical contributor in large-scale products
+
+2+ years of experience at owning a build system, developer environment, CI or equivalent at an organization of 200+ engineers
+
+Experience making and delegating technical decisions that have org-wide impact
+
+Developed a fluency in current AI developer tooling and have strong enough opinions to collaborate with teams and set direction
+
+Passionate about coaching and mentoring engineers of all experience levels
+
+Deep care for collaboration and an ability to foster an inclusive culture where everyone can bring their full selves to work and thrive
+
+Demonstrates curiosity about AI tools and emerging technologies, with a willingness to learn and leverage them to enhance productivity, collaboration, or decision-making
+
+At Asana, we're committed to building teams that include a variety of backgrounds, perspectives, and skills, as this is critical to helping us achieve our mission. If you're interested in this role and don't meet every listed requirement, we still encourage you to apply.
+
+What we’ll offer
+Our comprehensive compensation package plays a big part in how we recognize you for the impact you have on our path to achieving our mission. We believe that compensation should be reflective of the value you create relative to the market value of your role. To ensure pay is fair and not impacted by biases, we're committed to looking at market value which is why we check ourselves and conduct a yearly pay equity audit.
+
+For this role, the estimated base salary range is between $323,500 - $336,750. The actual base salary will vary based on various factors, including market and individual qualifications objectively assessed during the interview process. The listed range above is a guideline, and the base salary range for this role may be modified.
+
+In addition to base salary, your compensation package may include additional components such as equity, sales incentive pay (for most sales roles), and benefits. If you're interviewing for this role, speak with your recruiter to learn more about the total compensation and benefits for this role.
+
+We strive to provide equitable and competitive benefits packages that support our employees worldwide and include:
+
+Mental health, wellness & fitness benefits
+
+Career coaching & support
+
+Inclusive family building benefits
+
+Long-term savings or retirement plans
+
+In-office culinary options to cater to your dietary preferences 
+
+These are just some of the benefits we offer, and benefits may vary based on role, country, and local regulations. If you're interviewing for this role, speak with your recruiter to learn more about the total compensation and benefits for this role.
+
+#LI-Hybrid
+
+About us
+
+Asana is a leading platform for human + AI collaboration. Millions of teams around the world rely on Asana to achieve their most important goals, faster. Asana has been named to Fortune's Best Workplaces for 7+ years and recognized by Fast Company, Forbes, and Gartner for excellence in workplace culture and innovation. We offer an exceptional office-centric culture while adopting the best elements of hybrid models to ensure that every one of our global team members can work together effortlessly. With 13+ offices all over the world, we are always looking for individuals who care about building technology that drives positive change in the world and a culture where everyone feels that they belong.
+
+We believe in supporting people to do their best work and thrive. Our goal is to ensure that Asana upholds an environment where all people feel that they are respected and valued, whether they are applying for an open position or working at the company. We provide equal employment opportunities to all applicants without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by law.
+
+Join Asana’s Talent Network to stay up to date on job opportunities and life at Asana.

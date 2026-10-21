@@ -1,0 +1,74 @@
+Senior Product Manager — AI Foundry Team
+Prophet
+New York
+
+About MAIA 
+
+MAIA is our next leap in AI, an always-available assistant that amplifies human insight. By integrating directly into our workflows, it turns AI into true Augmented Intelligence, extending our creativity, judgment, and expertise. Built on a multi-agent framework, MAIA connects specialized tools, data sources, and reasoning systems through one interface, so you can do more, think deeper, and deliver sharper outcomes for clients. 
+
+About the Role
+
+The Senior Product Manager for the AI Foundry team will own the execution, delivery, and continuous improvement of MAIA — Prophet’s internal multi-agent AI platform. Working from the strategic direction set by the AI Center of Excellence, you will translate high-level ambition into shipped product capabilities, measurable adoption, and trusted AI experiences. 
+
+This role requires product judgment, technical fluency, delivery discipline, and AI systems thinking. You will partner closely with engineering to evaluate feasibility, shape architecture tradeoffs, define acceptance criteria, and ensure MAIA is reliable enough for real consulting work. You will help determine what should be built, how it should work, and whether it is good enough to ship.
+
+ 
+
+Your Day to Day
+
+Roadmap, Delivery & Team Leadership — Own the product backlog and release cadence from planning through launch. Assess technical feasibility and architecture tradeoffs so leadership can make informed prioritization decisions. Define acceptance criteria grounded in user value, system constraints, and release quality. Lead day-to-day execution of the Foundry product team — unblocking work, setting priorities, and driving momentum through ambiguity. 
+
+Technical Credibility & Engineering Partnership — Maintain hands-on technical involvement — building prototypes, reviewing code, and running experiments. Partner with engineering on specifications, sprint execution, QA, release sign-off, and architecture decisions. Comfort with Python, LLM tooling, agent frameworks, APIs, and data schemas is expected. 
+
+AI Evaluation, Quality & Observability — Define how MAIA capabilities are evaluated before and after launch. Create testing protocols for agent accuracy, hallucination risk, tool use, latency, and reliability. Build benchmark sets, red-team scenarios, regression tests, and release gates. Monitor production performance — failure rates, cost, user drop-off — and translate telemetry and incident data into product fixes and roadmap priorities. 
+
+Experimentation & Technical Tradeoff Analysis — Design and run experiments to test new agent capabilities, benchmark model performance, and translate results into go/no-go recommendations. Evaluate approaches such as RAG, knowledge graphs, agent orchestration, API integration, and model selection against complexity, cost, latency, accuracy, and maintainability. Present clear recommendations with explicit tradeoffs and a bias toward shippable solutions. 
+
+Agent, Workflow & Application Development — Gather high-value use cases from consulting teams and translate them into agent specifications, workflow diagrams, tool requirements, and acceptance tests. Manage the agent lifecycle from prototype through production, including prompt design, testing, monitoring, and deprecation. Support client-facing applications by coordinating feature requirements and contributing to implementation. 
+
+Data, Security & Governance — Work with IT, security, legal, and business stakeholders to ensure MAIA handles enterprise data responsibly. Define requirements for permissions, access control, auditability, and user-facing guardrails. Ensure new capabilities are designed with trust and governance in mind from the start. 
+
+Adoption, Enablement & Value Tracking — Drive adoption across consulting teams by understanding real workflows, shaping onboarding, and creating feedback loops. Define and report metrics for adoption, task completion, time saved, output quality, cost-to-serve, and business impact. Use these insights to prioritize improvements and communicate progress to CoE leadership. 
+
+Stakeholder Communication — Tailor communication to the audience. Prepare technical demos, architecture documentation, release notes, and status updates. Interface with stakeholders across design, engineering, consulting, marketing, IT/security, and external partners. 
+
+Product Sense & UX Quality — Champion the end-user experience. Hold a high bar for UI/UX quality and articulate specifically what’s working, what isn’t, and what you’d change. 
+
+What You Bring
+
+7+ years in product management, with at least 2 years in a technical product environment (AI/ML, platform products, developer tools, enterprise software, or data products). Consulting or consulting-adjacent experience is a strong plus. 
+
+Demonstrated technical ability — can read and write code (Python preferred), navigate APIs, data schemas, and developer environments, and hold your own in engineering discussions. 
+
+Hands-on experience with LLM-based products, agents, or AI workflow tools — including prompt engineering, model evaluation, RAG systems, tool calling, or structured outputs. 
+
+Strong understanding of AI product evaluation — can define quality for probabilistic systems, create test cases, identify hallucination or reasoning failures, and set release criteria. 
+
+Experience with enterprise data and integration patterns — APIs, databases, permissions, authentication, and workflow integrations. 
+
+Operational product discipline — production monitoring, incident triage, QA, release management, and continuous improvement from telemetry and user feedback. 
+
+Proven ability to lead cross-functional teams through ambiguity, remove roadblocks, and hold people accountable without micromanaging. 
+
+Excellent communication — clear specifications, confident presentations to technical and business audiences, message calibrated to the room. 
+
+Experience building or managing internal AI tools, productivity platforms, or workflow automation products. 
+
+Experience with RAG, vector databases, embeddings, knowledge graphs, agent orchestration, or LLM observability tools. 
+
+Experience with secure enterprise environments — SSO, RBAC, audit logs, data privacy, or vendor review. 
+
+Experience in consulting, professional services, or financial services. 
+
+Track record turning prototypes into production products with clear success metrics and adoption plans. 
+
+Familiarity with Python, TypeScript, React, FastAPI, LangChain, LangGraph, LlamaIndex, OpenAI/Anthropic APIs, vector databases, Jira, GitHub, Vercel, Supabase, or similar stacks. 
+
+This is a hybrid role in our New York office and requires being in person 3+ days per week. 
+Salary Range: $165,000-220,000
+
+Applicants who do not complete the qualifying questions will not be considered for this role.
+
+ 
+
+Prophet is an equal opportunity employer. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. All employment, promotion, and evaluation decisions are based on qualifications, merit and business need.

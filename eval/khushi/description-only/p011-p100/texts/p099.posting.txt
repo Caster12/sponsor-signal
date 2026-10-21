@@ -1,0 +1,53 @@
+Investigations Engineer - Hardware IP 
+Keystone
+Boston, New York City, San Francisco, Washington D.C.
+
+Keystone is a premier economics, technology, and strategy consulting firm built to help companies lead through transformation. As breakthrough innovations reshape industries, redefine competition and change our society, complex and highly competitive ecosystems emerge. Keystone advises technology leaders, Fortune 100 companies, their legal counsel, and governments on business, economic, litigation, and regulatory strategy in relation to these innovations and competitive eco-systems. We operate globally from offices in New York City, Boston, San Francisco, Seattle, London, Dubai, and Washington, D.C.
+
+About the Hardware Investigations Engineer Role 
+
+You will collaborate with lawyers, academics, and technology leaders to analyze the functionality of complex technical systems - Including source code, hardware designs, and circuitry, in the context of high-stakes legal and business matters such as patent litigation, trade secret disputes, and mergers and acquisitions. This role offers the opportunity to investigate the inner workings of products developed by the world’s leading technology companies, spanning semiconductors, analog and digital electronics, power systems, signal processing, embedded systems, and more. 
+
+Key Responsibilities
+
+Analyze hardware and software systems and present summary findings to clients
+
+Assess the originality, similarity, and differences between multiple hardware and software systems
+
+Reverse engineer software applications and review semiconductor teardown reports to analyze key features and functionalities
+
+Evaluate the complexity and value of software and hardware developed
+
+Draft documents describing the functionality and behavior of hardware and software systems against legal claims
+
+Develop and productize tools to make analyses more efficient and scalable 
+
+What You’ll Bring 
+
+3-5 years of experience working as a hardware consultant, circuit design engineer, or electrical/software engineer
+
+Skilled in a variety of programming languages, hardware description languages, databases, and embedded system platforms, such as: Java, C++, C, C#, Python, PHP, SQL, MySQL, VHDL, Verilog, and FPGA.
+
+Deep understanding of fundamental concepts in electrical engineering, such as: circuit design and analysis, semiconductor fabrication processes, analog and digital electronics, power systems, signal processing, embedded systems, PCB design, and hardware-software integration
+
+Deep understanding of fundamental concepts in computer science, such as: data structures, architecture design, programming paradigms (object-oriented, functional, declarative), algorithms, distributed computing, concurrency, computational complexity, database systems, networking, compilers
+
+Exceptional written and verbal communication skills
+
+Capacity to work in fast-paced, high-stakes environment
+
+The passion to learn, grow, and help us to improve our business
+
+Bachelor’s degree in Computer Science, Electrical Engineering, or Materials Science; Master’s is a plus 
+
+ 
+
+ 
+
+In addition to annual salary, we provide annual 401k contributions and competitive benefits package. Actual Compensation within the range will depend upon the level the individual is hired into based on their skills, experience, and qualifications.
+
+Annual Salary Range
+
+$135,000—$186,000 USD
+
+At Keystone we believe diversity matters. At every level of our firm, we seek to advance and promote diversity, foster an inclusive culture, and ensure our colleagues have a deep sense of respect and belonging. If you are interested in growing your career with colleagues from varied backgrounds and cultures, consider Keystone.

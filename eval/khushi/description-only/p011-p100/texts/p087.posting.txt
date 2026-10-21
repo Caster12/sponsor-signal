@@ -1,0 +1,110 @@
+AI Engineer | Digital Products & AI
+PA Consulting
+Charlotte, NC, United States
+
+Company Description
+We believe in the power of ingenuity to build a positive human future. As strategies, technologies, and innovation collide, we create opportunity from complexity. Our diverse teams of experts combine innovative thinking and breakthrough technologies to progress further, faster. Our clients adapt and transform, and together we achieve enduring results.
+
+We are over 4,000 strategists, innovators, designers, consultants, digital experts, scientists, engineers, and technologists. And we have deep expertise in consumer and manufacturing, defense and security, energy and utilities, financial services, government and public services, health and life sciences, and transport. 
+
+Our teams operate globally from offices across the UK, Ireland, US, Nordics, and Netherlands.
+
+PA. Bringing Ingenuity to Life
+
+Job Description
+This practice is built for the way enterprise software actually gets made now: small senior pods, AI agents doing much of the build, and outcomes in weeks where traditional delivery approaches took months. We build digital products, AI agents, intelligent workflows and modernized platforms that help organizations operate differently across healthcare and life sciences, manufacturing, energy and utilities, transportation and consumer industries. None of it is pilots or demos. The solutions we build run in production and solve problems that matter to our clients' businesses.
+
+As an AI Engineer, you'll work directly with clients to shape, design and build those solutions. Working alongside Product Strategists and Data Engineers, you'll take products from discovery through deployment, combining technical depth with a practical understanding of what clients need to achieve. On some engagements, we continue to run what we've built, giving you the opportunity to stay close to the product and see the impact of your work long after go-live.
+
+This is a hands-on engineering role. Most of the code here is written by agents. That does not make this a supervision job. It moves the engineering upstream, where strong engineering judgment becomes even more important. You'll write code, review agent-generated outputs, and shape the architecture, controls and acceptance criteria that determine whether a solution succeeds in production. Requirements do not always arrive fully formed, and part of the role is helping define the problem while continuing to move delivery forward.
+
+As part of the Digital Products & AI team, you can expect to:
+
+Architect the elements that determine whether AI solutions succeed in production, including tool selection, memory and context management, guardrail design, and human-in-the-loop controls.
+
+Build and deploy the technical components that power agentic systems, including retrieval pipelines, MCP services and integrations, and the systems that connect AI capabilities to enterprise data and processes.
+
+Modernize platforms and applications around current business needs, rebuilding where necessary rather than simply moving legacy functionality onto newer technology.
+
+Design security and operational resilience into solutions from the start, including access controls, identity management, deployment guardrails, and oversight of automated actions.
+
+Break down complex problems into deliverable components, helping shape scope, sequencing, and implementation approaches that enable rapid delivery.
+
+Create reusable patterns, skills, and tooling that strengthen future engagements and contribute to the growth of the capability.
+
+Qualifications
+You have a track record of designing, building, and delivering complex technology solutions in production environments. While our delivery model may be new to you, we'll bring you up to speed on how we plan, execute, and assure our work.
+
+To be successful, you'll have:
+
+Engineering foundations
+Experience building and operating production software. Client-facing technical delivery experience is expected at senior levels.
+
+Strong software engineering skills, ideally including Python and TypeScript.
+
+Experience designing and delivering cloud-native systems on AWS, Azure, or GCP.
+
+AI engineering
+Hands-on experience building AI applications and agent-based systems in production. Experience with orchestration frameworks such as LangChain, LangGraph, LlamaIndex, or similar technologies, and the judgment to know when an orchestration layer earns its complexity.
+
+Experience building retrieval-enabled systems and working with technologies such as pgvector, Elasticsearch, or OpenSearch, with an understanding of the trade-offs between retrieval quality, latency, and cost.
+
+Enterprise delivery
+Experience integrating applications with enterprise systems, data platforms, APIs, identity providers, and MCP-enabled services.
+
+Strong technical judgment, communication skills, and the ability to navigate ambiguity while working directly with clients and multidisciplinary teams, balancing delivery speed with quality, security, and long-term maintainability.
+
+Ideally, you'll also bring:
+
+Experience delivering solutions within consulting, professional services, or time as a technical founder.
+
+Experience in healthcare and life sciences, manufacturing, energy and utilities, transportation, or consumer industries.
+
+Experience building reusable platforms, tooling, or AI solutions in regulated environments.
+
+Additional Information
+Hybrid working - our approach is to be in the office or on client site a minimum of 2 days per week. However, the actual time you spend and where you spend it will vary by role or assignment, including up to 5 days per week on a client site
+
+Life At PA encompasses our peoples' experience at PA. It's about how we enrich peoples’ working lives by giving them access to unique people and growth opportunities and purpose led meaningful work.
+
+Our purpose guides how we work with our clients and our teams, and support our communities, to deliver insight and impact, solving the world’s most complex challenges. We're focused on building a workplace that values human difference and diverse mindsets, and a culture of inclusion and equality that unlocks the potential in our people so everyone can be their best self.
+
+Find out more about Life at PA here.
+
+We are dedicated to supporting the physical, emotional, social and financial well-being of our people. Check out some of our extensive benefits:
+
+•    Group medical insurance  
+
+•    Health Savings Account with company match  
+
+•    Teladoc and informed Nurse line resources  
+
+•    Long term care plan  
+
+•    Group dental insurance  
+
+•    Vision plan  
+
+•    401(k) Savings Plan with company profit sharing contribution  
+
+•    Commuter and Parking tax-savings benefit  
+
+•    15 days paid vacation days with the opportunity to buy five additional days  
+
+•    10 paid Holidays plus 10 paid sick days  
+
+•    Company and Voluntary income protection benefits  
+
+•    Gym and health incentive reimbursement  
+
+•    Pet and legal insurance Plans  
+
+•    Employee Assistance Plan  
+
+•    Annual performance-based bonus  
+
+We’re committed to advancing equality. We recruit, retain, reward and develop our people based solely on their abilities and contributions and without reference to their age, background, disability, genetic information, parental or family status, religion or belief, race, ethnicity, nationality, sex, sexual orientation, gender identity (or expression), political belief veteran status, or other by any other range of human difference brought about by identity and experience. We welcome applications from underrepresented groups.
+
+Adjustments or accommodations - Should you need any adjustments or accommodations to the recruitment process, at either application or interview, please contact us on recruitmentenquiries@paconsulting.com
+
+#LI-LM1

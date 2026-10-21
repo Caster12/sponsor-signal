@@ -1,0 +1,111 @@
+Senior Customer Engineer - LATAM
+Mixpanel
+Florida, US (Remote)
+
+About Mixpanel
+
+Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what’s working, diagnose what’s not, and decide what to build next. Learn more at mixpanel.com.
+
+About the Customer Engineering Team
+
+Mixpanel's Customer Engineering teams are analytics consultants who embed themselves within our enterprise customer teams to drive business outcomes. We work with prospects and customers throughout the customer journey to understand what drives value, and serve as the technical counterpart to our Sales organisation to deliver on that value.
+
+You will partner closely with Account Executives, Customer Value Architects, Product, Engineering, and Support to successfully roll out self-serve analytics within our customers' organisations, help manage change, execute on technical projects and services that delight our customers, and ultimately drive ROI on the customer's Mixpanel investment.
+
+About the Role
+
+Our Customer Engineers are inquisitive, nimble, and able to clearly articulate the technical benefits and requirements of Mixpanel to developers and product managers, while also communicating the business value of our product to senior executives.
+
+In your first month, you'll become a Mixpanel expert—both in features and functionality as well as implementation. You'll shadow customer calls and demos with current Customer Engineers and Account Executives while learning to articulate our value proposition, and be trained on Mixpanel's internal systems and tools.
+
+Within your first three months, you'll be directly involved in deal cycles with Account Executives. You'll lead the technical qualification for customer use cases and deliver customised demos for prospects and existing customers, working directly with leadership at the prospect's organisation to understand business challenges that can be solved through an analytics platform.
+
+You'll also work with the prospect's business and technical teams to scope and execute proof-of-concept projects to establish Mixpanel's value—including consulting on data ingestion methods, overall architecture, success criteria, and rollout strategies for analytics tools across an organisation.
+
+Responsibilities
+
+Serve as a trusted technical advisor for prospects, providing strategic consultation on data architecture, governance, instrumentation, and business outcomes
+
+Communicate and consult effectively at all levels of the customer's organisation to earn trust and influence buying decisions
+
+Bridge the technical-business gap—working with senior stakeholders to define success for proofs-of-concept and ensuring successful execution and outcomes
+
+Leverage your Mixpanel expertise and technical/consultative skills to impart best practices throughout proof-of-concept projects
+
+Partner with Account Executives to drive revenue growth, serving as the key technical contact for customers
+
+Partner with post-sales teams to ensure that pre-sales value propositions translate into tangible post-sales results
+
+Develop relationships and uncover the needs of key technical stakeholders within your assigned book of business
+
+Be the "Voice of the Prospect" by collecting feedback from potential Mixpanel customers and sharing it with the Product team
+
+We're Looking For Someone Who Has
+
+Fluency in business and conversational Spanish and English.
+
+The ability to communicate with stakeholders at all levels—from discussing APIs with developers to organisational efficiency with CIOs.
+
+A demonstrated track record of qualifying and selling technical solutions to executive stakeholders
+
+6+ years of experience in a Software-as-a-Service Sales Engineering or related role
+
+Experience in data querying, modelling, and transformation using tools such as SQL, dbt, Python, Business Intelligence platforms, or Product Analytics tools
+
+Familiarity with databases and cloud data warehouses (e.g., Google Cloud, Amazon Redshift, Microsoft Azure, Snowflake, Databricks)
+
+A successful record of experience in sales engineering, consulting, or technical project management
+
+Excellent written, analytical, communication, and presentation skills
+
+Strong process and project delivery discipline
+
+Proficiency with AI tools such as Claude, Claude Code, Gemini
+
+The ability to travel as needed
+
+Bonus Points For
+
+Experience with value engineering frameworks: translating customer pain into quantified business outcomes, building ROI calculators, and leading executive-level value conversations tied to measurable KPIs
+
+Exposure to product-led growth (PLG) environments and sales-assisted conversion motions
+
+Background in high-growth SaaS environments (Series B–E or beyond)
+
+#LI-Remote
+
+Benefits and Perks
+
+Comprehensive Medical, Vision, and Dental Care
+
+Mental Wellness Benefit
+
+Generous Vacation Policy & Additional Company Holidays
+
+Enhanced Parental Leave
+
+Volunteer Time Off
+
+Additional US Benefits: Pre-Tax Benefits including 401(K), Wellness Benefit, Holiday Break
+
+*please note that benefits and perks for contract positions will vary*
+
+Culture Values
+
+Make Bold Bets: We choose courageous action over comfortable progress.
+
+Innovate with Insight: We tackle decisions with rigor and judgment - combining data, experience and collective wisdom to drive powerful outcomes.
+
+One Team: We collaborate across boundaries to achieve far greater impact than any of us could accomplish alone.
+
+Candor with Connection: We build meaningful relationships that enable honest feedback and direct conversations.
+
+Champion the Customer: We seek to deeply understand our customers’ needs, ensuring their success is our north star.
+
+Powerful Simplicity: We find elegant solutions to complex problems, making sophisticated things accessible.
+
+Why choose Mixpanel?
+
+We’re a leader in analytics with over 29,000 customers and $277M invested from prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most recently, Bain Capital. Mixpanel’s pioneering event-based data analytics platform offers a powerful yet simple solution for companies to understand user behaviors and easily track overarching company success metrics. Our accomplished teams continuously facilitate our expansion by tackling the ever-evolving challenges tied to scaling, reliability, design, and service. Choosing to work at Mixpanel means you’ll be helping the world’s most innovative companies learn from their data so they can make better decisions.
+
+Mixpanel is an equal opportunity employer supporting workforce diversity. At Mixpanel, we are focused on things that really matter—our people, our customers, our partners—out of a recognition that those relationships are the most valuable assets we have. We actively encourage women, people with disabilities, veterans, underrepresented minorities, and LGBTQ+ people to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance or other similar laws that may be applicable, we will consider for employment qualified applicants with arrest and conviction records. We’ve immersed ourselves in our Culture and Values as our guiding principles for the impact we want to have and the future we are building.

@@ -1,0 +1,35 @@
+Linux Engineer
+Jane Street
+New York, New York, United States
+
+About the Position
+
+Linux Engineers work with the critical infrastructure underlying the rest of the firm’s technology. Members of this group are hard-working Systems Engineers, Administrators and Programmers, tasked with maintaining and improving the platform that powers Jane Street's production trading systems. Our mix of in-house and open source software allows you to investigate and innovate at every level. On any given day, you could be debugging kernel performance, developing management tools, or resolving production issues in real time. Diving into tricky systems problems is our specialty.
+
+Deployment automation, scalable configuration management, and obsessive monitoring are the focus of some of our ongoing projects. We automate as much of our work as we can, but not because we are lazy. We find that automation reduces our error rate and overall workload - plus, we think it's fun.
+
+Working in our group provides opportunities for involvement with almost every other facet of the company. We work directly with colleagues in Trading, Technology, and Operations to build and maintain systems with a firm-wide scope. Using feedback from other groups and our custom monitoring tools, we strive to resolve production issues quickly, perform comprehensive root-cause analyses, and integrate long-term fixes in a clean and robust way.
+
+About You
+
+We are looking to hire Systems Programmers and Administrators with a deep knowledge of Unix internals and the Linux ecosystem. Candidates should have a willingness to learn OCaml, our language of choice, and meet the following requirements:
+
+Bachelor's degree in Computer Science, Software Engineering or other technical discipline (or equivalent experience)
+
+Clear and concise communication skills, as well as the ability to efficiently analyze and deconstruct technical problems
+
+Deep knowledge of operating system fundamentals, especially Linux
+
+Fluency with the Unix command line and shell scripting
+
+Practical experience with modern Linux systems and systems programming concepts like C, sockets, virtual memory, and the process life cycle
+
+Basic understanding of network protocols
+
+Strong troubleshooting skills and knowledge of profiling/debugging tools such as gdb, perf, DTrace, eBPF, or SystemTap
+
+Programming experience in any language (functional languages a plus)
+
+ 
+
+If you're a recruiting agency and want to partner with us, please reach out to agency-partnerships@janestreet.com.

@@ -1,0 +1,113 @@
+Principal AI Architect
+Rubrik Job Board
+Palo Alto, CA
+
+About the role:
+
+At Rubrik IT, we are transforming how the enterprise thinks and operates — building a "thinking enterprise" where intelligent, agentic systems reason across our data, tools, and workflows to drive speed, quality, and measurable business impact. As an AI Architect, you will be a pivotal technical leader driving AI Native solutions that make this vision real.
+
+You will operate where AI innovation, top-tier engineering, and business outcomes converge, acting as the technical bridge between complex business problems and cutting-edge AI execution. Leveraging our robust Enterprise AI Platform, you will translate ambiguous problems into concrete AI solution designs and ensure their successful deployment and measurable impact.
+
+This role is designed for systems-thinkers and orchestrators with an AI-first mindset — leaders who move fluidly between hands-on building  AI  solutions, and who know how to harness model APIs, data sources, and workflow layers to build practical technology that serves the business.
+
+What you'll do:
+
+Lead applied AI solution design and architecture, breaking down ambiguous business problems into concrete, actionable AI solution designs.
+
+Contribute to the detailed design of large-scale, distributed AI/ML systems, ensuring performance, reliability, and security.
+
+Design and improve retrieval, prompting, tool-calling, and orchestration patterns for internal use cases such as knowledge assistants, workflow automation, and decision support.
+
+Champion and enforce design standards, patterns, and best practices for scalable and secure development of AI applications across teams.
+
+Drive the hands-on development and implementation of key AI components, supporting both traditional and Generative AI model development and deployment.
+
+Build and deploy AI-enabled internal workflows that connect enterprise systems, data sources, model APIs, and automation layers.
+
+Leverage AI-assisted development to accelerate implementation, bringing a strong 'editor' mindset to ruthlessly audit, review, and secure AI-generated code against our standards for reliability, security, observability, and documentation.
+
+Lead the implementation and continuous improvement of MLOps pipelines, including automated model training, versioning, deployment, and monitoring.
+
+Develop and maintain evaluation approaches for output quality, retrieval accuracy, latency, and failure modes, and use findings to improve system performance over time.
+
+Help identify where human review, controls, and escalation paths are required to support responsible deployment of AI-enabled systems.
+
+Apply sound engineering judgment to balance speed, usability, risk, and maintainability in production and near-production environments.
+
+Proactively collaborate with executive leadership, data science, engineering, and product stakeholders to translate business use-cases into scalable AI solutions.
+
+Lead rigorous problem formulation by partnering with R&D,, Security, Data, HR, Finance, and business stakeholders — ensuring we apply AI to the right problems before translating needs into scalable technical solutions.
+
+Provide technical leadership and mentorship to other AI/ML engineers, fostering a culture of engineering excellence and hands-on experimentation.
+
+Contribute reusable components, playbooks, and patterns that reduce duplicate effort and improve speed across the engineering environment.
+
+Technical architecture and AI implementations directly to measurable business outcomes, recognizing that technology serves the business.
+
+Actively research and evaluate cutting-edge AI/ML techniques, algorithms, and models to identify opportunities for platform enhancement and new solution development.
+
+Experience you'll need:
+
+10+ years of core Software/Systems Engineering architecture experience, including 4+ years dedicated to building and deploying applied AI/ML systems in production.
+
+Bachelor’s degree in Computer Science, Engineering, or a related field (Master’s/Ph.D. is a plus).
+
+Direct hands-on experience with Generative AI technologies, including LLMs, Retrieval-Augmented Generation (RAG), context graphs, memory management, and agentic AI architectures.
+
+Strong programming skills in Python, Java, or Go. Deep proficiency with GenAI orchestration frameworks (e.g., LangGraph, LlamaIndex, AutoGen, Semantic Kernel) and a working knowledge of traditional ML frameworks (e.g., PyTorch, TensorFlow).
+
+Extensive hands-on experience with the modern AI data ecosystem, including Vector Databases (e.g., Pinecone, Weaviate) and Graph Databases (e.g., Neo4j).
+
+Experience with distributed systems architecture, event-driven streaming platforms, and cloud AI/ML platforms (e.g., GCP Vertex AI, AWS SageMaker, Azure OpenAI).
+
+Strong ability to work across data, model, application, and infrastructure layers, operating effectively with incomplete information and ambiguous problems.
+
+Experience integrating applications, data sources, or internal platforms through APIs, services, event-driven patterns, or workflow tools.
+
+Deep understanding of security principles as they apply to AI systems (e.g., prompt injection, data exfiltration, RBAC). Experience in enterprise-scale environments with meaningful privacy or compliance constraints.
+
+Experience with telemetry, tracing, and production monitoring for AI systems (e.g., LangSmith, Phoenix, Datadog).
+
+Experience contributing to open-source AI projects, publications, or active participation in the AI engineering community.
+
+Evidence of applied AI building — GitHub contributions, technical writing, demos, or open-source work demonstrating curiosity for emerging AI tooling.
+
+Prior experience in a  solutions architecture, successfully bridging technical teams and senior business stakeholders.
+
+ 
+
+The minimum and maximum base salaries for this role are posted below; additionally, the role is eligible for bonus potential, equity and benefits. The range displayed reflects the minimum and maximum target for new hire salaries for the role based on U.S. location. Within the range, the salary offered will be determined by work location and additional factors, including job-related skills, experience, and relevant education or training.
+
+US Pay Range
+
+$254,300—$356,300 USD
+
+Join Us in Securing and Accelerating the World's AI Transformation
+
+Rubrik (RBRK), the Security and AI Operations Company, leads at the intersection of data protection, cyber resilience, and enterprise AI acceleration. Rubrik Security Cloud delivers complete cyber resilience by securing, monitoring, and recovering data, identities, and workloads across clouds. Rubrik Agent Cloud accelerates trusted AI agent deployments at scale by monitoring and auditing agentic actions, enforcing real-time guardrails, fine-tuning for accuracy and undoing agentic mistakes. 
+
+Linkedin | X (formerly Twitter) | Instagram | Rubrik.com
+
+Inclusion @ Rubrik
+
+At Rubrik, we are dedicated to fostering a culture where people from all backgrounds are valued, feel they belong, and believe they can succeed. Our commitment to inclusion is at the heart of our mission to secure the world’s data.
+
+Our goal is to hire and promote the best talent, regardless of background. We continually review our hiring practices to ensure fairness and strive to create an environment where every employee has equal access to opportunities for growth and excellence. We believe in empowering everyone to bring their authentic selves to work and achieve their fullest potential.
+
+Our inclusion strategy focuses on three core areas of our business and culture:
+
+Our Company: We are committed to building a merit-based organization that offers equal access to growth and success for all employees globally. Your potential is limitless here.
+
+Our Culture: We strive to create an inclusive atmosphere where individuals from all backgrounds feel a strong sense of belonging, can thrive, and do their best work. Your contributions help us innovate and break boundaries.
+
+Our Communities: We are dedicated to expanding our engagement with the communities we operate in, creating opportunities for underrepresented talent and driving greater innovation for our clients. Your impact extends beyond Rubrik, contributing to safer and stronger communities.
+
+Equal Opportunity Employer/Veterans/Disabled
+
+Rubrik is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, protected veteran status, or any other status protected by applicable law. Rubrik provides equal employment opportunities to employees and applicants in all terms and conditions of employment, including recruiting, hiring, promotion, compensation, training, leave, and termination.
+
+Rubrik provides reasonable accommodations to qualified applicants and employees with disabilities in accordance with applicable law. If you need an accommodation to participate in the application process or to perform your job, please contact hr@rubrik.com. Accommodations may include changes to the application process, documents in an alternate format, a sign language interpreter, or specialized equipment.
+
+EEO IS THE LAW
+
+NOTIFICATION OF EMPLOYEE RIGHTS UNDER FEDERAL LABOR LAWS
