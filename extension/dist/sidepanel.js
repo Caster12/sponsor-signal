@@ -37613,7 +37613,11 @@ ${postingText}
     $("banner").dataset.label = card.label;
     $("banner-icon").textContent = LABEL_ICON[card.label] || "";
     $("label").textContent = card.labelText;
-    $("confidence").textContent = `Confidence ${card.confidence}%`;
+    const confident = card.confidence >= CONFIDENCE_FLAG_BELOW;
+    $("confidence").textContent = `Confidence ${card.confidence}% \xB7 ${confident ? "confident" : "check with recruiter"}`;
+    $("conf-meter").setAttribute("aria-valuenow", card.confidence);
+    $("conf-meter").dataset.zone = confident ? "high" : "low";
+    $("conf-fill").style.width = `${card.confidence}%`;
     $("quote").textContent = card.quoteText;
     showOptional("nudge", card.nudge);
     showOptional("guard", card.guard);

@@ -1,6 +1,6 @@
 // Side panel: runs Classify, Extract and Match on the captured text and renders the card.
 import Anthropic from "@anthropic-ai/sdk";
-import { buildCard } from "../../src/card.js";
+import { buildCard, CONFIDENCE_FLAG_BELOW } from "../../src/card.js";
 import { classifyPosting } from "../../src/classify.js";
 import { matchHistory } from "../../src/match.js";
 
@@ -56,7 +56,11 @@ function render(card) {
   $("banner").dataset.label = card.label;
   $("banner-icon").textContent = LABEL_ICON[card.label] || "";
   $("label").textContent = card.labelText;
-  $("confidence").textContent = `Confidence ${card.confidence}%`;
+  const confident = card.confidence >= CONFIDENCE_FLAG_BELOW;
+  $("confidence").textContent = `Confidence ${card.confidence}% · ${confident ? "confident" : "check with recruiter"}`;
+  $("conf-meter").setAttribute("aria-valuenow", card.confidence);
+  $("conf-meter").dataset.zone = confident ? "high" : "low";
+  $("conf-fill").style.width = `${card.confidence}%`;
   $("quote").textContent = card.quoteText;
   showOptional("nudge", card.nudge);
   showOptional("guard", card.guard);
