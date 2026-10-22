@@ -37394,6 +37394,8 @@ Do not break ties toward any label. When the wording does not settle the questio
 
 Judge only the posting text. Do not use what you know about the employer's general sponsorship practice. Boilerplate equal-opportunity statements and E-Verify notices are not sponsorship language.
 
+Application-form questions addressed to the candidate are not the employer's statement and never decide the label. Pages often include the application form after the description, with questions such as "Will you now or in the future require sponsorship?", "Are you legally authorized to work in the country where the job is located?", or a checkbox like "I am legally authorized to work in the United States." Ignore them, and never quote them. If the only sponsorship or work-authorization wording on the page is in such questions, the label is silent.
+
 Set explicitly_excludes_sponsorship to true whenever the posting contains a statement that sponsorship is not available, and requires_citizenship_or_clearance to true whenever it requires citizenship, U.S. person status, or a clearance. Set these independently of the label.
 
 The quote must be copied character for character from the posting, one contiguous passage, as short as carries the meaning. Code will check that it appears in the posting.`;
@@ -37611,7 +37613,11 @@ ${postingText}
     $("banner").dataset.label = card.label;
     $("banner-icon").textContent = LABEL_ICON[card.label] || "";
     $("label").textContent = card.labelText;
-    $("confidence").textContent = `Confidence ${card.confidence}%`;
+    const confident = card.confidence >= CONFIDENCE_FLAG_BELOW;
+    $("confidence").textContent = `Confidence ${card.confidence}% \xB7 ${confident ? "confident" : "check with recruiter"}`;
+    $("conf-meter").setAttribute("aria-valuenow", card.confidence);
+    $("conf-meter").dataset.zone = confident ? "high" : "low";
+    $("conf-fill").style.width = `${card.confidence}%`;
     $("quote").textContent = card.quoteText;
     showOptional("nudge", card.nudge);
     showOptional("guard", card.guard);
@@ -37690,15 +37696,35 @@ ${postingText}
     if (capture && Date.now() - capture.at < 15e3) onCapture(capture);
   });
   $("paste-go").addEventListener("click", () => check2($("paste-text").value));
+  document.querySelectorAll(".open-info").forEach(
+    (el) => el.addEventListener("click", (e) => {
+      e.preventDefault();
+      $("info").showModal();
+      $(el.dataset.section)?.scrollIntoView({ block: "start" });
+    })
+  );
+  $("info-close").addEventListener("click", () => $("info").close());
+  $("info").addEventListener("click", (e) => {
+    if (e.target === $("info")) $("info").close();
+  });
   var ORIGINS = ["http://*/*", "https://*/*"];
   var JOB_WORDS = /\b(responsibilities|qualifications|requirements|job description|about the role|about the job|what you['’]ll do|apply now|apply for this job|equal opportunity|years of experience|benefits)\b/gi;
   var autoTimer;
   var autoToken = 0;
   var inflightUrl = "";
   function readPage() {
+    const withoutForms = (root) => {
+      let text = root.innerText;
+      for (const form of root.querySelectorAll("form, [role=form]")) {
+        if (form.contains(root) || form.querySelector("h1")) continue;
+        const part = form.innerText.trim();
+        if (part) text = text.replace(part, "");
+      }
+      return text.trim();
+    };
     const pick2 = document.querySelector("main, [role=main], article");
-    const main = pick2 ? pick2.innerText.trim() : "";
-    return main.length >= 400 ? main : document.body.innerText.trim();
+    const main = pick2 ? withoutForms(pick2) : "";
+    return main.length >= 400 ? main : withoutForms(document.body);
   }
   function looksLikeJobPosting(text) {
     const hits = new Set((text.match(JOB_WORDS) || []).map((w) => w.toLowerCase()));

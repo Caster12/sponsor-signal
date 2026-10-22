@@ -1,6 +1,6 @@
 // Side panel: runs Classify, Extract and Match on the captured text and renders the card.
 import Anthropic from "@anthropic-ai/sdk";
-import { buildCard } from "../../src/card.js";
+import { buildCard, CONFIDENCE_FLAG_BELOW } from "../../src/card.js";
 import { classifyPosting } from "../../src/classify.js";
 import { matchHistory } from "../../src/match.js";
 
@@ -56,7 +56,11 @@ function render(card) {
   $("banner").dataset.label = card.label;
   $("banner-icon").textContent = LABEL_ICON[card.label] || "";
   $("label").textContent = card.labelText;
-  $("confidence").textContent = `Confidence ${card.confidence}%`;
+  const confident = card.confidence >= CONFIDENCE_FLAG_BELOW;
+  $("confidence").textContent = `Confidence ${card.confidence}% · ${confident ? "confident" : "check with recruiter"}`;
+  $("conf-meter").setAttribute("aria-valuenow", card.confidence);
+  $("conf-meter").dataset.zone = confident ? "high" : "low";
+  $("conf-fill").style.width = `${card.confidence}%`;
   $("quote").textContent = card.quoteText;
   showOptional("nudge", card.nudge);
   showOptional("guard", card.guard);
@@ -144,6 +148,20 @@ chrome.storage.session.get("capture").then(({ capture }) => {
 
 $("paste-go").addEventListener("click", () => check($("paste-text").value));
 
+// Info popup: explains each part of the card and links the record sources.
+document.querySelectorAll(".open-info").forEach((el) =>
+  el.addEventListener("click", (e) => {
+    e.preventDefault();
+    $("info").showModal();
+    $(el.dataset.section)?.scrollIntoView({ block: "start" });
+  }),
+);
+$("info-close").addEventListener("click", () => $("info").close());
+// A click on the backdrop (outside the dialog box) closes it too.
+$("info").addEventListener("click", (e) => {
+  if (e.target === $("info")) $("info").close();
+});
+
 // Auto-check on tab switch. Off by default: it needs permission to read pages without a toolbar click.
 const ORIGINS = ["http://*/*", "https://*/*"];
 const JOB_WORDS =
@@ -154,9 +172,18 @@ let inflightUrl = "";
 
 // Same logic as readPage in background.js; this copy runs when no toolbar click happened.
 function readPage() {
+  const withoutForms = (root) => {
+    let text = root.innerText;
+    for (const form of root.querySelectorAll("form, [role=form]")) {
+      if (form.contains(root) || form.querySelector("h1")) continue;
+      const part = form.innerText.trim();
+      if (part) text = text.replace(part, "");
+    }
+    return text.trim();
+  };
   const pick = document.querySelector("main, [role=main], article");
-  const main = pick ? pick.innerText.trim() : "";
-  return main.length >= 400 ? main : document.body.innerText.trim();
+  const main = pick ? withoutForms(pick) : "";
+  return main.length >= 400 ? main : withoutForms(document.body);
 }
 
 // Page text goes to the API only when it reads like a job posting, so a tab switch never sends email, banking, etc.
