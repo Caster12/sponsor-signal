@@ -1,0 +1,238 @@
+{"id":"p003","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi","industry":"tech","sample_arm":"natural"}
+{"id":"p004","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi","industry":"consulting","sample_arm":"natural"}
+{"id":"p005","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi","industry":"consulting","sample_arm":"natural"}
+{"id":"p006","label":"sponsors","quote":"Limited immigration sponsorship may be available.","seen_model_output":false,"set":"eval/khushi","industry":"consulting","sample_arm":"natural"}
+{"id":"p007","label":"does_not_sponsor","quote":"Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.","seen_model_output":false,"set":"eval/khushi","industry":"consulting","sample_arm":"natural"}
+{"id":"p008","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi","industry":"consulting","sample_arm":"natural"}
+{"id":"p009","label":"does_not_sponsor","quote":"This position is not eligible for visa sponsorship.","seen_model_output":false,"set":"eval/khushi","industry":"consulting","sample_arm":"natural"}
+{"id":"p010","label":"does_not_sponsor","quote":"This position requires that the candidate to be a US citizen.","seen_model_output":false,"set":"eval/khushi","industry":"tech","sample_arm":"natural"}
+{"id":"p011","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p012","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p013","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p014","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p015","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p016","label":"does_not_sponsor","quote":"Figure will not sponsor work visas for this position.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p017","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p018","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p019","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p020","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p021","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p022","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p023","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p024","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p025","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p026","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p027","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p028","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p029","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p030","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p031","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p032","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p033","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p034","label":"does_not_sponsor","quote":"Please note that visa sponsorship is not available for this position.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p035","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p036","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p037","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p038","label":"does_not_sponsor","quote":"Figure will not sponsor work visas for this position.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p039","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p040","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p041","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p042","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"finance","sample_arm":"natural"}
+{"id":"p043","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p044","label":"does_not_sponsor","quote":"Because this role supports our Public Sector customer base, the candidate must be a US citizen.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p045","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p046","label":"unclear","quote":"If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p047","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p048","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p049","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p050","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p051","label":"unclear","quote":"If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p052","label":"unclear","quote":"Proof of eligibility to work in the United States is required.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p053","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p054","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p055","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p056","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p057","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p058","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p059","label":"unclear","quote":"If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p060","label":"unclear","quote":"All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p061","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p062","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p063","label":"unclear","quote":"If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p064","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p065","label":"unclear","quote":"Proof of eligibility to work in the United States is required.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p066","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p067","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p068","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p069","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p070","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p071","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p072","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"tech","sample_arm":"natural"}
+{"id":"p073","label":"does_not_sponsor","quote":"At this time, CapTech cannot transfer nor sponsor a work visa for this position.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p074","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p075","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p076","label":"does_not_sponsor","quote":"This position is not eligible for immigration sponsorship.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p077","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p078","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of an employment Visa at this time.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p079","label":"does_not_sponsor","quote":"This role does not offer sponsorship, visa transfers, or C2C arrangements now or at anytime in the future.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p080","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p081","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p082","label":"does_not_sponsor","quote":"Candidates must be legally authorized to work in the country of employment without employer sponsorship.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p083","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p084","label":"does_not_sponsor","quote":"At this time, CapTech cannot transfer nor sponsor a work visa for this position.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p085","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p086","label":"does_not_sponsor","quote":"This position is not eligible for immigration sponsorship.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p087","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p088","label":"does_not_sponsor","quote":"This position is not eligible for employment visa sponsorship now or in the future.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p089","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p090","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of an employment Visa at this time.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p091","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p092","label":"does_not_sponsor","quote":"Candidates must be legally authorized to work in the country of employment without employer sponsorship.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p093","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p094","label":"does_not_sponsor","quote":"At this time, CapTech cannot transfer nor sponsor a work visa for this position.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p095","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p096","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p097","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of an employment Visa at this time.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p098","label":"does_not_sponsor","quote":"This position is not eligible for immigration sponsorship.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p099","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"p100","label":"does_not_sponsor","quote":"This position is not eligible for employment visa sponsorship now or in the future.","seen_model_output":false,"set":"eval/khushi/description-only/p011-p100","industry":"consulting","sample_arm":"natural"}
+{"id":"v001","label":"sponsors","quote":"Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v002","label":"sponsors","quote":"Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v003","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v004","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v005","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v006","label":"does_not_sponsor","quote":"Must be authorized to work in the U.S. on a full-time basis without sponsorship now or in the future. The Company cannot offer employment to visa holders who require employer sponsorship in the future or cannot work now on a full-time basis.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v007","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v008","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v009","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v010","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v011","label":"does_not_sponsor","quote":"Applicants for this position must be legally authorized to work in the United States without employer sponsorship, now or in the future.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v012","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v013","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v014","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v015","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v016","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v017","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v018","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v019","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v020","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v021","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v022","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v023","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v024","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v025","label":"sponsors","quote":"We do sponsor visas!","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v026","label":"sponsors","quote":"We do sponsor visas!","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v027","label":"sponsors","quote":"We do sponsor visas!","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v028","label":"sponsors","quote":"We do sponsor and take over sponsorship of employment visas for this role.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v029","label":"sponsors","quote":"We do sponsor and take over sponsorship of employment visas for this role.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v030","label":"sponsors","quote":"We do sponsor and take over sponsorship of employment visas for this role.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v031","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of H-1B visas at this time.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v032","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of H-1B visas at this time.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v033","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of H-1B visas at this time.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v034","label":"does_not_sponsor","quote":"we are unable to sponsor or take over sponsorship of an employment visa at this time.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v035","label":"does_not_sponsor","quote":"we are unable to sponsor or take over sponsorship of an employment visa at this time.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v036","label":"does_not_sponsor","quote":"we are unable to sponsor or take over sponsorship of an employment visa at this time.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v037","label":"does_not_sponsor","quote":"Candidates must be legally authorized to work in the United States without employer sponsorship now or in the future.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v038","label":"does_not_sponsor","quote":"Candidates must be legally authorized to work in the United States without employer sponsorship now or in the future.","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v039","label":"does_not_sponsor","quote":"Please note that visa sponsorship is not available for this position.","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v040","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v041","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v042","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v043","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v044","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v045","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v046","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v047","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v048","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v049","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v050","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v051","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v052","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v053","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v054","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v055","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v056","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v057","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v058","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v059","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v060","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v061","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v062","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v063","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v064","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v065","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v066","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v067","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v068","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v069","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v070","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v071","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v072","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v073","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v074","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v075","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v076","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v077","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v078","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v079","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v080","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v081","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v082","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v083","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v084","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v085","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v086","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v087","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v088","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v089","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v090","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v091","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v092","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v093","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v094","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v095","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"finance","sample_arm":"natural"}
+{"id":"v096","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v097","label":"does_not_sponsor","quote":"Legally authorized to work for any company in the United States without sponsorship","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v098","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v099","label":"does_not_sponsor","quote":"Must  be eligible to work in the United States  without sponsorship, now or in the future","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v100","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v101","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v102","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of employment Visa at this time.","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v103","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v104","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v105","label":"does_not_sponsor","quote":"At this time, we cannot sponsor applicants for work visas.","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v106","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v107","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v108","label":"does_not_sponsor","quote":"Legally authorized to work for any company in the United States without sponsorship","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v109","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v110","label":"does_not_sponsor","quote":"Must  be eligible to work in the United States  without sponsorship, now or in the future","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v111","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v112","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v113","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of employment Visa at this time.","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v114","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v115","label":"does_not_sponsor","quote":"At this time, we cannot sponsor applicants for work visas","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v116","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v117","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v118","label":"does_not_sponsor","quote":"Legally authorized to work for any company in the United States without sponsorship","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v119","label":"does_not_sponsor","quote":"Must  be eligible to work in the United States  without sponsorship, now or in the future","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v120","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v121","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v122","label":"does_not_sponsor","quote":"We are unable to sponsor or take over sponsorship of employment Visa at this time.","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v123","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"consulting","sample_arm":"natural"}
+{"id":"v124","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v125","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v126","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v127","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v128","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v129","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v130","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v131","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v132","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v133","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v134","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v135","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v136","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v137","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v138","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v139","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
+{"id":"v140","label":"silent","quote":"no sponsorship language found","seen_model_output":false,"set":"eval/vishal","industry":"tech","sample_arm":"natural"}
