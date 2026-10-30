@@ -35,7 +35,9 @@ npm install
 npm run build          # bundles the side panel into extension/dist/
 ```
 
-Build the records index (about 1 GB of downloads, several minutes):
+The built side panel (`extension/dist/`) and the records index (`extension/data/`) are already committed, so you can skip straight to loading the extension below. The `npm run build` step is only needed after you change the source.
+
+Optional, only to rebuild the records index from the Labor Department files (about 1 GB of downloads, several minutes):
 
 ```sh
 LCA_CONTACT_EMAIL=you@example.edu python3 scripts/download_lca.py   # dol.gov requires a contact email
